@@ -1,0 +1,1282 @@
+infinitive,normalized_string,pos,skill,related_lexemes,skill_url_title,gender,lexeme_id,word_string
+,fahrkarte,Noun,Travel,['2800c5e5751d1b845572aae91d46ca2a'],Travel,Feminine,a3d1e3d990ceccae658bd546cb0d3dbd,fahrkarte
+,zug,Noun,Travel,[],Travel,Masculine,5525686c95c8a7a1088e596e5ab77f3d,zug
+stornieren,stornieren,Verb,Travel,[],Travel,,0b55c66017430d488ef307f89e08955c,stornieren
+können,konnen,Verb,Travel,[],Travel,,49e83981d692927429da0cf16764ffae,können
+,wo,Adverb,Basics 2,[],Basics-2,,502eeda38c2cb2bf45cf34b628fa816d,wo
+leben,lebt,Verb,People,"['ef2af977cdd739cd564c823939be133c', '0b9411ae6857492b07ec49072758d166', '97835524101a0fb4c27964e2fffd3a62']",People,,bbd2e8180f24f6cbb6abe5d51542a1c7,lebt
+,zehn,Numeral,Market,[],Market,,b094644d925de5af5beac06ec57c4d76,zehn
+,ice,Noun,Travel,[],Travel,Masculine,db1f3e1bbd904373698dd33c03b147ef,ice
+,zurich,Proper noun,People,[],People,Neuter,627f8776578ec4ef15697e6c73a01ffa,zürich
+,zwei,Numeral,Market,[],Market,,33802bfac5337846883ab57e349ec498,zwei
+,im,Preposition,Weather,[],Weather,,2c110dd735249825cee396cfd9cb36cd,im
+sein,ist,Verb,Family,"['ab6750aee2f31d980e3b5f9f9ecea02b', 'ea162697009a9c78b38033a3fc8eb40f', '9aac75af6c4763cfe75d16b87cc10604', '57e8aed4c315b289686064c402adcbc9', '6b1c28621e623451322c32fc2aa7459d', '4fdaa498ad844fc4c7adf7ddac542751', '713d30d6c7922e90eefdb989d4d9ad56', '0b59f6cdecb914ed8e713bbbab6a7924', '71f5612281d1ecd419cfbe7ae49aaed3', 'df0b0165dae55e3bd922a746d9072e9d', '7b563f860cd0b0f43adf0a79e0188bcb']",Family,,2ac4ffe95f75b15d1d99aeebbb8321c7,ist
+,mutter,Noun,Family,[],Family,Feminine,e19c12a208e498b193d28e20ffdfda50,mutter
+,ja,Adverb,Basics 1,[],Basics-1,,bae9cad859ae1be750a7c79fa962695c,ja
+mögen,mochte,Verb,Plans,"['80d14006256295d3d98b1a0d52cbbd81', 'de7cc64f2f73345c893d3de9bf662804', 'c9f50c8a4faca3e35534e2e4093857e1', '4635584da9ff676724eca4ade50daa8b', '9512cc06f50a793c60f9fe22c313a24a', '943b1d3eca0734f84a2b57d943b86c27']",Plans,,8cb8f187613a439fd2964ab5515a66c3,möchte
+,ich,Pronoun,Family,"['91520bedc38e8013eeeb855b1b5591cb', 'a056fedfbc44f16c2fb35a91cfa49725']",Family,,5e5a51e875ae5efb092ae84d99babc56,ich
+,reisezentrum,Noun,Travel,[],Travel,Neuter,1720512b7df5f2cf94b4badb10ea241b,reisezentrum
+,wien,Proper noun,Places,[],Places,,935d822fbeeeb2649e212915d6bae767,wien
+,deine,,Jobs,"['dcbc121aecb08e610c3a08dd5baa7dd0', 'dd697f8e1234efb2cbc33c379f6c9912', '95a5b32daf755b8ec21c3fcfc9fed688', '2fdce2ac591b483ad7c5b8b44346ef15', '76488439ef737ef7cf368657d5d3a579', 'a2c2a92b69b243135e36c39a9d5a9378']",Jobs,Feminine,b4925b813ecc0a1f9dcf205a258c69e5,deine
+,auf,Preposition,Travel,['5e1534b93aecf8a8a144c964660813dc'],Travel,,5dc649a611a945c4656f5549da21dc45,auf
+,fahrkarten,Noun,Travel,['a3d1e3d990ceccae658bd546cb0d3dbd'],Travel,Feminine,2800c5e5751d1b845572aae91d46ca2a,fahrkarten
+,und,Conjunction,Basics 1,[],Basics-1,,e0fc2007688b591de1acf8374c9ce38e,und
+,gleis,Noun,Travel,[],Travel,Neuter,e90c620c9af41cedb00255e55e727ce8,gleis
+,mir,Pronoun,Errands,"['5e5a51e875ae5efb092ae84d99babc56', 'a056fedfbc44f16c2fb35a91cfa49725']",Errands,,91520bedc38e8013eeeb855b1b5591cb,mir
+,entschuldigung,Interjection,Restaurant,[],Restaurant,,4f72c89c68d056659634583fc2001967,entschuldigung
+eröffnen,eroffnen,Verb,Errands,[],Errands,,61d4f5c0acd0c4f5f6fae16b26f7a8eb,eröffnen
+,nett,Adjective,Family,[],Family,,ac9f23c8a73e5ee87e0ffdd60e3d5e1a,nett
+,konto,Noun,Errands,[],Errands,Neuter,d4f6db9f980c8c6bbde2c847ea80d6e4,konto
+,der,Determiner,Errands,"['d28d6a07b12660af2d09a03ecfcb4cf9', '1fce28079e74620982a0c36750cd183d']",Errands,Feminine,23cd8c19d766c397468d40c79efdf5ea,der
+,problem,Noun,Travel 2,[],Travel-2,Neuter,a69ff07c11d6195ba14bd578ed56afc6,problem
+,das,Determiner,Restaurant,['cf4f0523c89ee6ed200820fe6e233736'],Restaurant,Neuter,84920990d78044db53c1b012f5bf9ab5,das
+mögen,mochten,Verb,Dining Out,"['80d14006256295d3d98b1a0d52cbbd81', 'de7cc64f2f73345c893d3de9bf662804', '4635584da9ff676724eca4ade50daa8b', '9512cc06f50a793c60f9fe22c313a24a', '8cb8f187613a439fd2964ab5515a66c3', '943b1d3eca0734f84a2b57d943b86c27']",DiningOut,,c9f50c8a4faca3e35534e2e4093857e1,möchten
+,auch,Adverb,Places,[],Places,,d85a58ea82031b2d3b3ccec1440b2da7,auch
+,schon,Adverb,Hobbies 2,[],Hobbies-2,,acc3817a0a667a5fd00bdb6f8d529551,schon
+,fur,Preposition,Shopping,[],Shopping,,ae5e72ec66e1964c5a559312584e9ff0,für
+,wie viel,,Market,[],Market,,fff7ac85293f4d6124eb5f3853238a8b,wie viel
+helfen,helfen,Verb,Errands,[],Errands,,0e122a361266afc0991c52bdc2d5ad03,helfen
+,eine,Determiner,Family,"['76443cfe0e3f05570e98e35a330dbfff', '7f78970589f8a9fe95bca610215c051a', '1064e9fdf75eafe86207caa8a36cb594', '743819fb236e8f66b5be133a6259a953', '9fd5e36e3610cccd451acba4d29990ca']",Family,Feminine,6f9902a2e4d1f353aecc47843c9df6e7,eine
+,aus,Preposition,Places,['eb1b217628e3d1b1a21184a198c259cb'],Places,,02f29045c453dca38ae3ddf483bb6309,aus
+,lebensmittel,Noun,Roommate,[],Roommate,Neuter,bb23c1e5b3d7f8d9e1e3389aca84d481,lebensmittel
+,kind,Noun,People,['93ca86123b39f30cb4be65315203dd8e'],People,Neuter,44b59592f946f8a7855a7571eb52e8d0,kind
+finden,finden,Verb,Plans 2,[],Plans-2,,8b3227ec7bf1f3cf447d7d306ac5e141,finden
+,bankkauffrau,Noun,Errands,"['2cf3e8f0f535b9279501e26c2a4c23c1', '38d347b9db150a942aa52e270bf95439']",Errands,Feminine,c08f8acf0e4ec14c359f2f3a74f896af,bankkauffrau
+,bankkaufmann,Noun,Errands,"['2cf3e8f0f535b9279501e26c2a4c23c1', 'c08f8acf0e4ec14c359f2f3a74f896af']",Errands,Masculine,38d347b9db150a942aa52e270bf95439,bankkaufmann
+,moment,Noun,Travel 2,[],Travel-2,Masculine,2ccae45233c6bd535cc3fa3514242259,moment
+,danke,Interjection,Basics 1,[],Basics-1,,df63436c59830ed1283317a0f9285cc9,danke
+,geld,Noun,Plans,[],Plans,Neuter,3418ae9524716bfde19b5a8c13de710c,geld
+,meiner,Determiner,On Break,"['a4605e1b04f24b08a709e693bcd6ba1a', '0aeda1a53edc7b9ffa1ef352206a3b72', 'e346bda36eb0adeb2e0c4f86ae891c6f', '5310a9a88b27244a9cdd03fe72d8aace']",On-Break,Feminine,b0fe7b83cec917524ee7930f2350105f,meiner
+,ec-karte,Noun,Errands,[],Errands,Feminine,d22e651135e47b6e7128e21f0b4af0b3,ec-karte
+,intelligent,Adjective,People,[],People,,5134b2c417f2e234a60a3b6dea79954d,intelligent
+überweisen,uberweisen,Verb,Errands,[],Errands,,e2fa12956cfc30120d23255002ddb8a8,überweisen
+,minuten,Noun,Travel,[],Travel,Feminine,6c200135e2891496482da51b9e2cbacb,minuten
+,wetter,Noun,Weather,[],Weather,Neuter,06a6ce9cac193f410e4da8f1d942c560,wetter
+,zoll,Noun,Travel 2,[],Travel-2,Masculine,0e922cd39934775f2601c7b8e2ff0c54,zoll
+,gitarre,Noun,Hobbies 2,[],Hobbies-2,Feminine,62b89c39f4cd617ab8d70691d56d109c,gitarre
+,kekse,Noun,Food,[],Food,Masculine,e910504fb9d3abe70d9cf9a107a8909e,kekse
+sprechen,sprechen,Verb,Questions,"['ea1bc226d0ac8bd24dca5831429ec822', 'b29ae90d223ab56f9bbe3b8c9e917b72', 'f8e8b7e84b5f7543744650825d5415f8']",Questions,,77389fc10dd1971471d34c2036184e60,sprechen
+,formulare,Noun,Errands,['5755d4476d6f2312f101fce125802f5a'],Errands,Neuter,aa0162704af837f52e8e93709ef0e13b,formulare
+,wir,Pronoun,Apartment,['4652a43769a93bb77df703b88fe63957'],Apartment,,ef7dbc34c11dad1f9b1e85da664211cd,wir
+,mann,Noun,Family,[],Family,Masculine,ce298aa028401573e104bb0b25d0e3b9,mann
+,gibt es,,Hotel,[],Hotel,,c922d58f25d88467166eec6d607f0899,gibt es
+,frage,Noun,New Job,['e6536c3c5b659750d8e087cc58712818'],New-Job,Feminine,35106ae57d9876f1212e6db991e55db9,frage
+,beamtin,Noun,Family 3,[],Family-3,Feminine,0bb8a824aff53846f8ec51209f6fde6f,beamtin
+,deutsch,Noun,Questions,[],Questions,Neuter,4987c6dca6835c72947210d1e517d44e,deutsch
+geben,geben,Verb,Party,"['d04bb2069c5527fc8aa685fcb239461e', 'fee350a706db6d58fd9360671e6d34cc', 'ee017ef67a27281bea801fd6bcd1439d']",Party,,c9693faf5c2bda4632e5689d838f638d,geben
+,wort,Noun,Errands,[],Errands,Neuter,bf29f9e139f58a3ae231715315d9d5e9,wort
+,dieses,Determiner,Packing,"['9b4a06b70810c1035e3046fa387ba339', 'fd557a3f3516f8d1eb4b1466a7671206', '9e21df64419500ac06b210def7dddfb5', 'e0a7b526dfb83c6073bc73e86b83af3e', 'a1ae22b23cd5b2934d664e554046f27c']",Packing,Neuter,d418d40a89b378ca4259548a947eda8f,dieses
+,was,Pronoun,Jobs,[],Jobs,,5849aa5d9a4fa4a103e17d02460e27e6,was
+,da druben,Adverb,Directions,[],Directions,,a965b1665b15c07c69f1447299f6e694,da drüben
+,du,Pronoun,Family,"['96dad2a0d2a63eae1f72044db85e6241', 'f5078ce94c2d3b09c6e25aef99d6ccaa']",Family,,c76b4333fe84d57cce3a1e3c4101d21b,du
+,diese,Pronoun,Packing,"['9b4a06b70810c1035e3046fa387ba339', 'fd557a3f3516f8d1eb4b1466a7671206', '9e21df64419500ac06b210def7dddfb5', 'd418d40a89b378ca4259548a947eda8f', 'a1ae22b23cd5b2934d664e554046f27c']",Packing,Feminine,e0a7b526dfb83c6073bc73e86b83af3e,diese
+bedeuten,bedeutet,Verb,Errands,[],Errands,,f036bdbe663533451462905fdc1af18e,bedeutet
+,zimmer,Noun,Hotel,[],Hotel,Neuter,7dbecd9a5ba5042bcf943b3544249f6f,zimmer
+,ausweis,Noun,Plans 2,[],Plans-2,Masculine,faa95507022b34a6b9db37c061cae4bb,ausweis
+,so,Adverb,Leisure,[],Leisure,,fb93b1727d40b9b5ce9bcb89bc2d41b4,so
+,person,Noun,Barbecue,[],Barbecue,Feminine,8ecf4d4a3ce783675688961e44d737f3,person
+,es gibt,,Travel,['0f08b8a0cfa8ec28eedb2ed62ebd5ef8'],Travel,,107541428191ed5bf1e425a444a9205a,es gibt
+,einen,Determiner,Family 2,"['76443cfe0e3f05570e98e35a330dbfff', '7f78970589f8a9fe95bca610215c051a', '6f9902a2e4d1f353aecc47843c9df6e7', '1064e9fdf75eafe86207caa8a36cb594', '743819fb236e8f66b5be133a6259a953']",Family-2,Masculine,9fd5e36e3610cccd451acba4d29990ca,einen
+,bitte,Interjection,Basics 1,['0a91e8728595574a30a7aa4d0072ab96'],Basics-1,,b6744f58825816aa3c3367e6f79ddff1,bitte
+,e-mail,Noun,Party,[],Party,Feminine,da0880e23e46abd613c240517c3c4270,e-mail
+,drei,Numeral,Market,[],Market,,3fd6fe4d654ddfa56fc5b03cf054f70d,drei
+,dem,Determiner,Errands,['c89921e78c6fb1e5017bc66f3cec0aee'],Errands,Masculine,ccacc503fbab964215a09975ded9052f,dem
+,seinen,Determiner,Family 3,"['ea162697009a9c78b38033a3fc8eb40f', '9aac75af6c4763cfe75d16b87cc10604', '57e8aed4c315b289686064c402adcbc9', '6b1c28621e623451322c32fc2aa7459d', '4fdaa498ad844fc4c7adf7ddac542751', '2ac4ffe95f75b15d1d99aeebbb8321c7', '713d30d6c7922e90eefdb989d4d9ad56', '0b59f6cdecb914ed8e713bbbab6a7924', '71f5612281d1ecd419cfbe7ae49aaed3', 'df0b0165dae55e3bd922a746d9072e9d', '7b563f860cd0b0f43adf0a79e0188bcb']",Family-3,Masculine,ab6750aee2f31d980e3b5f9f9ecea02b,seinen
+,guten tag,,Greetings,[],Greetings,,4ea5ef2da51ff7d70e31a1a77f679ac5,guten tag
+,vielleicht,Adverb,Plans 2,[],Plans-2,,d69c6de7b86cd9e9878e8b46765c4613,vielleicht
+,hundert,Numeral,Hotel,[],Hotel,,ada7e15e46b4bb18a310e881663bec83,hundert
+,seit,Preposition,Errands,[],Errands,,3357a4305604eab345a291ada294ca37,seit
+,august,Noun,Plans 2,[],Plans-2,Masculine,4c8657f28d96d392f59d53ca22ec1ce4,august
+,nachste,Adjective,Travel,[],Travel,Feminine,3941af79db1b40678cbb914a79598eb3,nächste
+sein,bin,Verb,Family,"['ab6750aee2f31d980e3b5f9f9ecea02b', 'ea162697009a9c78b38033a3fc8eb40f', '9aac75af6c4763cfe75d16b87cc10604', '57e8aed4c315b289686064c402adcbc9', '6b1c28621e623451322c32fc2aa7459d', '2ac4ffe95f75b15d1d99aeebbb8321c7', '713d30d6c7922e90eefdb989d4d9ad56', '0b59f6cdecb914ed8e713bbbab6a7924', '71f5612281d1ecd419cfbe7ae49aaed3', 'df0b0165dae55e3bd922a746d9072e9d', '7b563f860cd0b0f43adf0a79e0188bcb']",Family,,4fdaa498ad844fc4c7adf7ddac542751,bin
+,september,Noun,Events,[],Events,Masculine,e1585c02e5fb35bafcfab69a91966c39,september
+,kein problem,,Greetings,[],Greetings,,f4d540efb8d387212d74533b7fc4a7c9,kein problem
+,visum,Noun,Travel 2,[],Travel-2,Neuter,3a1cd41d095b140e7ea3fd7a938c5ec0,visum
+,hier,Adverb,Restaurant,[],Restaurant,,cc1fcd592790c30fa18827ebcc40ed9f,hier
+,woche,Noun,Hobbies 2,['718eb58b9bcb2d41d816e6f21ed639c5'],Hobbies-2,Feminine,a79029bd26a5dd9f7fc4faca65470c83,woche
+,passfoto,Noun,Errands,['16ecf3dbeb8f04b1c84aee4b01f87330'],Errands,Neuter,c0775d5bc45296d96cc3a9ba6e138ab7,passfoto
+,sohn,Noun,Family,[],Family,Masculine,b2e309aa6b5a7c7db86c69d3d35cfac5,sohn
+,es tut mir leid,,Greetings,[],Greetings,,1d2fbc06a1998b40c704e9b87e20ee84,es tut mir leid
+,ihre,,Errands,"['946e2a221c7c91c9b280738c1c6521a9', '8da299f8205c5f23f09ca241db7bd3f0', 'ec1f819e146b31f8d1d3c5dfe4b5031e', 'a732d6874b29e652969729941a91e7a3', 'b0f5cfb71b30a379b468283a7851efb4', '319885bbe0fd73a21d979624d96cb748', '5aac8b732e3beae17e847734ad19fdb1']",Errands,,92f12c8ce6506f3ec2428e22eeb3d196,ihre
+,fragen,Noun,Errands,['35106ae57d9876f1212e6db991e55db9'],Errands,Feminine,e6536c3c5b659750d8e087cc58712818,fragen
+,geburtsort,Noun,Errands,[],Errands,Masculine,3ba4b6aabef8cfad95dad84e65293970,geburtsort
+beantworten,beantworte,Verb,Errands,[],Errands,,8929035c1c6d7352531f8648acf26e3e,beantworte
+verlängern,verlangern,Verb,Errands,['7b0db76dd45b12ac11a3036eb22e6a86'],Errands,,fe731dcd61078ac65e5b39453d41c70e,verlängern
+verlängern,verlangert,Verb,Errands,['fe731dcd61078ac65e5b39453d41c70e'],Errands,,7b0db76dd45b12ac11a3036eb22e6a86,verlängert
+,dir,Pronoun,Errands,"['f5078ce94c2d3b09c6e25aef99d6ccaa', 'c76b4333fe84d57cce3a1e3c4101d21b']",Errands,,96dad2a0d2a63eae1f72044db85e6241,dir
+,abendessen,Noun,Roommate,[],Roommate,Neuter,2cebe02e32c4da664d47765a435d5d35,abendessen
+,allein,Adverb,Housing,[],Housing,,616f8b744b51af74aa85d7819ff6f6df,allein
+,zur bank,,Errands,[],Errands,,d5f3f55359eb1a0817b5452b019051d9,zur bank
+,zur botschaft,,Errands,[],Errands,,1c8ed356ad403746636703c2b035d219,zur botschaft
+,kuchen,Noun,Groceries,[],Groceries,Masculine,bb5d0cdaed2d4a0ab83148a054ea225b,kuchen
+,doner,Noun,Market,[],Market,Masculine,7f5f16c8cc816ab3ebd1b398afdfa42e,döner
+,kinder,Noun,Family 3,['44b59592f946f8a7855a7571eb52e8d0'],Family-3,Neuter,93ca86123b39f30cb4be65315203dd8e,kinder
+,morgen,Noun,Leisure,['cd24c3d0a7bcacef0606e1d9b145a4fe'],Leisure,Masculine,37d199df61f4fab028ca7eead71f216c,morgen
+,leider,Adverb,Hobbies 2,[],Hobbies-2,,0354b14665d3157a461d2386bcbf2b43,leider
+,viel zu tun,,Errands,[],Errands,,329499b627a833d407b21be7ffcd3b47,viel zu tun
+,wann,Adverb,Plans,[],Plans,,0142583ae62e71f82f0de7fedb3b925d,wann
+,heute abend,,Plans,[],Plans,,7102e007a8a9347c7f9023b4bb3cf385,heute abend
+,aber,Conjunction,Jobs,[],Jobs,,de27feb6c011a3108fd461fb2e1c00fa,aber
+mögen,mochtest,Verb,Plans,"['80d14006256295d3d98b1a0d52cbbd81', 'de7cc64f2f73345c893d3de9bf662804', 'c9f50c8a4faca3e35534e2e4093857e1', '4635584da9ff676724eca4ade50daa8b', '9512cc06f50a793c60f9fe22c313a24a', '8cb8f187613a439fd2964ab5515a66c3']",Plans,,943b1d3eca0734f84a2b57d943b86c27,möchtest
+,zum mittagessen,,Habits,[],Habits,,35feb8003251c96830a75fb2cf3df56c,zum mittagessen
+schwimmen,schwimmen,Verb,Plans,"['5b5e596558196de3e4fc1796ee5d47a6', 'a3159b96570ab1e1e1e54807144ce972', '0c7382e74dcbebdcd9c9dd4e6fd77a13']",Plans,,ea2751a89977abcd2863105f73dd548a,schwimmen
+haben,habe,Verb,Family 2,"['868e33555cb34d2f50ef702111cfd58b', 'e15f13f230d129ce73b482d92222ae79', '5fa1f0fcc3b5d93b8617169e59884367', '9780135201a381516d9c84324771e811']",Family-2,,bc132fa899e138377a3d89eb3125a2f1,habe
+,den,Determiner,Apartment,['ccacc503fbab964215a09975ded9052f'],Apartment,Masculine,c89921e78c6fb1e5017bc66f3cec0aee,den
+,club,Noun,Roommate,[],Roommate,Masculine,0155ea7d942f8a5b49303edd906ae3f0,club
+mitkommen,mitkommen,Verb,Plans 3,[],Plans-3,,b7e75e18fd3f4a95d78a138ac1862719,mitkommen
+,nachher,Adverb,Errands,[],Errands,,776c91fb6ca9057be892417cdfe5c379,nachher
+,heute,Adverb,Weather,[],Weather,,126bfd4d5309344dad18a8bc6668e260,heute
+,essen,Noun,Restaurant,"['5ac6336de0f683c21074570627e9410b', '20dde14c9907e353804d0de13f198543', 'd0e80d740c4f2d0653951e65952c19d1', 'aa82a48245fe4015d6bc8643ccdf7fa7']",Restaurant,Neuter,3ce312a29fda532fad3af690e26e91e1,essen
+kochen,kochen,Verb,Errands,"['b8408e2fc12bf8f1be64f2585bdddc43', 'e0d7f9ce80ee10512d928024c7eb79b8', '56709e26ea6528cc3f85af706a4d0803']",Errands,,976188e6d637a2c014be32fb0541eb9f,kochen
+,kuche,Noun,Housing,[],Housing,Feminine,407f3bc44e547df0c758c78df332b7e9,küche
+,obst,Noun,Food,[],Food,Neuter,288c96758043d23c2a1a0a08c6360f65,obst
+,nichts,Pronoun,Food,[],Food,,a04935c46d211dacd82135d6a8ed291d,nichts
+,gern,Adverb,Leisure,[],Leisure,,364a891aa2f99f9d8c71d2ef644f4215,gern
+,bei schonem wetter,,Free Time,[],Free-Time,,33925f3fb5af5bcbecd7d6538d7ab7a6,bei schönem wetter
+fahren,fahrst,Verb,Habits 2,"['9f219a60dabccb989a0ebc782c89782d', '55934363abfa6db8a0dfd17ab98b5d4e', '85140f779a6d4b9c58f4c4c7df2b1aef', '130ffdd8682cf5b7c79df84f493ed8a8']",Habits-2,,7645a1cabd0cd2e030fa30be181107c8,fährst
+spielen,spiele,Verb,Hobbies,"['4238301d1fdce60abe45f161274ddd2d', 'f86cfa0e4690664ea2712d0b14d6b8c2', 'c904c9330abc33b734aa16fb774ffc16']",Hobbies,,598a41cd84310715e45b6192564592a1,spiele
+,warmer,Adjective,Free Time,['9bedfadbb97e99acbc655acd4f21e40a'],Free-Time,,370c16f6e45c286d569a58b7de53d8b0,wärmer
+,als,,Free Time,[],Free-Time,,61a59b5a51401b3922f3420dad68d132,als
+,abends,Adverb,Habits,[],Habits,,887263ca6febb3b95e5852f96be89653,abends
+sehen,sehen,Verb,Transport,"['e23a75193507ed70051a82f39fb7abf1', '6740f2bea63a583e9f92a6b00ff0023c', '3c5330a584acc0b713fa4cef4302c2b8']",Transport,,971f40ea009192f8a2b38914eb6be3b9,sehen
+,spater,Adverb,Dining Out,[],DiningOut,,7f5c89a9793fdc0c6e0ef710cdbef130,später
+,schweiz,Proper noun,Free Time,[],Free-Time,Feminine,60bbc960f87899826f2d9df2ad0f4f91,schweiz
+,videospiele,Noun,Hobbies 2,[],Hobbies-2,Neuter,4dbad715d2928aa3315b3a3296ccd42e,videospiele
+,tage,Noun,Free Time,[],Free-Time,Masculine,b1071c608163916a1833758252a23288,tage
+,den ganzen tag,,Habits 2,[],Habits-2,,aa8a17b4ddd68934ea1c8340ffb15a22,den ganzen tag
+,dokufilme,Noun,Free Time,[],Free-Time,Masculine,26a881820feee2eea901603b8b89441b,dokufilme
+,es,Pronoun,Weather,[],Weather,Neuter,ef42b6de85f599db82787f8e0241922f,es
+,turkei,Proper noun,Free Time,[],Free-Time,Feminine,3bec5a4d20305e991e88ecaac66a6e07,türkei
+,picknick,Noun,Birthday,[],Birthday,Neuter,e83c31dd9f4b195ec39366e2f54529ad,picknick
+,fahrrad,Noun,Habits 2,[],Habits-2,Neuter,f185d22c9cb76429abc3e71d3112332e,fahrrad
+,jetzt,Adverb,Weather,[],Weather,,92d5543546c3f99c33a3defda45f6fdb,jetzt
+,kollegen,Noun,Habits,['d3e7c565e9459bdd03fc97c14789b8ba'],Habits,Masculine,910a39a805d45bac1d6f54b683f136d4,kollegen
+,spazieren gehen,,Free Time,[],Free-Time,,b7cc03f4f210c2b395a561e8b2dcdfae,spazieren gehen
+,mama,Noun,On Break,[],On-Break,Feminine,1b97f59e4f1e40ef9c1916a7984bc996,mama
+,in die bar,,New Job,[],New-Job,,b9fe2d437eec085937d3e57253ae27c5,in die bar
+spielen,spielst,Verb,Hobbies,"['4238301d1fdce60abe45f161274ddd2d', '598a41cd84310715e45b6192564592a1', 'f86cfa0e4690664ea2712d0b14d6b8c2']",Hobbies,,c904c9330abc33b734aa16fb774ffc16,spielst
+,richtig,Adjective,Travel 2,[],Travel-2,,4b72b7a370a938d223db525f293e189d,richtig
+,zwolf,Numeral,Transport,[],Transport,,3ca632bcf35f9b42126f4c6366eda08d,zwölf
+,hurra,Interjection,Health,[],Health,,8bb9f2a4239965416eb6d97d03d1cb99,hurra
+,meinen,Determiner,Free Time,[],Free-Time,,9fa1b54f06676ccd2f5fcf7b92c4b5aa,meinen
+,nach der arbeit,,Free Time,[],Free-Time,,aace837546ca0218e583c7c3a2b4bb4b,nach der arbeit
+regnen,regnet,Verb,Weather,[],Weather,,469cda8ba3dde8049dfedb99bed39f06,regnet
+,tennis,Noun,Hobbies 2,[],Hobbies-2,Neuter,863f30887bc04b3a21dd24d1ed434c54,tennis
+,eltern,Noun,People,[],People,,22834292984240157eba451eec1c6a70,eltern
+,badeanzug,Noun,Packing,[],Packing,Masculine,9fbcd6a264a6bb3124824abda9174adb,badeanzug
+,zu,Adverb,Restaurant,[],Restaurant,,c2f732617000aad343ea402afeb14bb1,zu
+,urlaub,,Leisure,['52b4b04520701864f40d9159cf47826f'],Leisure,,d049c321fc61986dda6e0739305b42f9,urlaub
+,bald,Adverb,New Job,[],New-Job,,07e86984fee5b54ab2711988c9a05c80,bald
+,viele,Adjective,Languages,['b871e7f7be5a8d1b675d8d746beb5793'],Languages,,7a04eddb8bb4d557d64fafb55a295937,viele
+,ein paar,Adverb,Free Time,[],Free-Time,,17fd25af772a0222eb5c94aa644f5d89,ein paar
+,bar,Noun,Basics 2,['3e415b96f79d16191df060468c4b1a59'],Basics-2,Masculine,f38c02b7c9efbffab9d50333675d1268,bär
+,schon,Adjective,Basics 2,[],Basics-2,,32adefbdac9e469e79191a8646734a2a,schön
+,sehr,Adverb,Family,[],Family,,92c6c378bcabe0d66a10ff9cbca6b30b,sehr
+,lieber,Adverb,Dining Out,[],DiningOut,,fcedbdaad82446c1371efc0172898dc6,lieber
+,am strand,,Free Time,[],Free-Time,,f6403f296b04a5621e2815f727b8b629,am strand
+,dort,Adverb,Packing,[],Packing,,114ce26cb931f33a72e208e3a72f9187,dort
+,sommer,Noun,Weather,[],Weather,Masculine,da106cca0a662363ff29d60841d88779,sommer
+,familie,Noun,Plans 2,[],Plans-2,Feminine,7e9fc7fbfec4d810c81d774dc9aa9b3f,familie
+,noch,Adverb,Events,[],Events,,88148adccf9bc8730f8f2c2e1de8a256,noch
+,wie,Pronoun,Questions,['fc9672b77c0bcf465099e870117061f0'],Questions,,f606586bf378c284c917941c9181cc2e,wie
+,in den ferien,,On Break,[],On-Break,,474bf15dc665cf74bc7204d1b614a6dc,in den ferien
+besuchen,besuchen,Verb,Transport,['f84da044eef0c04c965c40eb541c3962'],Transport,,f092c7f86e7451619b46f74912bf2b44,besuchen
+,fussball,Noun,Leisure,[],Leisure,Masculine,2969022fc22ce37458188e1433fdc425,fußball
+,seinem,Determiner,Barbecue,"['ab6750aee2f31d980e3b5f9f9ecea02b', 'ea162697009a9c78b38033a3fc8eb40f', '9aac75af6c4763cfe75d16b87cc10604', '57e8aed4c315b289686064c402adcbc9', '6b1c28621e623451322c32fc2aa7459d', '4fdaa498ad844fc4c7adf7ddac542751', '2ac4ffe95f75b15d1d99aeebbb8321c7', '713d30d6c7922e90eefdb989d4d9ad56', '0b59f6cdecb914ed8e713bbbab6a7924', '71f5612281d1ecd419cfbe7ae49aaed3', 'df0b0165dae55e3bd922a746d9072e9d']",Barbecue,Masculine,7b563f860cd0b0f43adf0a79e0188bcb,seinem
+,u-bahn,Noun,Plans 3,[],Plans-3,Feminine,9e7649e89f6941d1d33e3cb46b95b6c8,u-bahn
+,markt,Noun,Directions,[],Directions,Masculine,afc73bf9203ae0a274a4926c19db32af,markt
+,park,Noun,Directions,['27495ed8a71d984cbd1a8183b1067a49'],Directions,Masculine,6975d9db52bcf614dd895586090d736e,park
+,dein,,Jobs,"['dcbc121aecb08e610c3a08dd5baa7dd0', 'dd697f8e1234efb2cbc33c379f6c9912', '2fdce2ac591b483ad7c5b8b44346ef15', '76488439ef737ef7cf368657d5d3a579', 'b4925b813ecc0a1f9dcf205a258c69e5', 'a2c2a92b69b243135e36c39a9d5a9378']",Jobs,Masculine,95a5b32daf755b8ec21c3fcfc9fed688,dein
+,cafe,Noun,Directions,['75032c5252df6be7634cf5433bdc40ce'],Directions,Neuter,1930b34f47a93b1ba9cea96d106424fd,café
+,haus,Noun,Family 3,[],Family-3,Neuter,0addc80204530bdc4615a431ec9eeeae,haus
+,pferd,Noun,Birthday 2,[],Birthday-2,Neuter,467af75d687188bf2418bb05cdd34881,pferd
+,bei schlechtem wetter,,Free Time,[],Free-Time,,11bddb32c4d59802aa3fba3ceda4662e,bei schlechtem wetter
+,wald,Noun,Hobbies 2,[],Hobbies-2,Masculine,acfeb5ffeaebaa0b64875d1e9b376f66,wald
+,besser,Adjective,Habits 2,['13609b3e84ffba91efaaf562c81a1106'],Habits-2,,44b3e33db46246e654561be3671af96f,besser
+,cooler,Adjective,Free Time,['15c95f88bbac473c728968073f64a9a7'],Free-Time,,33d4a0322d94534614cc18eaf7abb406,cooler
+,warum,Adverb,Leisure,[],Leisure,,a6fc71e4ddf2fdae416dd2d38556eb53,warum
+,comics,Noun,Free Time,[],Free-Time,Masculine,352acf784d7b3cdcba1867653e7b2364,comics
+,japan,Proper noun,Family 3,[],Family-3,,8493af934509ed7d8a8257e19fd37f90,japan
+,filme,,Free Time,[],Free-Time,,39a74c40e65340c0f1ab61004f553d0b,filme
+,zusammen,Adverb,Dining Out,[],DiningOut,,be06c872999bc93a87c7a55cba78543b,zusammen
+lesen,liest,Verb,Free Time,"['018a19656b483b0232a10629656dc9b7', 'fe4cfec8848ffb07a7987af5a72755dc']",Free-Time,,557379cbe1806198cbd023d34822d4e2,liest
+,nur,Adverb,Languages,[],Languages,,bdeb7f99f275c1f8bfd36fb571cf1811,nur
+,zeitungen,Noun,Free Time,['46ab865ea1c1fc8c19a6cebfac66fbc6'],Free-Time,Feminine,b6c7f93f4e72b0ada2f88b0addc5611d,zeitungen
+machen,machst,Verb,Leisure,"['d7b4290eaa4918f65f8e5ce8a612a3df', '70c956a45c542e1db9e4c78c6ca99051', 'e6bd411053e003fc740382ee53609560', 'bc303f70358e7e7a6a8bffa879f9021c']",Leisure,,9b1dc55147861a22541051c15bc4695b,machst
+,schloss,Noun,Travel 2,[],Travel-2,Neuter,bc7618c83414542a2525094d0e5b0168,schloss
+,podcasts,Noun,Hobbies 2,[],Hobbies-2,Masculine,d1ef64cb2a8898b8cd404db243babbde,podcasts
+,nichte,Noun,On Break,[],On-Break,Feminine,4dda0a3ed2ef2bfba18e88348e9d4b2e,nichte
+mögen,mag,Verb,Apartment,"['80d14006256295d3d98b1a0d52cbbd81', 'de7cc64f2f73345c893d3de9bf662804', 'c9f50c8a4faca3e35534e2e4093857e1', '9512cc06f50a793c60f9fe22c313a24a', '8cb8f187613a439fd2964ab5515a66c3', '943b1d3eca0734f84a2b57d943b86c27']",Apartment,,4635584da9ff676724eca4ade50daa8b,mag
+,fernsehserien,Noun,Free Time,[],Free-Time,Feminine,8e6a4fbe011c6a0a5039254f86f1968f,fernsehserien
+,grosseltern,Noun,Family 3,[],Family-3,Neuter,554b274a78dd19ba03244f6760fc0ada,großeltern
+,nach der schule,,Free Time,[],Free-Time,,38a4d765443cbeb29c4c518725bfc518,nach der schule
+,die ganze zeit,,Free Time,[],Free-Time,,a4e361714d0a1519477da792d86a8869,die ganze zeit
+,karten,Noun,Free Time,[],Free-Time,Feminine,e1102785d9254a32c88480e598e64986,karten
+hören,hort,Verb,Hobbies 2,"['53f31bcf92a8c9e421ded3e192020b12', 'b150fe266cffdc87fb8558050b4af15a', '4485cb44e481145b666cf0b43c80f377']",Hobbies-2,,7574289d3f4d6705e724c3c13db68df5,hört
+fernsehen,fernsehen,Verb,On Break,[],On-Break,,a3f1033aa6c52421004d6afefdd94278,fernsehen
+,fern,,Free Time,[],Free-Time,,d90b9dcab57e5ee48c99d9273dbc7818,fern
+,am wochenende,,Leisure,[],Leisure,,7e2fccb8899f3c479a7b5d414dc1801f,am wochenende
+,haustiere,Noun,Family 3,[],Family-3,Neuter,4a72a80c61b22e75663ec6b45ecd6eac,haustiere
+,tochter,Noun,Family,[],Family,Feminine,e9af5a977c2b6cf270d2d48acdafb94b,tochter
+,hausaufgaben,Noun,Plans 2,[],Plans-2,Feminine,6523832e97dfc6ea8369d3c868de1f18,hausaufgaben
+,draussen,Adverb,Free Time,[],Free-Time,,6d055cfa1e78983d26fd1b9481fc333c,draußen
+,neffe,Noun,Plans 3,[],Plans-3,Masculine,f04987e037382632ceb5a7c600539c19,neffe
+,nachts,Adverb,Health,[],Health,,d31b6d31983ce491543d55ec526d9f52,nachts
+,freundinnen,Noun,Habits,['089fc34fdd736b4308d89cde27b7a8fc'],Habits,Feminine,0ea48e1594a5fd820972256f95cb2f98,freundinnen
+,papa,Noun,On Break,[],On-Break,Masculine,a78bc69185d2f9a5bb99eaf1edfc1464,papa
+,frau,Noun,Family,[],Family,Feminine,8ad506ee2dda350acbb2c21275537c38,frau
+,horrorfilm,Noun,Plans 2,[],Plans-2,Masculine,3537802712380ba474e4dbed1721a624,horrorfilm
+,yoga,Noun,Habits,[],Habits,Neuter,a5b7b38810d2e7704b3bc458e48bbd96,yoga
+sehen,sieht,Verb,Free Time,"['971f40ea009192f8a2b38914eb6be3b9', '6740f2bea63a583e9f92a6b00ff0023c', '3c5330a584acc0b713fa4cef4302c2b8']",Free-Time,,e23a75193507ed70051a82f39fb7abf1,sieht
+,manchmal,Adverb,Hobbies,[],Hobbies,,ebf992cc19235bcf36bff33e74894198,manchmal
+,partnerin,Noun,Family 2,[],Family-2,Feminine,d9e8741a646cbbb720eaf00369d85bb6,partnerin
+,film,Noun,Hobbies 2,[],Hobbies-2,Masculine,1d70034bd6ef9cb77078ada8d042df23,film
+feiern,feiert,Verb,Birthday,"['1719e3cf8e5d57e35b1c7d360095376b', '5e60d8aec313451bdbce81b58d35bc7f']",Birthday,,01fe22aabba9a9c3ca6d4438f52ecdf3,feiert
+,freitags,Adverb,Habits,[],Habits,,da476fe641f5ce7ab85147af52df99e2,freitags
+,geburtstag,Noun,Birthday,[],Birthday,Masculine,f10ce14aa6753b1790d7a9b39f8a5477,geburtstag
+,katze,Noun,Basics 2,[],Basics-2,Feminine,bb236b96a28eb324095d8f522565f943,katze
+,basketball,Noun,Leisure,[],Leisure,Masculine,72c8a5dfb2f3012d86b82cb14e65af86,basketball
+sehen,siehst,Verb,Free Time,"['971f40ea009192f8a2b38914eb6be3b9', 'e23a75193507ed70051a82f39fb7abf1', '3c5330a584acc0b713fa4cef4302c2b8']",Free-Time,,6740f2bea63a583e9f92a6b00ff0023c,siehst
+,immer,Adverb,Hobbies,[],Hobbies,,9cbbb669bcd158e9cfb5f4ebd4f9903f,immer
+,strand,Noun,Hotel,[],Hotel,Masculine,f9d8c113534483e8d507db54ab9b0447,strand
+,in deiner pause,,New Job,[],New-Job,,c83747e665d88c5d92aa6edc3dc579f6,in deiner pause
+,nie,Adverb,Hobbies,[],Hobbies,,200934cf9fc690830f48aa7ed7f32a21,nie
+,zoo,Noun,Transport,[],Transport,Masculine,4279d1a8a3c80f21acbf7cb5ba71bd08,zoo
+,tomaten,Noun,Market,[],Market,Feminine,7358daf720952f0b3b29656b18e81e03,tomaten
+,garten,Noun,Housing,[],Housing,Masculine,67f1e0169b86107b378d98c9815fa3a5,garten
+,hund,Noun,Basics 2,[],Basics-2,Masculine,1eb187e5d809262b61a7ca2229cbf7d2,hund
+,deinem,Determiner,On Break,"['dcbc121aecb08e610c3a08dd5baa7dd0', 'dd697f8e1234efb2cbc33c379f6c9912', '95a5b32daf755b8ec21c3fcfc9fed688', '2fdce2ac591b483ad7c5b8b44346ef15', 'b4925b813ecc0a1f9dcf205a258c69e5', 'a2c2a92b69b243135e36c39a9d5a9378']",On-Break,Neuter,76488439ef737ef7cf368657d5d3a579,deinem
+,oper,Noun,Plans 3,[],Plans-3,Feminine,27031a7504668ea6ec180e73d721f581,oper
+,meinem,Determiner,On Break,"['a4605e1b04f24b08a709e693bcd6ba1a', '0aeda1a53edc7b9ffa1ef352206a3b72', 'e346bda36eb0adeb2e0c4f86ae891c6f', 'b0fe7b83cec917524ee7930f2350105f']",On-Break,Masculine,5310a9a88b27244a9cdd03fe72d8aace,meinem
+spazieren,spazieren,Verb,Free Time,[],Free-Time,,5272fde994ac8322cc6efda69dd5f451,spazieren
+,im park,,Birthday,[],Birthday,,c3d4490b1d04174fb3501b60eb5749bd,im park
+,deinen,Determiner,Free Time,[],Free-Time,,5792ed13e18ebf7ecda2422bb4b5309a,deinen
+,biergarten,Noun,Plans 2,[],Plans-2,Masculine,19e48002b45430f1972e8d6ef649c8e4,biergarten
+,sonne,Noun,Packing,[],Packing,Feminine,04bec66c242e64a1242bef7715eca0be,sonne
+,leise,Adjective,Housing,['aff20c2e8bd8a0ef87348ef585e1c877'],Housing,,82d013064d75fdf6d9054e7a7cde7b40,leise
+,gast,Noun,Party,['707d623b73499013b7388e9a91e45104'],Party,Masculine,a197aa1f2720eb76f0f57aa5416c121d,gast
+geben,gibt,Verb,Party,"['c9693faf5c2bda4632e5689d838f638d', 'fee350a706db6d58fd9360671e6d34cc', 'ee017ef67a27281bea801fd6bcd1439d']",Party,,d04bb2069c5527fc8aa685fcb239461e,gibt
+,torte,Noun,Party,[],Party,Feminine,9098a31202ee9846afa5bff4de52ea86,torte
+,ohrringe,Noun,Party,[],Party,Masculine,ec560a3d7c025174b2b6f332c1941660,ohrringe
+,per,Preposition,Party,[],Party,,4c659822cf7a9b816facbf4607ccf0b3,per
+,kette,Noun,Party,[],Party,Feminine,3c5d799f630f73fbbe1a6115433741ff,kette
+,lied,Noun,Party,[],Party,Neuter,ae29862e0882244057d3ef5719ca65fb,lied
+,jahrestag,Noun,Party,[],Party,Masculine,7609b3aab7d45f8b4c7ea143abbdf82d,jahrestag
+,praktisch,Adjective,Party,[],Party,,66fa43cd635bc28f65aeed05bfad1aad,praktisch
+,uberraschung,Noun,Party,[],Party,Feminine,1b9c3c08624f9a9ecf21be5b241594ac,überraschung
+,post,Noun,Party,[],Party,Feminine,bd66d3bce3c75ae2dc602c0d95a3877a,post
+,alle,Pronoun,Party,[],Party,,539a08c01390e01f3206d789eed0d468,alle
+,rosen,Noun,Party,[],Party,Feminine,1a976b24d8f41875521c17f5b94b7b4b,rosen
+,sekt,Noun,Party,[],Party,Masculine,b2d5e21887770fb039f9b389268adad3,sekt
+,pflanze,Noun,Party,['626ba8735559941e30825b68608546d3'],Party,Feminine,d8945fcff21b9c86f2166a128cc5f278,pflanze
+,herzlichen gluckwunsch,,Party,[],Party,,fe562bb342df704e8d4c058835a31e6e,herzlichen glückwunsch
+,gut gemacht,,Party,[],Party,,a2c718b75cfdadb82ce26635f304dc85,gut gemacht
+,ganz,Adverb,Party,[],Party,,343b53d291e53ce75387a08442b3dd62,ganz
+anrufen,anrufen,Verb,Party,[],Party,,1b2fa153dd4bae48cb56e8cd951a83a8,anrufen
+,online,Adverb,Party,[],Party,,b04d1f66e3e5e9f4da7a39c5f2ba34a3,online
+,karotte,Noun,Party,['b8e4015cb9a612f9f2da30d93b6e7512'],Party,Feminine,95dfd946c739929cf89000867c17faf0,karotte
+,kaffeemaschine,Noun,Party,[],Party,Feminine,57427f264fb6a78ef7e3ce72bb2e2b0c,kaffeemaschine
+,an,,Party,['88bb0f6d0be7e5bc3762506e7fa9d96f'],Party,,d11af153cddcebb6eb74cd72e23821af,an
+ruf,ruf,Verb,Party,[],Party,,c5fe9549aaaf81d1239e6c790c318ded,ruf
+geben,gibst,Verb,Party,"['d04bb2069c5527fc8aa685fcb239461e', 'c9693faf5c2bda4632e5689d838f638d', 'ee017ef67a27281bea801fd6bcd1439d']",Party,,fee350a706db6d58fd9360671e6d34cc,gibst
+,euer,Determiner,Party,"['3dec95cd1e62a5f41acc0a2ca8fc0651', 'c43c45c53082813dbdfa63971432f29c', '9b85534cf39688a05fabb5d3c7764165']",Party,Masculine,a63897ab56aedc284eb8e40eeb20694e,euer
+sag,sag,Verb,Party,[],Party,,c3fb446046a6734fd67871f7228da91e,sag
+,zeit,Noun,Plans,[],Plans,Feminine,5339212916b9678654f7e9369a193ccb,zeit
+,einladung,Noun,Birthday,[],Birthday,Feminine,8534f3aa7a128d13c1c97f59ed9524d3,einladung
+,onkel,Noun,Family 2,[],Family-2,Masculine,6d0649897208a4b804645289a8b23554,onkel
+,deinen,Pronoun,Family 2,"['dcbc121aecb08e610c3a08dd5baa7dd0', 'dd697f8e1234efb2cbc33c379f6c9912', '95a5b32daf755b8ec21c3fcfc9fed688', '76488439ef737ef7cf368657d5d3a579', 'b4925b813ecc0a1f9dcf205a258c69e5', 'a2c2a92b69b243135e36c39a9d5a9378']",Family-2,Masculine,2fdce2ac591b483ad7c5b8b44346ef15,deinen
+,party,Noun,Birthday,[],Birthday,Feminine,0c6c9c970d5c0cdc30aba38da4d7315e,party
+haben,hast,Verb,Family 2,"['868e33555cb34d2f50ef702111cfd58b', '5fa1f0fcc3b5d93b8617169e59884367', '9780135201a381516d9c84324771e811', 'bc132fa899e138377a3d89eb3125a2f1']",Family-2,,e15f13f230d129ce73b482d92222ae79,hast
+kommen,kommt,Verb,Family 2,"['cb0211f56eb0b9ac31cd9cff1c8cd965', 'b6292d70ffe234e847c44294d3b2830c', 'fa9146ebc18ef100efbea3c051c2c558']",Family-2,,2aa74c03a87880ff2bfd9df3515b188d,kommt
+,meinen,Pronoun,Family 2,"['a4605e1b04f24b08a709e693bcd6ba1a', '0aeda1a53edc7b9ffa1ef352206a3b72', '5310a9a88b27244a9cdd03fe72d8aace', 'b0fe7b83cec917524ee7930f2350105f']",Family-2,Masculine,e346bda36eb0adeb2e0c4f86ae891c6f,meinen
+,schwester,Noun,Family,[],Family,Feminine,1db02b6559c3e5f646af3f5b8acfcc3e,schwester
+,freunde,Noun,Leisure,['862030119fc9e9bf90cee4641d4b31e1'],Leisure,Masculine,dd0bc15fc77558d2f706fc3cc55b0350,freunde
+,tante,Noun,Family 2,[],Family-2,Feminine,39d6cbae2171cd3751386334f13cb27f,tante
+,dich,Pronoun,Events,"['96dad2a0d2a63eae1f72044db85e6241', 'c76b4333fe84d57cce3a1e3c4101d21b']",Events,,f5078ce94c2d3b09c6e25aef99d6ccaa,dich
+,opa,Noun,Family 2,[],Family-2,Masculine,8a991861e548b1e2fc9849b30937e414,opa
+,vater,Noun,Family,[],Family,Masculine,2126fc2117822e0ce51a33166afbceef,vater
+,oma,Noun,Family 2,[],Family-2,Feminine,fc7629f4eabe4c8ddc80db3c72407ae0,oma
+,funfzehn,Numeral,Transport,[],Transport,,9354c10d9c3eba8f879cbcb5ad3da154,fünfzehn
+,handy,Noun,Events,[],Events,Neuter,563872bbe74cc90e01654a359e526295,handy
+,mich,Pronoun,Dining Out,"['91520bedc38e8013eeeb855b1b5591cb', '5e5a51e875ae5efb092ae84d99babc56']",DiningOut,,a056fedfbc44f16c2fb35a91cfa49725,mich
+,fast,Adverb,People,[],People,,de358dcb5a9f765f38896af30315d957,fast
+,zu hause,,Birthday,[],Birthday,,c66bdc53d084ea036fb71ba7c5c9eb75,zu hause
+,zuerst,Adverb,Birthday 2,[],Birthday-2,,759f398bc625e6aba14e856f6223fb42,zuerst
+,gerade,Adverb,Plans 3,[],Plans-3,,c3092ad067b2f0764a6b5272c455ea50,gerade
+lieben,liebt,Verb,Family 2,"['1db200cfbb364004bd461630cb64033b', '1a99ae09ae65903d1c8ac25e86681a72']",Family-2,,950d54aad87303c820e9f37fcde43bf7,liebt
+,wirklich,Adverb,Market,[],Market,,be10a4c39da8d3c83c7981f20aa2be20,wirklich
+,an,,Plans 3,['d11af153cddcebb6eb74cd72e23821af'],Plans-3,,88bb0f6d0be7e5bc3762506e7fa9d96f,an
+,restaurant,Noun,Restaurant,['d1be06e013e3f4ee6f59c03ffaee2f32'],Restaurant,Neuter,6e7a0473356fd92bc4161a7ea3bc8d0c,restaurant
+,fussballspiel,Noun,Plans 3,[],Plans-3,Neuter,938984462243c530492a0830eb0a1fa6,fußballspiel
+,uns,Pronoun,Plans 3,['ef7dbc34c11dad1f9b1e85da664211cd'],Plans-3,,4652a43769a93bb77df703b88fe63957,uns
+,acht,Numeral,Market,[],Market,,abc338d670b1601dd9d4d5b5adb9aae2,acht
+,bruder,Noun,Family,[],Family,Masculine,9b6aa965d5ecd92345fb2b051385d9da,bruder
+,geige,Noun,Hobbies 2,[],Hobbies-2,Feminine,f9708b38c24dbd9528791deaeba3abc3,geige
+,mit,,Plans 3,"['b0fdb68bdad191589451beb835d09149', '6ec9382286c38cf36cba11493b06c0da']",Plans-3,,d61842ed7fafb32729ca565c8e363712,mit
+,um,Preposition,Plans,[],Plans,,7790c59e9a135a236dea3f3b861a6292,um
+,spiel,Noun,Plans,['ae123c77e0828f5af225673449751518'],Plans,Neuter,2861b8414764ad2ff983600b84cfb67d,spiel
+,zum,Pronoun,Plans 3,[],Plans-3,,98879811ce9a15da6bbffc5eb33fe677,zum
+arbeiten,arbeiten,Verb,Hobbies 2,"['d126ce29865b1d87c002a89c80ad134b', '8b04de044faaa29b15fe65003c2d5a6c']",Hobbies-2,,74e6acd80e402a94e9728738d89b29ac,arbeiten
+,klassische musik,,Plans 3,[],Plans-3,,6a4a2111b0dda22d08706f82fec4dbe5,klassische musik
+,billig,Adjective,Directions,[],Directions,,2ad9feb89e5b8da983180d6a804d3ffa,billig
+,oh,Interjection,Basics 2,[],Basics-2,,4d8476ee6ae048f5c04af74a8957453e,oh
+lieben,liebe,Verb,Family 2,"['950d54aad87303c820e9f37fcde43bf7', '1a99ae09ae65903d1c8ac25e86681a72']",Family-2,,1db200cfbb364004bd461630cb64033b,liebe
+brauchen,brauchen,Verb,Apartment,['78f501d1d636cb6299fca17ad7101e99'],Apartment,,186e585f3527862c2e4c1fd5516d8d88,brauchen
+,eintrittskarten,Noun,Plans 3,['1a886efd13005cf4a3c5bbf47bbde5a5'],Plans-3,Feminine,9d736c1f100ae7f4d62ee5ba98ab27ea,eintrittskarten
+,unsere,Determiner,Housing,['dcf5343dfd07ddab2a7d07450e2321b9'],Housing,Feminine,72445c61a365cb1f37d61c8bb9abadc0,unsere
+,konzert,Noun,Plans,[],Plans,Neuter,df2e7c671417dd40f9be3e4367c9d11c,konzert
+,reise,Noun,Plans 3,['eb1cfb85f0c3a39b2a89435b4920c573'],Plans-3,Feminine,adf53c76bd83d0af891abeebd034b2d1,reise
+,ins,Preposition,Plans,[],Plans,,f8744e9e60d7b667e309f916c05f1e08,ins
+,von,Pronoun,Plans 3,['2b9e246988d56aaa7740de59a866ac9f'],Plans-3,,058b9a635fee05704970a7d609529c0b,von
+,keinen,Determiner,Family 2,"['bfcaa62ceb61fdcbfd9fd150f8ae8486', 'c9002420b3dd1f3ba022ea6fdce08f70']",Family-2,Masculine,9cf5f992527b0aefe17624fafd17fd57,keinen
+,anzug,Noun,Plans 3,[],Plans-3,Masculine,a8550aae9e5aaccf44988c6309c89f06,anzug
+,zwanzig,Numeral,Travel,[],Travel,,76605d6d63483105c013d4479661752c,zwanzig
+,musik,Noun,Events,[],Events,Feminine,bc6723d0c15e58c141fb43e57a800738,musik
+,euro,Noun,Market,[],Market,Masculine,68a056fdbca3fdbc170789dd650f9ba5,euro
+vergessen,vergiss,Verb,Packing,[],Packing,,aaeecb8dbb35d550cd4b61f1819497e5,vergiss
+,nein,Adverb,Basics 1,[],Basics-1,,0d7ce5a7bec9bfe876a8042abe8a2f7d,nein
+,t-shirt,Noun,Shopping,[],Shopping,Neuter,170e1e05837d31d18ee16cefaeeddecd,t-shirt
+tragen,trage,Verb,Packing,[],Packing,,d7ac3053f12406e2e1e5c044803ae146,trage
+,kleidung,Noun,Packing,[],Packing,Feminine,ff8110096c1b31097f3bc65db94ed6cc,kleidung
+,leute,Noun,Events,[],Events,,d0f32f68985f46acaaf6dddc3b3f6f67,leute
+,wochen,Noun,Travel 2,['a79029bd26a5dd9f7fc4faca65470c83'],Travel-2,Feminine,718eb58b9bcb2d41d816e6f21ed639c5,wochen
+,jacke,Noun,Packing,[],Packing,Feminine,b01b7c6806c7cab1b20bb6addb3ab757,jacke
+,warm,Adjective,Weather,['370c16f6e45c286d569a58b7de53d8b0'],Weather,,9bedfadbb97e99acbc655acd4f21e40a,warm
+,socken,Noun,Packing,[],Packing,Masculine,428366d298af2c7d1349162973274eaf,socken
+,mallorca,Proper noun,Packing,[],Packing,,db72412826f98c84e76ab3e72699395b,mallorca
+,kleid,Noun,Shopping,[],Shopping,Neuter,92ba1097117e4ea30476fd428e2f48d0,kleid
+,wieder,Adverb,Packing,[],Packing,,38a0e3a0df2571490846ce7dc1bfb72e,wieder
+lieben,liebst,Verb,Family 2,"['1db200cfbb364004bd461630cb64033b', '950d54aad87303c820e9f37fcde43bf7']",Family-2,,1a99ae09ae65903d1c8ac25e86681a72,liebst
+,rucksack,Noun,Travel 2,[],Travel-2,Masculine,287ef3da18fc62b9ab2135d7d87662e0,rucksack
+,wie oft,,Habits,[],Habits,,193d8f25fa9557cd35a89aa300bcf546,wie oft
+,tag,Noun,Leisure,[],Leisure,Masculine,4ec3fada040ec1e1033466eda7733243,tag
+scheinen,scheint,Verb,Packing,[],Packing,,8eb9beddbc93762d1a554f38503256fe,scheint
+,jeden,Adjective,Leisure,[],Leisure,,5f23c7982b595975030ad19b49833d56,jeden
+,sandalen,Noun,Packing,[],Packing,Feminine,d95f38b447e1b2d3bacda822751b8f55,sandalen
+,welche,Determiner,Packing,"['eed820b00002992b7ab198eff57722d4', 'a09f8c0178685adc8b484abf6ba8584e']",Packing,,af4b81e217d65e5826ed4fdb89117091,welche
+sein,sind,Verb,Apartment,"['ab6750aee2f31d980e3b5f9f9ecea02b', '9aac75af6c4763cfe75d16b87cc10604', '57e8aed4c315b289686064c402adcbc9', '6b1c28621e623451322c32fc2aa7459d', '4fdaa498ad844fc4c7adf7ddac542751', '2ac4ffe95f75b15d1d99aeebbb8321c7', '713d30d6c7922e90eefdb989d4d9ad56', '0b59f6cdecb914ed8e713bbbab6a7924', '71f5612281d1ecd419cfbe7ae49aaed3', 'df0b0165dae55e3bd922a746d9072e9d', '7b563f860cd0b0f43adf0a79e0188bcb']",Apartment,,ea162697009a9c78b38033a3fc8eb40f,sind
+mögen,magst,Verb,Apartment,"['80d14006256295d3d98b1a0d52cbbd81', 'c9f50c8a4faca3e35534e2e4093857e1', '4635584da9ff676724eca4ade50daa8b', '9512cc06f50a793c60f9fe22c313a24a', '8cb8f187613a439fd2964ab5515a66c3', '943b1d3eca0734f84a2b57d943b86c27']",Apartment,,de7cc64f2f73345c893d3de9bf662804,magst
+,orangen,Noun,Market,['7e4e784a7bd7e76807510a6a1b6a319d'],Market,Feminine,fece1ad326980b8102007976675d2a38,orangen
+,lustig,Adjective,People,[],People,,52eb4622f5258e4064c718980deacec0,lustig
+,lila,Adjective,Travel 2,[],Travel-2,,8c83b969bb317fbb8f88b646c6698464,lila
+,schick,Adjective,Shopping,[],Shopping,,5cfde0e892c6f1d762af6427aea0f351,schick
+,die,Determiner,Shopping,"['23cd8c19d766c397468d40c79efdf5ea', '1fce28079e74620982a0c36750cd183d']",Shopping,,d28d6a07b12660af2d09a03ecfcb4cf9,die
+,voll,Adjective,Packing,[],Packing,,bc1e800dc357a96ee276380a2742da5b,voll
+,winter,Noun,Weather,[],Weather,Masculine,5a9c09e90adb59f2e3ccfba55a91067f,winter
+,schmutzig,Adjective,Housing,[],Housing,,385a38f4595e1a54ebb7f86011060c82,schmutzig
+,rot,Adjective,Housing,[],Housing,,af88719c719b5cd59fe4272f9ab38966,rot
+,koffer,Noun,Travel 2,[],Travel-2,Masculine,acf95995e683fc4d96fa650eaa678aea,koffer
+,im schrank,,Packing,[],Packing,,fcc57a0653af6e3a4afbd54a3a66f24b,im schrank
+,welches,Determiner,Packing,"['af4b81e217d65e5826ed4fdb89117091', 'eed820b00002992b7ab198eff57722d4']",Packing,Neuter,a09f8c0178685adc8b484abf6ba8584e,welches
+,worterbuch,Noun,Travel 2,[],Travel-2,Neuter,ed5b6082fd7af9e407f75f0bb8d27a8b,wörterbuch
+,denn,Conjunction,Habits 2,[],Habits-2,,d4d27b39b722f9e7252b71907a0d2e4c,denn
+aufhören,aufhoren,Verb,Plans 3,[],Plans-3,,0d53d9df442c7babbb9e29ecf90145d7,aufhören
+,lang,Adjective,New Job,[],New-Job,,ee4085e6c696ac2f151026cae1d3290b,lang
+,auf,,Plans 3,['5dc649a611a945c4656f5549da21dc45'],Plans-3,,5e1534b93aecf8a8a144c964660813dc,auf
+enden,endet,Verb,Events,[],Events,,df53b5562814aabeb0540b1db71098ce,endet
+,schlecht,Adjective,Weather,[],Weather,,9983955c6ae5ccb44212967d15178a02,schlecht
+schneien,schneit,Verb,Weather,[],Weather,,12349bdb8a73e33b2bf8b547316903ca,schneit
+,wichtig,Adjective,Plans 3,[],Plans-3,,d66598552aae6ff2073af5830da08fa9,wichtig
+,handball,Noun,Plans 3,[],Plans-3,Masculine,ece15d129c582c7711945d5fc2a54471,handball
+,spiele,Noun,Plans 3,['2861b8414764ad2ff983600b84cfb67d'],Plans-3,Neuter,ae123c77e0828f5af225673449751518,spiele
+,spass,Noun,Events,[],Events,Masculine,6477616e58c4817f8bc8750e03e64cd7,spaß
+,viertel,Noun,Events,[],Events,Neuter,57e691b511c09c33fff613d03bf3dff4,viertel
+,vor,Preposition,Events,[],Events,,296398a95c37112637ffc14a502bada0,vor
+,bus,Noun,Transport,[],Transport,Masculine,0720edea146247f09d18a3de957be2be,bus
+fahren,fahrt,Verb,Habits 2,"['9f219a60dabccb989a0ebc782c89782d', '7645a1cabd0cd2e030fa30be181107c8', '55934363abfa6db8a0dfd17ab98b5d4e', '130ffdd8682cf5b7c79df84f493ed8a8']",Habits-2,,85140f779a6d4b9c58f4c4c7df2b1aef,fährt
+anfangen,anfangen,Verb,Plans 3,[],Plans-3,,afea9c6b2e69923504199c1cdb7d4885,anfangen
+,stadion,Noun,Plans 3,[],Plans-3,Neuter,5e4fb97ec25c83e5a2d784a895308cb2,stadion
+,zu fuss,,Transport,[],Transport,,796122696fecf29ed3f952d24d965d27,zu fuß
+,hallo,Interjection,Basics 1,[],Basics-1,,b77ab67cbe0cd5b103bae870365329f6,hallo
+,freund,Noun,Family 2,['dd0bc15fc77558d2f706fc3cc55b0350'],Family-2,Masculine,862030119fc9e9bf90cee4641d4b31e1,freund
+,band,Noun,Events,[],Events,Feminine,1ce18cee8269d714b06178d45bbc1e17,band
+,basketballspiel,Noun,Plans 3,[],Plans-3,Neuter,36847a9e9b0af7c7ac9cf0b2b1b83aac,basketballspiel
+,ich kann nicht,,Plans,[],Plans,,fdfd7846c05ab053da1d83d824beeb70,ich kann nicht
+,schade,Interjection,Plans,[],Plans,,2ca97165dafc42b572c610007cb80b54,schade
+,sein,Determiner,Languages,"['ab6750aee2f31d980e3b5f9f9ecea02b', 'ea162697009a9c78b38033a3fc8eb40f', '9aac75af6c4763cfe75d16b87cc10604', '57e8aed4c315b289686064c402adcbc9', '6b1c28621e623451322c32fc2aa7459d', '4fdaa498ad844fc4c7adf7ddac542751', '2ac4ffe95f75b15d1d99aeebbb8321c7', '0b59f6cdecb914ed8e713bbbab6a7924', '71f5612281d1ecd419cfbe7ae49aaed3', 'df0b0165dae55e3bd922a746d9072e9d', '7b563f860cd0b0f43adf0a79e0188bcb']",Languages,Neuter,713d30d6c7922e90eefdb989d4d9ad56,sein
+fahren,fahre,Verb,Habits 2,"['9f219a60dabccb989a0ebc782c89782d', '7645a1cabd0cd2e030fa30be181107c8', '85140f779a6d4b9c58f4c4c7df2b1aef', '130ffdd8682cf5b7c79df84f493ed8a8']",Habits-2,,55934363abfa6db8a0dfd17ab98b5d4e,fahre
+,motorrad,Noun,Family 3,[],Family-3,Neuter,176ae58484997b6cf67b8ec8636480a6,motorrad
+,ausverkauft,Adjective,Plans 3,[],Plans-3,,d9327e39167546bbe8ca601e359cca3e,ausverkauft
+,hilfe,Noun,Groceries,[],Groceries,Feminine,b9918499dee3487cff7fabd8ba9ddae4,hilfe
+,partner,Noun,Family 2,[],Family-2,Masculine,438681bf5493a3c68b0bf94b06e3d2b3,partner
+,monat,Noun,Roommate,"['0f756a5c108fa5e204d7f254726144ff', 'bf6f9fb8048c52ce6b25300535502a63']",Roommate,Masculine,c17567166985c966468031e825289707,monat
+,hemd,Noun,Shopping,[],Shopping,Neuter,c48ba1ed50cc3a88141bd817dc50fc8e,hemd
+,fertig,Adjective,Roommate,[],Roommate,,b1ea71d58eb94d317c3c039348257408,fertig
+,apotheke,Noun,Directions,[],Directions,Feminine,8bf8c81863fedd4c9d8d60285b00ea99,apotheke
+,bett,Noun,Apartment,[],Apartment,Neuter,ccb4821731b23ba13e83b96281a6a221,bett
+,reich,Adjective,Family 3,[],Family-3,,9f28f381354e4fb750867d4b88a96272,reich
+,jemand,Pronoun,On Break,[],On-Break,Masculine,59681d3648c43434c59f80453095c9cf,jemand
+,mai,Noun,Birthday,[],Birthday,Masculine,08aa57144380cbf8c6dc38870154bce3,mai
+laufen,laufen,Verb,Habits 2,"['8007e459f4921439b376738e08d11a27', '861c191bb083cb4ecf75def228920dd3', 'c6e924e608299cf9ad7af257cd2b00ba']",Habits-2,,c45121a9bc68518e47a7f0862bc32214,laufen
+,mude,Adjective,Health,[],Health,,f3ee385450eed87a09d6e01b3be89e52,müde
+,eintrittskarte,Noun,Plans,['9d736c1f100ae7f4d62ee5ba98ab27ea'],Plans,Feminine,1a886efd13005cf4a3c5bbf47bbde5a5,eintrittskarte
+kosten,kostet,Verb,Market,[],Market,,837856e5e76ac8ccdfe890ac9f84c103,kostet
+,siebzig,Numeral,Plans 3,[],Plans-3,,90b4c1147e9284414fdaa7c05d935c52,siebzig
+,krank,Adjective,Health,[],Health,,3c6879037e922e0ecdc137cf40a2da6d,krank
+,lieblingsband,Noun,Plans 3,[],Plans-3,Feminine,bc5ad79b51dfdd6f1519b04263bf419a,lieblingsband
+,aufgeregt,Adjective,Shopping,[],Shopping,,b96731312d51fe608234d337671f8117,aufgeregt
+,lieblingsteam,Noun,Plans 3,[],Plans-3,Neuter,45db0d707bad92e3178bfc26f9ba2fc3,lieblingsteam
+,ihrer,Determiner,Barbecue,"['946e2a221c7c91c9b280738c1c6521a9', '8da299f8205c5f23f09ca241db7bd3f0', 'a732d6874b29e652969729941a91e7a3', 'b0f5cfb71b30a379b468283a7851efb4', '319885bbe0fd73a21d979624d96cb748', '92f12c8ce6506f3ec2428e22eeb3d196', '5aac8b732e3beae17e847734ad19fdb1']",Barbecue,Feminine,ec1f819e146b31f8d1d3c5dfe4b5031e,ihrer
+,cool,Adjective,Places,['33d4a0322d94534614cc18eaf7abb406'],Places,,15c95f88bbac473c728968073f64a9a7,cool
+lesen,lesen,Verb,New Job,"['557379cbe1806198cbd023d34822d4e2', 'fe4cfec8848ffb07a7987af5a72755dc']",New-Job,,018a19656b483b0232a10629656dc9b7,lesen
+,ihrem,Determiner,Barbecue,"['8da299f8205c5f23f09ca241db7bd3f0', 'ec1f819e146b31f8d1d3c5dfe4b5031e', 'a732d6874b29e652969729941a91e7a3', 'b0f5cfb71b30a379b468283a7851efb4', '319885bbe0fd73a21d979624d96cb748', '92f12c8ce6506f3ec2428e22eeb3d196', '5aac8b732e3beae17e847734ad19fdb1']",Barbecue,Masculine,946e2a221c7c91c9b280738c1c6521a9,ihrem
+,jahr,Noun,Plans 2,['0b68cc9e2799899a1ba2c51969fff62d'],Plans-2,Neuter,215e3fde71728392f7fb2b0bf3314f7c,jahr
+,klein,Adjective,Places,[],Places,,36068ecb6f67928893c8e7775bf52755,klein
+,wein,Noun,Basics 1,[],Basics-1,Masculine,2488ce0402bb2becca1b0fd91e20780e,wein
+,pro,Preposition,Habits,[],Habits,,b7ae1c4b0c13b3a702ebb83198e8653e,pro
+,eure,Pronoun,New Job,"['3dec95cd1e62a5f41acc0a2ca8fc0651', '9b85534cf39688a05fabb5d3c7764165', 'a63897ab56aedc284eb8e40eeb20694e']",New-Job,Feminine,c43c45c53082813dbdfa63971432f29c,eure
+,flaschen,Noun,Food,['063327816bf5dfebc2d95a1d3902045d'],Food,Feminine,cceac730b6b4e1cc60cd1a9afc286f12,flaschen
+,ok,,Greetings,[],Greetings,,176cf916ae8d2f1dccb84f5bb6c8979e,ok
+,dreissig,Numeral,Travel,[],Travel,,cb6975c29aa40c2242b90998392842fc,dreißig
+liegen,liegen,Verb,Free Time,[],Free-Time,,5bc119c8b7172a3a0b028e25923333bf,liegen
+,herr,Noun,Questions,[],Questions,Masculine,c8cc7e485551d16fdf1b17db479b945a,herr
+,pullover,Noun,Shopping,[],Shopping,Masculine,a9c75f9b455e4a9ac24d8cc5515ec93b,pullover
+,tasche,Noun,Packing,[],Packing,Feminine,b9ccc1c0fd841c21d5445e3d64575bc9,tasche
+,kalt,Adjective,Restaurant,[],Restaurant,,325eab107d8f8fe9d09d19a740121d73,kalt
+,fruhling,Noun,Weather,[],Weather,Masculine,1be4e89e92e48c73584a71b38fd47bb5,frühling
+,grau,Adjective,Travel 2,[],Travel-2,,296d11ae461bab3833b4078f88b4f631,grau
+,bibliothek,Noun,Directions,[],Directions,Feminine,05a3ac3b5c0f23d1453f6fcb728cb759,bibliothek
+,oft,Adjective,Hobbies,[],Hobbies,,de6af9ef0776407418b6b8bf0789be40,oft
+,zeitung,Noun,On Break,['b6c7f93f4e72b0ada2f88b0addc5611d'],On-Break,Feminine,46ab865ea1c1fc8c19a6cebfac66fbc6,zeitung
+,jede,Determiner,Habits,[],Habits,Feminine,ddde7aca58abd77707d7732094ce4ef3,jede
+,hexe,Noun,Hobbies 2,[],Hobbies-2,Feminine,383c00310397942d74c933cbf5177e92,hexe
+,bucher,Noun,Housing,['21e73145e674d9185f3a808f95e55d97'],Housing,Neuter,ebc07158557c3e4a916a8ed8e0f2820e,bücher
+,vierzig,Numeral,Plans 2,[],Plans-2,,7655a2ada09916f97dd471f3a4bd6298,vierzig
+,volleyball,Noun,Leisure,[],Leisure,Masculine,1e8dceb8ae00ec2c2075152565a72fb8,volleyball
+,sonntags,Adverb,Habits,[],Habits,,f3a055b42bd66148e27b21028082326b,sonntags
+denken,denkst,Verb,Free Time,[],Free-Time,,cb00daf5c9c20eb1a7d63cbc5f6a1be2,denkst
+,nudeln,Noun,Habits,[],Habits,Feminine,377d8da4eb7cbd2a4528f57aebf78f76,nudeln
+,freundin,Noun,Jobs,['0ea48e1594a5fd820972256f95cb2f98'],Jobs,Feminine,089fc34fdd736b4308d89cde27b7a8fc,freundin
+essen,isst,Verb,Habits,"['5ac6336de0f683c21074570627e9410b', '20dde14c9907e353804d0de13f198543', 'aa82a48245fe4015d6bc8643ccdf7fa7', '3ce312a29fda532fad3af690e26e91e1']",Habits,,d0e80d740c4f2d0653951e65952c19d1,isst
+,seiner,Determiner,Barbecue,"['ab6750aee2f31d980e3b5f9f9ecea02b', 'ea162697009a9c78b38033a3fc8eb40f', '9aac75af6c4763cfe75d16b87cc10604', '57e8aed4c315b289686064c402adcbc9', '4fdaa498ad844fc4c7adf7ddac542751', '2ac4ffe95f75b15d1d99aeebbb8321c7', '713d30d6c7922e90eefdb989d4d9ad56', '0b59f6cdecb914ed8e713bbbab6a7924', '71f5612281d1ecd419cfbe7ae49aaed3', 'df0b0165dae55e3bd922a746d9072e9d', '7b563f860cd0b0f43adf0a79e0188bcb']",Barbecue,Feminine,6b1c28621e623451322c32fc2aa7459d,seiner
+,funf,Numeral,Market,[],Market,,c83599acc5c571cade0112e323ae88be,fünf
+,pflanzen,Noun,Housing,['d8945fcff21b9c86f2166a128cc5f278'],Housing,Feminine,626ba8735559941e30825b68608546d3,pflanzen
+,erdbeeren,Noun,Market,[],Market,Feminine,e416b12f715df7f2608f726710e139b0,erdbeeren
+,kino,Noun,Directions,[],Directions,Neuter,efdd17d74377e102072ff5c34eebb212,kino
+,vier,Numeral,Market,[],Market,,a81876e128bd19a93abd09216dfc8d56,vier
+wollen,wollen,Verb,Hotel,"['9eca41f89b644e6b35607d7cf0fb2b32', '5bf379e327e6605ccb476d9f6f30731b']",Hotel,,c175db9f4a48aa895f1e411a46d8cabe,wollen
+beginnen,beginnt,Verb,Events,[],Events,,1cc11e8cb4d13eb0aa14787aea4944aa,beginnt
+,rezeption,Noun,Hotel,[],Hotel,Feminine,b55a14c0cf4a741ec1ab7e97620aff0c,rezeption
+,frei,Adjective,Hotel,[],Hotel,,28dd092022240f6b95bb1587e402e950,frei
+,es gibt,,Hotel,['107541428191ed5bf1e425a444a9205a'],Hotel,,0f08b8a0cfa8ec28eedb2ed62ebd5ef8,es gibt
+,dusche,Noun,Hotel,[],Hotel,Feminine,2eb6b0db6b2e05de67dc2f74d3f84a40,dusche
+,doppelzimmer,Noun,Hotel,[],Hotel,Neuter,b4f85d0edc0eed0ed4dc58e3dc1cc883,doppelzimmer
+,fruhstuck,Noun,Hotel,[],Hotel,Neuter,2d11a913d84c62add35c886a1de9dc6f,frühstück
+,geoffnet,Adjective,Plans,[],Plans,,ad76ea641ac311ccd0c9321e8508d077,geöffnet
+,ruhig,Adjective,Hotel,[],Hotel,,55dfa1bf77e8c602577e76c902f31485,ruhig
+,einzelzimmer,Noun,Hotel,[],Hotel,Neuter,cc8013337d32ae9abce40f4cd4e2ff82,einzelzimmer
+,wie lange,,Transport,[],Transport,,ef71b1794201e7c6c56ccafcc1234a4c,wie lange
+,in der nahe,,Directions,[],Directions,,a4b8d4ac85a980d8460b11a4f7b4edf5,in der nähe
+,nachte,Noun,Hotel,['6fe9030e07f6fd866f000d4ef978e184'],Hotel,Feminine,11bfde7be6a7714e73a9652b773b4cf8,nächte
+essen,essen,Verb,Housing,"['20dde14c9907e353804d0de13f198543', 'd0e80d740c4f2d0653951e65952c19d1', 'aa82a48245fe4015d6bc8643ccdf7fa7', '3ce312a29fda532fad3af690e26e91e1']",Housing,,5ac6336de0f683c21074570627e9410b,essen
+,schwarz,Adjective,Housing,[],Housing,,a4d751e09af4060075aaa706eec51431,schwarz
+,alles,Pronoun,Food,[],Food,,ac9db88db6bd13f5bd421866a4dad6d5,alles
+,mikrowelle,Noun,Housing,[],Housing,Feminine,4ac3e4787e6dd60d96a4c1addc279816,mikrowelle
+,weiss,Adjective,Housing,[],Housing,,4e2bd8cf6819b31a5819e8f13439df31,weiß
+,keine,Determiner,Family 2,"['9cf5f992527b0aefe17624fafd17fd57', 'c9002420b3dd1f3ba022ea6fdce08f70']",Family-2,Feminine,bfcaa62ceb61fdcbfd9fd150f8ae8486,keine
+,mehrfamilienhaus,Noun,Housing,[],Housing,Neuter,8f069b39ba078065c720f87c1590b877,mehrfamilienhaus
+,stuhle,Noun,Housing,['badd49d0ae594f769e1cbfdf3c04c4be'],Housing,Masculine,cb39125c407527271be49e5674c669a7,stühle
+,esszimmer,Noun,Housing,[],Housing,Neuter,df9e986ae0edf7db9785ec3250061824,esszimmer
+,maus,Noun,Basics 2,[],Basics-2,Feminine,7b6084f7fdd4df9d3b5289233abe6fc6,maus
+,wohnung,Noun,Apartment,['78f465ed6aaf356d50f1be3de0ab1077'],Apartment,Feminine,0cdbfff9362ae115225fbdef35974082,wohnung
+,sofa,Noun,Housing,[],Housing,Neuter,15e87222f0e2ae99683d865ad79f9994,sofa
+,guten appetit,,Dining Out,[],DiningOut,,eeed342f881fc3643d01eeb4813c4706,guten appetit
+,ihre,Determiner,Birthday 2,"['946e2a221c7c91c9b280738c1c6521a9', '8da299f8205c5f23f09ca241db7bd3f0', 'ec1f819e146b31f8d1d3c5dfe4b5031e', 'a732d6874b29e652969729941a91e7a3', '319885bbe0fd73a21d979624d96cb748', '92f12c8ce6506f3ec2428e22eeb3d196', '5aac8b732e3beae17e847734ad19fdb1']",Birthday-2,Feminine,b0f5cfb71b30a379b468283a7851efb4,ihre
+,ich freue mich,,Plans,[],Plans,,03f015929a355636b32ba218b3d3fe1b,ich freue mich
+,salzig,Adjective,Birthday 2,[],Birthday-2,,66947a436134b6d8b1d292ce67e17060,salzig
+,nach hause,,On Break,[],On-Break,,430bfb5df8d9e947192fcc89e67c52e5,nach hause
+,zum flughafen,,On Break,[],On-Break,,a6e1cc3295965e78dc6fc7ef2cef64df,zum flughafen
+,vom bahnhof,,Birthday 2,[],Birthday-2,,929f938fafd8d92587003bc7e8c17a09,vom bahnhof
+,wer,Pronoun,Apartment,"['2a88f21404463795a20c715d412e2396', '4772656685c565533a1b5bf1cdc2836f']",Apartment,,006103987f06c9397971bc1ef5bde560,wer
+,bild,Noun,Housing,[],Housing,Neuter,962e634f9b4a38de3504683a4a0b7c67,bild
+bestellen,bestellen,Verb,Dining Out,[],DiningOut,,484fc91f6273e90ea702d5b240b22756,bestellen
+,geschenke,Noun,Birthday 2,['4db0e72a550096330839845c1c18b3dd'],Birthday-2,Neuter,ba7484b33a7341c891a211eb85f6708d,geschenke
+heißen,heisst,Verb,Family 2,"['80525e4d4d1127c8391a9fdd0e42fb6b', '92771583a54136b825153673556f1659']",Family-2,,49273c30db96b8eb2a20f429c0690976,heißt
+rufen,rufe,Verb,Party,"['403a900510fc6326ee93d680015bacf3', 'e69bf29cd6f65a60bd12413cf57c1043']",Party,,e1af12c4ca0a90d52b0d53aad4ff9d0e,rufe
+,dieser,Determiner,Community,"['9b4a06b70810c1035e3046fa387ba339', 'fd557a3f3516f8d1eb4b1466a7671206', 'd418d40a89b378ca4259548a947eda8f', 'e0a7b526dfb83c6073bc73e86b83af3e', 'a1ae22b23cd5b2934d664e554046f27c']",Community,Masculine,9e21df64419500ac06b210def7dddfb5,dieser
+,toll,Adjective,Languages,[],Languages,,00982eb1a1564b00d81ec1c591c6aadd,toll
+sprechen,spreche,Verb,Questions,"['77389fc10dd1971471d34c2036184e60', 'ea1bc226d0ac8bd24dca5831429ec822', 'f8e8b7e84b5f7543744650825d5415f8']",Questions,,b29ae90d223ab56f9bbe3b8c9e917b72,spreche
+,glas,Noun,Dining Out,['4756b5f269d27f8e9722900c5772b19d'],DiningOut,Neuter,545467d4c850b03bc2f54b13c2460a2b,glas
+,super,Adjective,Greetings,[],Greetings,,54dbff8752354020594b3f726f8c93ec,super
+,gaste,Noun,Barbecue,['a197aa1f2720eb76f0f57aa5416c121d'],Barbecue,Masculine,707d623b73499013b7388e9a91e45104,gäste
+,am see,,Barbecue,[],Barbecue,,68297d99a4bb89402615137917103975,am see
+,deiner,Determiner,On Break,"['dcbc121aecb08e610c3a08dd5baa7dd0', 'dd697f8e1234efb2cbc33c379f6c9912', '95a5b32daf755b8ec21c3fcfc9fed688', '2fdce2ac591b483ad7c5b8b44346ef15', '76488439ef737ef7cf368657d5d3a579', 'b4925b813ecc0a1f9dcf205a258c69e5']",On-Break,Feminine,a2c2a92b69b243135e36c39a9d5a9378,deiner
+,sechsunddreissig,Numeral,Barbecue,[],Barbecue,,1c43dc3c5fb3e17eefe9e0203175f332,sechsunddreißig
+,platz,Noun,Barbecue,[],Barbecue,Masculine,47d22050dd27357f7a75aca380958455,platz
+,genug,Pronoun,Groceries,[],Groceries,,352468c765ee8a5cd6989ccbb54baba2,genug
+wollen,will,Verb,New Job,"['c175db9f4a48aa895f1e411a46d8cabe', '9eca41f89b644e6b35607d7cf0fb2b32']",New-Job,,5bf379e327e6605ccb476d9f6f30731b,will
+malen,malen,Verb,Party,"['c972457bda857bef8aac3faf1975083e', '648da31466ccd4021b963f8b045c8cfa', 'a5d538f6e944444179ff0457a2fb4c66']",Party,,2452dcb3afba3682248b6c78a4da6317,malen
+,regenschirm,Noun,Weather,[],Weather,Masculine,28fc4202b8655adde34bc233420c0713,regenschirm
+,schildkrote,Noun,Family 3,[],Family-3,Feminine,c300bbf24b26ef15167eb07624b9bd0c,schildkröte
+,toiletten,Noun,Shopping,[],Shopping,Feminine,fb05f518ce18a1d8b586b5f966575341,toiletten
+geben,gebe,Verb,Party,"['d04bb2069c5527fc8aa685fcb239461e', 'c9693faf5c2bda4632e5689d838f638d', 'fee350a706db6d58fd9360671e6d34cc']",Party,,ee017ef67a27281bea801fd6bcd1439d,gebe
+,geschenk,Noun,Birthday,['ba7484b33a7341c891a211eb85f6708d'],Birthday,Neuter,4db0e72a550096330839845c1c18b3dd,geschenk
+,gleich,Adverb,Groceries,[],Groceries,,449f33434a54c09b3371793b8d945850,gleich
+schreiben,schreibt,Verb,Party,[],Party,,b3bc0e44fa986a0a37b72d61f55e6828,schreibt
+schicken,schicke,Verb,Party,[],Party,,e7f6af7f5f6a89d7af0613bd4a3ba6c0,schicke
+,zweihundert,Numeral,Travel 2,[],Travel-2,,2bb726854c81362c00404a27074f3aba,zweihundert
+,ein,,Barbecue,"['7f78970589f8a9fe95bca610215c051a', '6f9902a2e4d1f353aecc47843c9df6e7', '1064e9fdf75eafe86207caa8a36cb594', '743819fb236e8f66b5be133a6259a953', '9fd5e36e3610cccd451acba4d29990ca']",Barbecue,,76443cfe0e3f05570e98e35a330dbfff,ein
+,schnecke,Noun,Family 2,[],Family-2,Feminine,a79ddd9baf7f11749914ece1eb576088,schnecke
+,samstags,Adverb,New Job,[],New-Job,,1bfeecfbd3c338c4b81b55d692a1efe3,samstags
+,zur party,,Birthday,[],Birthday,,b13e17fe50982d008d4aa6bd7a07151a,zur party
+,ehemann,Noun,Barbecue,[],Barbecue,Masculine,c3d9515d10d921a34f0039c2932d3b75,ehemann
+,grillparty,Noun,Barbecue,[],Barbecue,Feminine,b78633e4a3afed2ade6ef241c4c4cad4,grillparty
+,ein,,Barbecue,"['76443cfe0e3f05570e98e35a330dbfff', '7f78970589f8a9fe95bca610215c051a', '6f9902a2e4d1f353aecc47843c9df6e7', '743819fb236e8f66b5be133a6259a953', '9fd5e36e3610cccd451acba4d29990ca']",Barbecue,,1064e9fdf75eafe86207caa8a36cb594,ein
+,zur,Pronoun,Barbecue,[],Barbecue,,28dacbea0aadef1bfe6ae8bf1175d44f,zur
+,auf dem markt,,Barbecue,[],Barbecue,,f177e411b2a0b0e78381def77595fdf8,auf dem markt
+,fleisch,Noun,Dining Out,[],DiningOut,Neuter,ae5524049797af0b315b92822ce128b9,fleisch
+,getranke,Noun,Plans 2,[],Plans-2,Neuter,63af71f175495c6cc53a256f05393ee3,getränke
+,glaser,Noun,Barbecue,['545467d4c850b03bc2f54b13c2460a2b'],Barbecue,Neuter,4756b5f269d27f8e9722900c5772b19d,gläser
+,teller,Noun,Barbecue,[],Barbecue,Masculine,3bc8d7a38e61db5d279dc5c2854ac5a9,teller
+,dollar,Noun,Market,[],Market,Masculine,511f8c1f7b616306826596e9f4d2e454,dollar
+,ehefrau,Noun,Barbecue,[],Barbecue,Feminine,7f1a12bc3dc1cafee62a744be562cf54,ehefrau
+,instrument,Noun,Hobbies 2,[],Hobbies-2,Neuter,444f17dbaf7cf8511891db23a60b7cf3,instrument
+wandern,wandert,Verb,Weather,"['ff41b0209e9350a7daec57f2282ca449', '65a1e7ce16b7ec401a108b95521e2ae3', 'ce33df55777d4b63a72eff87580dfe0d']",Weather,,ce9ef05093c9cd0d0c227f37c0d92a25,wandert
+,sie,Pronoun,Food,[],Food,Feminine,d933de742fb2312264859d95a6940bad,sie
+,diese,Determiner,Community,"['fd557a3f3516f8d1eb4b1466a7671206', '9e21df64419500ac06b210def7dddfb5', 'd418d40a89b378ca4259548a947eda8f', 'e0a7b526dfb83c6073bc73e86b83af3e', 'a1ae22b23cd5b2934d664e554046f27c']",Community,,9b4a06b70810c1035e3046fa387ba339,diese
+malen,malt,Verb,Hobbies,"['648da31466ccd4021b963f8b045c8cfa', 'a5d538f6e944444179ff0457a2fb4c66', '2452dcb3afba3682248b6c78a4da6317']",Hobbies,,c972457bda857bef8aac3faf1975083e,malt
+,nachbar,Noun,Housing,['91dd48dac51d317ea51f22b7e591ab17'],Housing,Masculine,fcce585198707b2f1a31108fb7731a5d,nachbar
+lernen,lernt,Verb,Languages,"['cee314fa43551daf3690bb5cdda0bf23', 'f804038329c1d0fe7a0a42c5f38b2081']",Languages,,76390c1350a8dac31186187e2fe1e178,lernt
+,stadtzentrum,Noun,Transport,[],Transport,Neuter,8dd1947566c12f0cda18d6e7bb2837ce,stadtzentrum
+,junge,Noun,Basics 2,['5402c918d52888ba17fb04e9da7405f2'],Basics-2,Masculine,dc3df495a321ca6c1c5506a43776981d,junge
+,schule,Noun,Community,[],Community,Feminine,0182072599f0e1aa6786d08e559e965d,schule
+,museum,Noun,Directions,[],Directions,Neuter,ee3032308c6152c41effbede04e66b0e,museum
+,strasse,Noun,Transport,['cef5e6a128b291f79e29adcceecfabfa'],Transport,Feminine,8e246402543d6923816e8ff1bf29996e,straße
+,jeder,Determiner,Community,[],Community,Masculine,b789d8e5c91f4183bc2bf525d4fd7cf3,jeder
+haben,hat,Verb,Family 2,"['868e33555cb34d2f50ef702111cfd58b', 'e15f13f230d129ce73b482d92222ae79', '9780135201a381516d9c84324771e811', 'bc132fa899e138377a3d89eb3125a2f1']",Family-2,,5fa1f0fcc3b5d93b8617169e59884367,hat
+,s-bahn,Noun,Community,[],Community,Feminine,fc9c3d22530f3f86342a7b6f3beb1fe5,s-bahn
+,hoch,Adjective,Community,[],Community,,6cbecb4235e2b057a852ce14391fb499,hoch
+,anwalt,Noun,Questions,[],Questions,Masculine,c562b42cb37e8f35f61b5613c7e3ac83,anwalt
+,luftballons,Noun,Birthday 2,[],Birthday-2,Masculine,3eaff334ce9d6e257cfd78e5b1d6c396,luftballons
+gehen,gehst,Verb,Free Time,"['b3d6d1e3f6ac903b1feee1492e6d0f16', 'd4501d74f60c4fd0d00584d89a2ab040', 'a2aff52124c0a2d82336b90a3932cb37']",Free-Time,,f2f578ef16b882e00d242ca5d17ff60f,gehst
+gehen,geht,Verb,Free Time,"['b3d6d1e3f6ac903b1feee1492e6d0f16', 'd4501d74f60c4fd0d00584d89a2ab040', 'f2f578ef16b882e00d242ca5d17ff60f']",Free-Time,,a2aff52124c0a2d82336b90a3932cb37,geht
+,euren,Determiner,Birthday 2,"['c43c45c53082813dbdfa63971432f29c', '9b85534cf39688a05fabb5d3c7764165', 'a63897ab56aedc284eb8e40eeb20694e']",Birthday-2,Masculine,3dec95cd1e62a5f41acc0a2ca8fc0651,euren
+,jahre,Noun,People,['215e3fde71728392f7fb2b0bf3314f7c'],People,Neuter,0b68cc9e2799899a1ba2c51969fff62d,jahre
+,dieses jahr,,Events,[],Events,,0f3227873a80b0f23091ee3e6522e09d,dieses jahr
+,wichtiger tag,,Birthday 2,[],Birthday-2,,2eec3ee7f33a1469cc568d0aca8fc5b9,wichtiger tag
+rufen,rufen,Verb,Party,"['e69bf29cd6f65a60bd12413cf57c1043', 'e1af12c4ca0a90d52b0d53aad4ff9d0e']",Party,,403a900510fc6326ee93d680015bacf3,rufen
+rufen,ruft,Verb,Party,"['403a900510fc6326ee93d680015bacf3', 'e1af12c4ca0a90d52b0d53aad4ff9d0e']",Party,,e69bf29cd6f65a60bd12413cf57c1043,ruft
+machen,mach,Verb,Packing,"['d7b4290eaa4918f65f8e5ce8a612a3df', 'e6bd411053e003fc740382ee53609560', '9b1dc55147861a22541051c15bc4695b', 'bc303f70358e7e7a6a8bffa879f9021c']",Packing,,70c956a45c542e1db9e4c78c6ca99051,mach
+,heiss,Adjective,Restaurant,[],Restaurant,,8596d0e478789e269909a4ba4d81250f,heiß
+,kollege,Noun,New Job,['910a39a805d45bac1d6f54b683f136d4'],New-Job,Masculine,d3e7c565e9459bdd03fc97c14789b8ba,kollege
+,dann,Adverb,Transport,[],Transport,,4d41fd34d98a435488aa1fece31f3183,dann
+gehen,geh,Verb,Health,"['b3d6d1e3f6ac903b1feee1492e6d0f16', 'f2f578ef16b882e00d242ca5d17ff60f', 'a2aff52124c0a2d82336b90a3932cb37']",Health,,d4501d74f60c4fd0d00584d89a2ab040,geh
+kosen,kosten,Verb,Travel,[],Travel,,bdd9ca582d72cb3896313e83fcc41aab,kosten
+,am besten,,Food,[],Food,,8d6d8403ead52815cb4b3de08ce02417,am besten
+,spat,Adjective,Travel,[],Travel,,187cc8531b51a6c1885624450318f165,spät
+,elf,Numeral,Transport,[],Transport,,ae448b2f655fc82481cceaf40df87804,elf
+,viel,Adverb,Health,[],Health,,91864b478b62fca94e0c6fa88b60e159,viel
+,schnell,Adverb,Languages,['17d8af71a399e629030027555aae5bfc'],Languages,,2129782ef874c8d174ad1af1614e414e,schnell
+hören,horen,Verb,Plans 3,"['7574289d3f4d6705e724c3c13db68df5', '53f31bcf92a8c9e421ded3e192020b12', '4485cb44e481145b666cf0b43c80f377']",Plans-3,,b150fe266cffdc87fb8558050b4af15a,hören
+,taxi,Noun,Transport,['1b188b24940d3a80f617f16400fdf622'],Transport,Neuter,d78b4ccc6cb50a8ec05fb1a4436c55a1,taxi
+,cola,Noun,Roommate,[],Roommate,Feminine,07612110af11b3d3b596d339e3f91490,cola
+,auto,Noun,Family 3,[],Family-3,Neuter,439545dd55d14d061a03fe41f9624301,auto
+sein,bist,Verb,Family,"['ab6750aee2f31d980e3b5f9f9ecea02b', 'ea162697009a9c78b38033a3fc8eb40f', '9aac75af6c4763cfe75d16b87cc10604', '57e8aed4c315b289686064c402adcbc9', '6b1c28621e623451322c32fc2aa7459d', '4fdaa498ad844fc4c7adf7ddac542751', '2ac4ffe95f75b15d1d99aeebbb8321c7', '713d30d6c7922e90eefdb989d4d9ad56', '0b59f6cdecb914ed8e713bbbab6a7924', 'df0b0165dae55e3bd922a746d9072e9d', '7b563f860cd0b0f43adf0a79e0188bcb']",Family,,71f5612281d1ecd419cfbe7ae49aaed3,bist
+fangen,fangt,Verb,Plans 3,[],Plans-3,,1efca428fa1435ad8d6c6a3111267abe,fängt
+kaufen,kauf,Verb,Groceries,"['f372629f35af5be36012231f8943dbb3', 'fac15f783f9d442e2f97036aa6d3df72', '8c7cf67f91be0169781d00da5118d6cc', '7fcba9a2ee249cc99be8049a0605d261']",Groceries,,4c3e97878ee816a96e4b7b36090c622f,kauf
+,zum strand,,On Break,[],On-Break,,80126ebf8e0b90aa5e4d2f03381307ef,zum strand
+,kaffee,Noun,Basics 1,[],Basics-1,Masculine,e25a8f420cb9576afd58b942b6294be5,kaffee
+,zufrieden,Adjective,Family 3,[],Family-3,,fe5012d53fd56085fc54f425ee0a1652,zufrieden
+,baume,Noun,Community,[],Community,Masculine,aaf079a9b78ff86cc82bd0d2e1c8cd67,bäume
+,student,Noun,Jobs,['64c3c4d09985e997cc756599df18de9d'],Jobs,Masculine,decbc4b616c005f932ede26b233a79d8,student
+trinken,trinken,Verb,Dining Out,"['1bf6ad9957facdc1d93f22b227f06757', '306560d6f47275980bdfc69f8f338552', '57457e31abab4aef08489362a8ac1130']",DiningOut,,da2936610224441b32b627714dedc2d6,trinken
+,cafes,Noun,Community,['1930b34f47a93b1ba9cea96d106424fd'],Community,Neuter,75032c5252df6be7634cf5433bdc40ce,cafés
+,stadtviertel,,Community,[],Community,Neuter,7ed98fef645816a04f409eee69012dc0,stadtviertel
+,alt,Adjective,Directions,[],Directions,,ad04a18a3c498de2965c44078e374c34,alt
+schließen,schliesst,Verb,Plans 2,[],Plans-2,,db107dc0b892b55b911a2f0ff73b88d8,schließt
+,in dem stadtviertel,,Community,[],Community,,0cff21248a0eff5ce9609ea07241ac58,in dem stadtviertel
+,elefant,Noun,Basics 2,['4286faacaa598d83a206a9c36efdf4f9'],Basics-2,Masculine,9f0897bf3c43ab2e7e29b6b2896aee2d,elefant
+,geschaft,Noun,Community,['a87a14521b211840c8fba1194b68511a'],Community,Neuter,5a5ef6d575b35fcce4bf6bed0fc4ef69,geschäft
+,gross,Adjective,Family,[],Family,,bbb4038a5d86da6b6f252a85f33a1a0b,groß
+,gebaude,Noun,Community,[],Community,Neuter,5d6215dcd01137570e463542b3ff8b95,gebäude
+,elefanten,Noun,Community,['9f0897bf3c43ab2e7e29b6b2896aee2d'],Community,Masculine,4286faacaa598d83a206a9c36efdf4f9,elefanten
+,bank,Noun,Community,"['c08f8acf0e4ec14c359f2f3a74f896af', '38d347b9db150a942aa52e270bf95439']",Community,Feminine,2cf3e8f0f535b9279501e26c2a4c23c1,bank
+,weit weg,,Directions,[],Directions,,6b06b036a6a25b911da33f4de02d1719,weit weg
+,von,Preposition,Plans,['058b9a635fee05704970a7d609529c0b'],Plans,,2b9e246988d56aaa7740de59a866ac9f,von
+,bis,Preposition,Plans,[],Plans,,abaf6ae8ad5b7cb18af6a83b4fe0a701,bis
+,ab,,Birthday 2,[],Birthday-2,,1cd148686b8a9883309383d475ff1d06,ab
+holen,holst,Verb,Birthday 2,"['49ec8a864d1f75575cc8bef4d288bf15', 'a766aa09c653f2aa31c20f10d6b1bb52', '54599bc9e932d937677b35ea54eb324c']",Birthday-2,,452247a7c60d0ba712cfcff19aeeb4b2,holst
+,fuss,Noun,Barbecue,[],Barbecue,Masculine,ddc26e58c0699cd888db115c93fc8d9c,fuß
+,gebrochen,Adjective,Barbecue,[],Barbecue,,189e8833cec070ec0095d99630b188cc,gebrochen
+,viele,Pronoun,Barbecue,['7a04eddb8bb4d557d64fafb55a295937'],Barbecue,,b871e7f7be5a8d1b675d8d746beb5793,viele
+,funfundfunfzig,Numeral,Barbecue,[],Barbecue,,9b3d82852f489c36deb584732a81f21c,fünfundfünfzig
+,nachtisch,Noun,Dining Out,[],DiningOut,Masculine,18e771b8c137f29f8b155b15681e9f66,nachtisch
+treffen,treffe,Verb,Habits,"['3fefda4ea2f8a2f63d1bb170a9c5aaeb', '0c11538b555d1735e65f5fa4d6f2eacf']",Habits,,6466b1fd55878087e4c0dfd94e791380,treffe
+,achtunddreissig,Numeral,Barbecue,[],Barbecue,,d1d42fb381ca0c557618ec173072afc1,achtunddreißig
+,siebenunddreissig,Numeral,Barbecue,[],Barbecue,,60cd0d9d7bd162eb9dc03456d077ca3d,siebenunddreißig
+laden,lade,Verb,Barbecue,"['71ddd1a9fb02ab98b89d78aa7088c871', '8fdea597bd68eaafdaf12e9e6ac205c8', 'e702215c71649250ef58b8fbdf497ed6']",Barbecue,,71f1c697813f3512941144c0dfd8d0bb,lade
+bringen,bringst,Verb,Birthday 2,"['2549e96ce8263a3fbb04a443e724cb05', '35c6d857d0ad333c74dc25d8f2fbb148', '6ec0c2fd842bac07f69a25b0d1709637']",Birthday-2,,ceb0ae78f484fdefea43466cffbde939,bringst
+,cent,Noun,Groceries,[],Groceries,Masculine,c97043d94624ae1db798caf1b5033f8c,cent
+,pizzas,Noun,Birthday 2,['a79fd9b7a9b5f1cc08f238f0ae753b2a'],Birthday-2,Feminine,1ff4bf1607e5e5514fd64960b48c0620,pizzas
+,dreizehn,Numeral,Transport,[],Transport,,1a3b074e8574856e70cd674c7ce27a20,dreizehn
+,supermarkt,Noun,Directions,[],Directions,Masculine,0874d6a8bfd64329d46fea794b9cd3c9,supermarkt
+,zweiundzwanzig,Numeral,Barbecue,[],Barbecue,,d183627f6b08cde8f7189667c27b3546,zweiundzwanzig
+,einundzwanzig,Numeral,Barbecue,[],Barbecue,,f46b40fbae38979e4e10059bdf54f465,einundzwanzig
+,ein,Numeral,Barbecue,"['76443cfe0e3f05570e98e35a330dbfff', '7f78970589f8a9fe95bca610215c051a', '6f9902a2e4d1f353aecc47843c9df6e7', '1064e9fdf75eafe86207caa8a36cb594', '9fd5e36e3610cccd451acba4d29990ca']",Barbecue,,743819fb236e8f66b5be133a6259a953,ein
+,stuck,Noun,Groceries,[],Groceries,Neuter,ba1055a4374a193ce59fc5e2101e8e19,stück
+,apfel,Noun,Roommate,['436c1db70869caf1941c8005bd5e453f'],Roommate,Masculine,d3b53a81838ba966353a2e4d9f31da06,apfel
+,pizza,Noun,Restaurant,['1ff4bf1607e5e5514fd64960b48c0620'],Restaurant,Feminine,a79fd9b7a9b5f1cc08f238f0ae753b2a,pizza
+,jungen,Noun,Community,['dc3df495a321ca6c1c5506a43776981d'],Community,Masculine,5402c918d52888ba17fb04e9da7405f2,jungen
+,ferien,Noun,On Break,[],On-Break,,6fac8bb16954c4bf7e18f081ba8cb685,ferien
+,diesen,Determiner,Plans 2,"['9b4a06b70810c1035e3046fa387ba339', '9e21df64419500ac06b210def7dddfb5', 'd418d40a89b378ca4259548a947eda8f', 'e0a7b526dfb83c6073bc73e86b83af3e', 'a1ae22b23cd5b2934d664e554046f27c']",Plans-2,Masculine,fd557a3f3516f8d1eb4b1466a7671206,diesen
+,geschichte,Noun,People,[],People,Feminine,ddf157d3045a235504010db50fece100,geschichte
+,unten,Adverb,Community,[],Community,,2e976c3d222a12e27d5cc7ae21090d8f,unten
+,studenten,Noun,Community,['decbc4b616c005f932ede26b233a79d8'],Community,Masculine,64c3c4d09985e997cc756599df18de9d,studenten
+,verheiratet,Adjective,Community,[],Community,,a9925cc2f244b83b654322d3e07afb3c,verheiratet
+mögen,mogen,Verb,Community,"['de7cc64f2f73345c893d3de9bf662804', 'c9f50c8a4faca3e35534e2e4093857e1', '4635584da9ff676724eca4ade50daa8b', '9512cc06f50a793c60f9fe22c313a24a', '8cb8f187613a439fd2964ab5515a66c3', '943b1d3eca0734f84a2b57d943b86c27']",Community,,80d14006256295d3d98b1a0d52cbbd81,mögen
+,nachbarin,Noun,Housing,[],Housing,Feminine,f90e1c91ef54535804429034ab19f2e6,nachbarin
+sitzen,sitzt,Verb,Community,['8269ad878a3caa723da085b183282424'],Community,,8835586fa39ae7fd5867fa19c21e3404,sitzt
+,gefahrlich,Adjective,Community,[],Community,,d10393144f67bf0d44b1d14385a182fa,gefährlich
+,blumen,Noun,Housing,[],Housing,Feminine,2ac9e7b05707b28854882275d560ccfa,blumen
+,nachbarn,Noun,Community,['fcce585198707b2f1a31108fb7731a5d'],Community,Masculine,91dd48dac51d317ea51f22b7e591ab17,nachbarn
+,gras,Noun,Food,[],Food,Neuter,acd3f1ddba3ffa66e86c196e773b9037,gras
+,baren,Noun,Community,['f38c02b7c9efbffab9d50333675d1268'],Community,Masculine,3e415b96f79d16191df060468c4b1a59,bären
+,grun,Adjective,Food,[],Food,,93a2a59a46cfb08198bb20a063779d1b,grün
+,wohnungen,Noun,Community,['0cdbfff9362ae115225fbdef35974082'],Community,Feminine,78f465ed6aaf356d50f1be3de0ab1077,wohnungen
+,geschwister,Noun,Family 3,[],Family-3,Neuter,b98e330be13b0c871b87fdbe6de24f79,geschwister
+,neun,Numeral,Market,[],Market,,99f11ea7e71112335e4b6f13e148d522,neun
+,teuer,Adjective,Places,[],Places,,a203bafb4a85d0211706002773ded00c,teuer
+,neu,Adjective,Directions,[],Directions,,97f36cc361bc4fdf4cb22efd09ace359,neu
+,parks,Noun,Community,['6975d9db52bcf614dd895586090d736e'],Community,Masculine,27495ed8a71d984cbd1a8183b1067a49,parks
+,modern,Adjective,Apartment,[],Apartment,,6d16001772f0cdf7027d5650668f2ce9,modern
+,restaurants,Noun,Community,['6e7a0473356fd92bc4161a7ea3bc8d0c'],Community,Neuter,d1be06e013e3f4ee6f59c03ffaee2f32,restaurants
+,griechisch,Adjective,Dining Out,[],DiningOut,,ed8a1810a245c8987c089f64dd59bf89,griechisch
+kennen,kennst,Verb,Community,['1f1c0f96e3a4db4865788af70b7628b1'],Community,,f1929412b37f9edbf63c85834f82be37,kennst
+,glucklich,Adjective,Health,[],Health,,501e4d2640132da2b6b6c85492caee0d,glücklich
+,samstag,Noun,Plans,[],Plans,Masculine,3e644daff052b423679ef37ebd5db4b7,samstag
+,deutscher,Noun,People,[],People,Masculine,d6759147406b2f2e973b6a16ad91f801,deutscher
+,lehrer,Noun,Jobs,[],Jobs,Masculine,877691cf9ceef9e92489bd8129ff3bb1,lehrer
+kennen,kennt,Verb,Community,['f1929412b37f9edbf63c85834f82be37'],Community,,1f1c0f96e3a4db4865788af70b7628b1,kennt
+benutzen,benutzt,Verb,Community,[],Community,,0c6a17fd9dee1c9e4e20bcdf1f2b9a9f,benutzt
+grillen,grillen,Verb,Hobbies 2,['ce462e93a5c4d8c90c9221155b284f37'],Hobbies-2,,a4881004de74042618150ba17dff41ae,grillen
+,was fur,,Barbecue,[],Barbecue,,10fd36e6139fbafbb6ea7b77ebc56702,was für
+,bier,Noun,Basics 1,[],Basics-1,Neuter,36bbac34e91bc5f481bc0d93c3e17f5b,bier
+,fisch,Noun,Family 2,[],Family-2,Masculine,e432ebdf04a83966b4645a37daa21f29,fisch
+,sonntag,Noun,Plans,[],Plans,Masculine,679aa51280e8807fd02aad4fe90a66a0,sonntag
+,kartoffelsalat,Noun,Food,[],Food,Masculine,bf21022780a25fbfccb3b5f3660e2d19,kartoffelsalat
+einkaufen,einkaufen,Verb,Barbecue,[],Barbecue,,3cdbbbbe97d6c0110c3141c8c8a68869,einkaufen
+,salat,Noun,Restaurant,[],Restaurant,Masculine,53177c1e31d75b10986ad10b9fd485ea,salat
+,theater,Noun,New Job,[],New-Job,Neuter,e7c42cbc874a413f51d32eb921313801,theater
+,buch,Noun,New Job,['ebc07158557c3e4a916a8ed8e0f2820e'],New-Job,Neuter,21e73145e674d9185f3a808f95e55d97,buch
+,universitat,Noun,Directions,[],Directions,Feminine,45c408f51ab943e6aa693da4acc0af63,universität
+,riesenrad,Noun,Events,[],Events,Neuter,6faefdd91c69ec0e0acc269c577df9fc,riesenrad
+,kirche,Noun,Directions,[],Directions,Feminine,1e7f16e243e255dd4edddced7071d997,kirche
+sitzen,sitzen,Verb,Community,['8835586fa39ae7fd5867fa19c21e3404'],Community,,8269ad878a3caa723da085b183282424,sitzen
+,hobbys,Noun,Hobbies 2,[],Hobbies-2,Neuter,07646ab49b00ee5e9db63b19a5faeb02,hobbys
+arbeiten,arbeitet,Verb,People,"['d126ce29865b1d87c002a89c80ad134b', '74e6acd80e402a94e9728738d89b29ac']",People,,8b04de044faaa29b15fe65003c2d5a6c,arbeitet
+,hilfreich,Adjective,Roommate,[],Roommate,,ab3a91e781cf1143aa0e9eb2b25d145d,hilfreich
+,zum abendessen,,Habits,[],Habits,,097ee02c0a79d1b696a62c5f757920a6,zum abendessen
+,adresse,Noun,Transport,[],Transport,Feminine,969940e8a1a9a534d4e2f2f5655baca0,adresse
+,prost,,Greetings,[],Greetings,,33dd5fee254c8149888a4b7896eaf55c,prost
+,bioladen,Noun,Groceries,[],Groceries,Masculine,e772cbec17a2ecdbb95ac89110622888,bioladen
+,vierzehn,Numeral,Transport,[],Transport,,c93875139005b2f2317a4b22f8fac63b,vierzehn
+,brot,Noun,Basics 1,[],Basics-1,Neuter,32c1b5f5651424003185cae76c27588f,brot
+,mehr,Adverb,Health,[],Health,,6a0ba1239a285e43a37bcfb586beef79,mehr
+,funfundachtzig,Numeral,Barbecue,[],Barbecue,,a70f8c8247e148727147e1a42067a60b,fünfundachtzig
+,achtundachtzig,Numeral,Barbecue,[],Barbecue,,3df0298d2204b997060109219c2ae7be,achtundachtzig
+,achtzig,Numeral,Barbecue,[],Barbecue,,14316526e34ded9a45968f162223a2b2,achtzig
+,funfzig,Numeral,Barbecue,[],Barbecue,,58ad4cc6b98eec2528ffd230a1d9080b,fünfzig
+laden,ladt,Verb,Barbecue,"['8fdea597bd68eaafdaf12e9e6ac205c8', '71f1c697813f3512941144c0dfd8d0bb', 'e702215c71649250ef58b8fbdf497ed6']",Barbecue,,71ddd1a9fb02ab98b89d78aa7088c871,lädt
+laden,ladst,Verb,Barbecue,"['71ddd1a9fb02ab98b89d78aa7088c871', '71f1c697813f3512941144c0dfd8d0bb', 'e702215c71649250ef58b8fbdf497ed6']",Barbecue,,8fdea597bd68eaafdaf12e9e6ac205c8,lädst
+laden,laden,Verb,Barbecue,"['71ddd1a9fb02ab98b89d78aa7088c871', '8fdea597bd68eaafdaf12e9e6ac205c8', '71f1c697813f3512941144c0dfd8d0bb']",Barbecue,,e702215c71649250ef58b8fbdf497ed6,laden
+,mittag,Noun,Habits 2,[],Habits-2,Masculine,b43ece1f38b2c78e90e79269d5d1e9fe,mittag
+,jedes,Determiner,Plans 2,[],Plans-2,Neuter,1a48d99e9b9ca07c8fbc7a16e4285aef,jedes
+kochen,kocht,Verb,Hobbies,"['e0d7f9ce80ee10512d928024c7eb79b8', '56709e26ea6528cc3f85af706a4d0803', '976188e6d637a2c014be32fb0541eb9f']",Hobbies,,b8408e2fc12bf8f1be64f2585bdddc43,kocht
+,wochenende,Noun,Plans 2,[],Plans-2,Neuter,2325b2fa530b233dc52a7ec910813d8b,wochenende
+,gemuse,Noun,Food,[],Food,Neuter,94eb70f522bfa59af61daa85f24f0cc8,gemüse
+,kase,Noun,Restaurant,[],Restaurant,Masculine,dcd7c4c4e4abcea302b682264fa3c173,käse
+,backerei,Noun,Directions,[],Directions,Feminine,2edc58a53752133ffc42c3a8bb2b196d,bäckerei
+kaufen,kaufst,Verb,Barbecue,"['4c3e97878ee816a96e4b7b36090c622f', 'f372629f35af5be36012231f8943dbb3', '8c7cf67f91be0169781d00da5118d6cc', '7fcba9a2ee249cc99be8049a0605d261']",Barbecue,,fac15f783f9d442e2f97036aa6d3df72,kaufst
+kaufen,kaufe,Verb,Barbecue,"['4c3e97878ee816a96e4b7b36090c622f', 'f372629f35af5be36012231f8943dbb3', 'fac15f783f9d442e2f97036aa6d3df72', '8c7cf67f91be0169781d00da5118d6cc']",Barbecue,,7fcba9a2ee249cc99be8049a0605d261,kaufe
+,mit,Preposition,On Break,"['b0fdb68bdad191589451beb835d09149', 'd61842ed7fafb32729ca565c8e363712']",On-Break,,6ec9382286c38cf36cba11493b06c0da,mit
+,schwarzwald,Noun,On Break,[],On-Break,Masculine,c6f1c7cac7278b8c13a8cd8e387053d5,schwarzwald
+,dienstag,Noun,Shopping,[],Shopping,Masculine,915d406cc3dd62201352d531862b97e5,dienstag
+,schach,Noun,Hobbies,[],Hobbies,Neuter,428f02be17f3977097c6e2de45bcc459,schach
+,deine,Determiner,Groceries,"['dd697f8e1234efb2cbc33c379f6c9912', '95a5b32daf755b8ec21c3fcfc9fed688', '2fdce2ac591b483ad7c5b8b44346ef15', '76488439ef737ef7cf368657d5d3a579', 'b4925b813ecc0a1f9dcf205a258c69e5', 'a2c2a92b69b243135e36c39a9d5a9378']",Groceries,,dcbc121aecb08e610c3a08dd5baa7dd0,deine
+,bananen,Noun,Groceries,['ef219c611921449cba67fcdf93e1b3b6'],Groceries,Feminine,dd72404ca3da46018a38630a15b6e9f1,bananen
+,kassenzettel,Noun,Groceries,[],Groceries,Masculine,0d9581b563e137b4bccb9cc6ddb0e648,kassenzettel
+,braun,Adjective,Groceries,[],Groceries,,5793dcc0e4ccb7300dc2de26f757aa92,braun
+,eis,Noun,Dining Out,[],DiningOut,Neuter,4b476b702999c74360965976b13471c4,eis
+,suss,Adjective,Dining Out,[],DiningOut,,34f5d77606c8cdeb96344f1521f675e8,süß
+,konditorei,Noun,Groceries,[],Groceries,Feminine,0a4e2ed45a0afdf74306cc5053024031,konditorei
+,in,Preposition,Groceries,[],Groceries,,87d0352bc5691b7a8337f2ab341ac472,in
+,kartoffeln,Noun,Market,[],Market,Feminine,6e7935508a414f0e665b7f7b98f46684,kartoffeln
+kaufen,kaufen,Verb,Shopping,"['4c3e97878ee816a96e4b7b36090c622f', 'fac15f783f9d442e2f97036aa6d3df72', '8c7cf67f91be0169781d00da5118d6cc', '7fcba9a2ee249cc99be8049a0605d261']",Shopping,,f372629f35af5be36012231f8943dbb3,kaufen
+,die,,Groceries,"['23cd8c19d766c397468d40c79efdf5ea', 'd28d6a07b12660af2d09a03ecfcb4cf9']",Groceries,,1fce28079e74620982a0c36750cd183d,die
+,banane,Noun,Habits,['dd72404ca3da46018a38630a15b6e9f1'],Habits,Feminine,ef219c611921449cba67fcdf93e1b3b6,banane
+,hunger,Noun,Dining Out,[],DiningOut,Masculine,6d4835274bd3e1852b35729b52008344,hunger
+,tute,Noun,Groceries,['38329b9e5cb2c0c916733d1efe7d3f4c'],Groceries,Feminine,00fe6afa543764bdca997d09b1d1f827,tüte
+,sechzig,Numeral,Groceries,[],Groceries,,1f62236987cafcafb42403e0cfd55ac1,sechzig
+,kasse,Noun,Groceries,[],Groceries,Feminine,d083d0800829329a685f431aab54d52d,kasse
+,tuten,Noun,Groceries,['00fe6afa543764bdca997d09b1d1f827'],Groceries,Feminine,38329b9e5cb2c0c916733d1efe7d3f4c,tüten
+,hinten,Adverb,Travel,[],Travel,,f0982d5a381e3cff21460d3739cee524,hinten
+,gurke,Noun,Groceries,['ec0ae66d175047151986cd991c65ed45'],Groceries,Feminine,106570e7b6db20907634411e186e19f6,gurke
+,einen schonen tag noch,,Groceries,[],Groceries,,9dc95fd607d4c5f813afb60c6e99dda9,einen schönen tag noch
+,gute reise,,On Break,[],On-Break,,fb15156742cd43c8f158e1869a0fc035,gute reise
+,gepack,Noun,On Break,[],On-Break,Neuter,d528eebe71cd8f695a35576d2e6885ea,gepäck
+,pass,Noun,Hotel,['c0775d5bc45296d96cc3a9ba6e138ab7'],Hotel,Masculine,16ecf3dbeb8f04b1c84aee4b01f87330,pass
+,abflug,Noun,On Break,[],On-Break,Masculine,6d58c0a58e4cd9b3bf91bc200222920c,abflug
+,mitternacht,Noun,Habits 2,[],Habits-2,Feminine,40c49c8632690e859f2c5cecf0a27880,mitternacht
+,monaten,Noun,On Break,"['c17567166985c966468031e825289707', '0f756a5c108fa5e204d7f254726144ff']",On-Break,Masculine,bf6f9fb8048c52ce6b25300535502a63,monaten
+,sandwich,Noun,Restaurant,[],Restaurant,Neuter,a2453aed076300fadbf62ec54c8d5556,sandwich
+,mitbewohnerin,Noun,Family 2,[],Family-2,Feminine,fc756b5b67a06c6385f96183c34ee3f3,mitbewohnerin
+,semesterende,Noun,On Break,[],On-Break,Neuter,a6a3dc87c96b9cd5d7b603123c76c606,semesterende
+sein,sei,Verb,Roommate,"['ab6750aee2f31d980e3b5f9f9ecea02b', 'ea162697009a9c78b38033a3fc8eb40f', '9aac75af6c4763cfe75d16b87cc10604', '6b1c28621e623451322c32fc2aa7459d', '4fdaa498ad844fc4c7adf7ddac542751', '2ac4ffe95f75b15d1d99aeebbb8321c7', '713d30d6c7922e90eefdb989d4d9ad56', '0b59f6cdecb914ed8e713bbbab6a7924', '71f5612281d1ecd419cfbe7ae49aaed3', 'df0b0165dae55e3bd922a746d9072e9d', '7b563f860cd0b0f43adf0a79e0188bcb']",Roommate,,57e8aed4c315b289686064c402adcbc9,sei
+,lieb,Adjective,On Break,[],On-Break,,168c6b47db843bad61e683fd4a634338,lieb
+,popcorn,Noun,On Break,[],On-Break,Neuter,667f98829e4e0cca9bdb1c9477e26519,popcorn
+,zahnschmerzen,Noun,Health,[],Health,Masculine,071b018721e8c094e06a6084da5876e6,zahnschmerzen
+,komodie,Noun,On Break,[],On-Break,Feminine,33fed664fa81fd3973ff3cac899f41a1,komödie
+,kinderbuch,Noun,On Break,[],On-Break,Neuter,0f51802a73691e7f0b9ddc287aa6edf2,kinderbuch
+,wem,Pronoun,On Break,"['006103987f06c9397971bc1ef5bde560', '4772656685c565533a1b5bf1cdc2836f']",On-Break,,2a88f21404463795a20c715d412e2396,wem
+,kellner,Noun,Restaurant,[],Restaurant,Masculine,39fe43e565e53a4ddcc3e1e97934af5d,kellner
+,lecker,Adjective,Restaurant,[],Restaurant,,846c1a3537f186142ef5b61002a22062,lecker
+,salz,Noun,Restaurant,[],Restaurant,Neuter,6bd7027ca331fc4b328f2da367353143,salz
+,speisekarte,Noun,Restaurant,[],Restaurant,Feminine,29941c984ade3d537313ae21fdf862a4,speisekarte
+,bewolkt,Adjective,Weather,[],Weather,,13da7543091b0142cac254bd92c85c1c,bewölkt
+,eule,Noun,Basics 2,[],Basics-2,Feminine,e63cae2c1f485765055166b01d2eb944,eule
+,stark,Adjective,Weather,[],Weather,,2a82be47ccc9c3a0ee4e59838467f1c7,stark
+wandern,wandere,Verb,Weather,"['ff41b0209e9350a7daec57f2282ca449', 'ce33df55777d4b63a72eff87580dfe0d', 'ce9ef05093c9cd0d0c227f37c0d92a25']",Weather,,65a1e7ce16b7ec401a108b95521e2ae3,wandere
+,schal,Noun,Weather,[],Weather,Masculine,8aa4e9d8e04cb30fdaa8658583c5cc3c,schal
+,traurig,Adjective,Health,[],Health,,ef84611460ecf7690cfaaca9a709d07b,traurig
+,krankenhaus,Noun,Health,[],Health,Neuter,0fb731c95bf2fbf69356153fab6a156c,krankenhaus
+,termin,Noun,Health,[],Health,Masculine,cdddf0521da4182dc7ee6fc5e9f8ecbc,termin
+schlafen,schlafe,Verb,Health,"['b4747cbf2b9a35f6c7d4042e64054b7b', 'b18e1932d1ec5a3cbd8406b26d688d91', '75f88973b78ae53baa79140f9b411f8a']",Health,,2f6e243181e0612a56f49317cbae5862,schlafe
+,im bett,,Health,[],Health,,ff7b71f14804072e0734cd9aa82be880,im bett
+,gute besserung,,Health,[],Health,,9aa3cd14de24ab8037e129332db43d50,gute besserung
+schlafen,schlafen,Verb,Health,"['b4747cbf2b9a35f6c7d4042e64054b7b', '2f6e243181e0612a56f49317cbae5862', '75f88973b78ae53baa79140f9b411f8a']",Health,,b18e1932d1ec5a3cbd8406b26d688d91,schlafen
+,wie viel uhr,,Health,[],Health,,e9a041d838a1432850f0b31af5b7e2fb,wie viel uhr
+,bauchschmerzen,Noun,Health,[],Health,Masculine,4045ac0530ecef33cb325d1c8f2764ea,bauchschmerzen
+,siebzehn,Numeral,Health,[],Health,,ea6a4f87bc663cdb2d8e70449714cd9a,siebzehn
+,vielen dank,,Market,[],Market,,2dca1d383d4ec66f187a89bbd5bfe3b6,vielen dank
+malen,malst,Verb,Hobbies,"['c972457bda857bef8aac3faf1975083e', 'a5d538f6e944444179ff0457a2fb4c66', '2452dcb3afba3682248b6c78a4da6317']",Hobbies,,648da31466ccd4021b963f8b045c8cfa,malst
+,buchladen,Noun,Hotel,[],Hotel,Masculine,cca4e8e78cde6ad713524def2295f1e0,buchladen
+,uhr,Noun,Hotel,[],Hotel,Feminine,ad2cabaceb364998e08f98ab9d24d58d,uhr
+müssen,muss,Verb,Food,['f134cfd87580105a33f7267030919bc2'],Food,,038fbfe45e636157e0407a305eb9fe13,muss
+,guten morgen,,Greetings,[],Greetings,,781b07c1fbecdd6c1cd2f8a8e82bbe5f,guten morgen
+,weniger,Adverb,Food,[],Food,,b2398d4dd898e2c1c868ea900f321a51,weniger
+,windig,Adjective,Weather,[],Weather,,98f0553ab00f8a77b6154b796e8e29e6,windig
+,neblig,Adjective,Weather,[],Weather,,52ec199cd122536205a966571b301e35,neblig
+,sonnig,Adjective,Weather,[],Weather,,c4c49f24081adafca5ed8e4bce615c7f,sonnig
+essen,esse,Verb,Dining Out,"['5ac6336de0f683c21074570627e9410b', 'd0e80d740c4f2d0653951e65952c19d1', 'aa82a48245fe4015d6bc8643ccdf7fa7', '3ce312a29fda532fad3af690e26e91e1']",DiningOut,,20dde14c9907e353804d0de13f198543,esse
+,eier,Noun,Food,['7c49fa892f12e06c36375ce918802e2c'],Food,Neuter,de143e49d4635f88f2b9bf1c2a55c54a,eier
+,packungen,Noun,Groceries,['7341d9668989846dea06f1aded89124b'],Groceries,Feminine,2df1a4fc0f4e914da095bae3c06067f4,packungen
+,zum fruhstuck,,Habits,[],Habits,,19c8bb915f434ea2a6d1bbca44c06541,zum frühstück
+,schinken,Noun,Habits,[],Habits,Masculine,b795f7709fb1ca45b207c51c5efd74af,schinken
+,weniger als,,Habits 2,[],Habits-2,,7113aaf693c8cf723a25a0106eb47669,weniger als
+,biogurken,Noun,Groceries,[],Groceries,Feminine,7f6b6e316dda39bf16c6c6f7beb580c3,biogurken
+,packung,Noun,Groceries,['2df1a4fc0f4e914da095bae3c06067f4'],Groceries,Feminine,7341d9668989846dea06f1aded89124b,packung
+,schnitzel,Noun,Restaurant,[],Restaurant,Neuter,ec8de3e499510f623cbb457e452a36b3,schnitzel
+,zucker,Noun,Dining Out,[],DiningOut,Masculine,6f9a2a5dbbb281276bce70585b7e1880,zucker
+,apfelsaft,Noun,Groceries,[],Groceries,Masculine,70d1cbf0afa83e44348f658dcb1dc2bf,apfelsaft
+,metzgerei,Noun,Groceries,[],Groceries,Feminine,164ec94d6efbdfded86b78f4fdb57483,metzgerei
+,weisswein,Noun,Groceries,[],Groceries,Masculine,7083c934b1598030e50b1c5d4ee0ac5d,weißwein
+,rotwein,Noun,Dining Out,[],DiningOut,Masculine,7a760aec25140b502cb5796696240a25,rotwein
+,flasche,Noun,Groceries,['cceac730b6b4e1cc60cd1a9afc286f12'],Groceries,Feminine,063327816bf5dfebc2d95a1d3902045d,flasche
+,reis,Noun,Habits,['adf53c76bd83d0af891abeebd034b2d1'],Habits,Masculine,eb1cfb85f0c3a39b2a89435b4920c573,reis
+,blumenladen,Noun,Groceries,[],Groceries,Masculine,78a385849a442672eb6423ed1ceb794e,blumenladen
+,gurken,Noun,Groceries,['106570e7b6db20907634411e186e19f6'],Groceries,Feminine,ec0ae66d175047151986cd991c65ed45,gurken
+,meer,Noun,Packing,[],Packing,Neuter,4b2cdfc83b82453d2e3c1cf8c3a7ab93,meer
+,hockey,Noun,Habits 2,[],Habits-2,Neuter,543bf619c7f2f42ce1378eca9e694f56,hockey
+,mit,,Birthday 2,"['6ec9382286c38cf36cba11493b06c0da', 'd61842ed7fafb32729ca565c8e363712']",Birthday-2,,b0fdb68bdad191589451beb835d09149,mit
+,lampe,Noun,Apartment,[],Apartment,Feminine,1853878e2a78b89e49fde2f8547ddc38,lampe
+holen,hole,Verb,Birthday 2,"['452247a7c60d0ba712cfcff19aeeb4b2', 'a766aa09c653f2aa31c20f10d6b1bb52', '54599bc9e932d937677b35ea54eb324c']",Birthday-2,,49ec8a864d1f75575cc8bef4d288bf15,hole
+,wen,Pronoun,Birthday 2,"['006103987f06c9397971bc1ef5bde560', '2a88f21404463795a20c715d412e2396']",Birthday-2,,4772656685c565533a1b5bf1cdc2836f,wen
+,eure,Determiner,Birthday 2,"['3dec95cd1e62a5f41acc0a2ca8fc0651', 'c43c45c53082813dbdfa63971432f29c', 'a63897ab56aedc284eb8e40eeb20694e']",Birthday-2,Feminine,9b85534cf39688a05fabb5d3c7764165,eure
+,ganz bestimmt,,Birthday 2,[],Birthday-2,,55a17afd22fa53a1ab31e80996afde72,ganz bestimmt
+,schwer,Adjective,Travel 2,[],Travel-2,,585c8215de692f4165ee6e3f0a708d0f,schwer
+,treppe,Noun,Housing,[],Housing,Feminine,a813fae8d113ee4663bc7b7fd5fad99b,treppe
+,freitag,Noun,Plans 2,[],Plans-2,Masculine,33c1d404a5d659b176cb28b1982d573a,freitag
+,funfundvierzig,Numeral,Birthday 2,[],Birthday-2,,1e96af0a6d125f5449d147f4b9023cd8,fünfundvierzig
+putzen,putzen,Verb,Birthday 2,['0a4544c36c000b6bcea2be058c73bcc0'],Birthday-2,,07a9a4a1cc2cc07bd32907ed7d88783c,putzen
+,badezimmer,Noun,Apartment,[],Apartment,Neuter,cf950f0a6fa9fa6da731baf69ead9019,badezimmer
+,sauber,Adjective,Apartment,[],Apartment,,35acb40a5ef9dc5478b2ea8645f4582f,sauber
+,neunundneunzig,Numeral,Birthday 2,[],Birthday-2,,9b047df9235d6bbf2d065dd32587a21b,neunundneunzig
+,fruher,Adverb,Birthday 2,[],Birthday-2,,f42e041f0b27eafc4d21bf37fe70d247,früher
+,bitte,Noun,Birthday 2,['b6744f58825816aa3c3367e6f79ddff1'],Birthday-2,Feminine,0a91e8728595574a30a7aa4d0072ab96,bitte
+,sechs,Numeral,Market,[],Market,,2e3c832f758d0478743ccbb63ffeba93,sechs
+,in der wohnung,,Roommate,[],Roommate,,386eed1a01e5fab5735ff98e899dca5f,in der wohnung
+,ohne,Preposition,Roommate,[],Roommate,,0b17211029a25f59a319fc046e8b8366,ohne
+,hausarbeit,Noun,Roommate,[],Roommate,Feminine,4e47bc36e3ba63772f49b1c41dccdaee,hausarbeit
+,rechnungen,Noun,Roommate,['6816776ff3b25557a3f486a56ffedab6'],Roommate,Feminine,69ade0a56b267197d9e56596cc123b1f,rechnungen
+,unhoflich,Adjective,Roommate,[],Roommate,,ef6794b40c3fc36bd7c440ab884f11e7,unhöflich
+,brotchen,Noun,Roommate,[],Roommate,Neuter,c0bbe05f0a980968e837e3e8933484f2,brötchen
+,am telefon,,Roommate,[],Roommate,,a46119abcb9134cd293fba3310b219f3,am telefon
+,faul,Adjective,Roommate,[],Roommate,,7d31abdc7accf5deee7f5ef7ae1b9255,faul
+,ordentlich,Adjective,Roommate,[],Roommate,,7a4e81a14904bf156dda0acba3d7a1a7,ordentlich
+,leiser,Adjective,Roommate,['82d013064d75fdf6d9054e7a7cde7b40'],Roommate,,aff20c2e8bd8a0ef87348ef585e1c877,leiser
+,leer,Adjective,Roommate,[],Roommate,,26bd24b7db8c632142e1cd20804afef5,leer
+,verargert,Adjective,Roommate,[],Roommate,,86251dc5e27c9185681983beb2305060,verärgert
+,kasebrot,Noun,Roommate,[],Roommate,Neuter,78387d747b207513342cfedd34c5a51b,käsebrot
+,schatz,Noun,Roommate,[],Roommate,Masculine,95020f712862ec46059452e13d26cd9d,schatz
+,orangensaft,Noun,Roommate,[],Roommate,Masculine,b273f6417683fb31e4232f74e8ac6360,orangensaft
+zahlen,zahl,Verb,Roommate,"['b1bc3d86463a87fd6faa80907e4fee74', '81e0487f1f43df1302fa1d15a38dfc30']",Roommate,,897f7ed1011cd95c3ea93081dafb2bd5,zahl
+,nachstes mal,,Roommate,[],Roommate,,08f078c375855bfd3b6ce7d83bf6ad03,nächstes mal
+,miete,Noun,Roommate,[],Roommate,Feminine,7dd187de616edb5931afd9809e72963c,miete
+,jedes mal,,Roommate,[],Roommate,,1cde88a6a3cd3abdca8b0c7a115b2175,jedes mal
+,unordentlich,Adjective,Roommate,[],Roommate,,f7a822a6c0a4d9f8790aa9c872dd77bf,unordentlich
+,auf dem campus,,Roommate,[],Roommate,,1a6f9ead17fabd637545e83bdbb5c701,auf dem campus
+,milch,Noun,Basics 1,[],Basics-1,Feminine,4d321578fac631e23ff68dee109c644d,milch
+,nachsten,Adjective,Plans 2,['99820166d938983ede1882696ce0e41b'],Plans-2,Masculine,b2baad2f9c5f61fc8c322caef19a698f,nächsten
+,brav,Adjective,Family 3,[],Family-3,,cf293c73eaea3f93b4a8c0b08922e62c,brav
+,bettdecke,Noun,Housing,[],Housing,Feminine,139401417b46393b53bd74c6075b26f9,bettdecke
+,lieblingsessen,Noun,Food,[],Food,Neuter,581cedf4de05692443e5c2c6c096a2f1,lieblingsessen
+,apfel,Noun,Birthday 2,['d3b53a81838ba966353a2e4d9f31da06'],Birthday-2,Masculine,436c1db70869caf1941c8005bd5e453f,äpfel
+,karotten,Noun,Birthday 2,['95dfd946c739929cf89000867c17faf0'],Birthday-2,Feminine,b8e4015cb9a612f9f2da30d93b6e7512,karotten
+,geburtstagskarte,Noun,Birthday 2,[],Birthday-2,Feminine,4b773f32bacf01a8a8ad83cc84d9f83b,geburtstagskarte
+,scharf,Adjective,Food,[],Food,,a1ac5a6962eb7b9b139fc0f76058c0a2,scharf
+,studentin,Noun,Jobs,[],Jobs,Feminine,1832dccc2395c6d9fda4a9afb2dcfc18,studentin
+,im ausland,,On Break,[],On-Break,,280adb8d0e464e4d30739355718a42d8,im ausland
+,genau,Adverb,Travel,[],Travel,,37146b312fdfaf7f9907e0ba47659ddd,genau
+,in einer stunde,,Plans 2,[],Plans-2,,9a3dfa3dc4cc1719d4711e3d5eea919f,in einer stunde
+fahren,fahrt,Verb,On Break,"['9f219a60dabccb989a0ebc782c89782d', '7645a1cabd0cd2e030fa30be181107c8', '55934363abfa6db8a0dfd17ab98b5d4e', '85140f779a6d4b9c58f4c4c7df2b1aef']",On-Break,,130ffdd8682cf5b7c79df84f493ed8a8,fahrt
+,klavier,Noun,Hobbies,[],Hobbies,Neuter,f2065bdd244a9718e87cae10e9537a08,klavier
+lesen,lest,Verb,On Break,"['557379cbe1806198cbd023d34822d4e2', '018a19656b483b0232a10629656dc9b7']",On-Break,,fe4cfec8848ffb07a7987af5a72755dc,lest
+,schuhe,Noun,Shopping,[],Shopping,Masculine,dd57db44208b73cb937e334d7f77d961,schuhe
+,brille,Noun,Travel 2,[],Travel-2,Feminine,9eb26fd031e51084a7f6281fe3b3f7e6,brille
+,sitz,Noun,Travel,[],Travel,Masculine,316ae0e4e218ee8d8daca229e7075f00,sitz
+,senf,Noun,Food,[],Food,Masculine,fe5c0aab2f42f9b61bb8ac7f9cc05e63,senf
+,mond,Noun,Habits 2,[],Habits-2,Masculine,811a30cbc027fee2a4a4ae6b47dfaecc,mond
+,frisch,Adjective,Food,[],Food,,70742dad2935c1c87416e4203a482853,frisch
+,fruh,Adjective,Events,[],Events,,916c4e14d0fe953cefb551449b4888be,früh
+frühstücken,fruhstucken,Verb,On Break,"['4db545046c8ab54c1bd6411e0d654862', '5e151d7533da578b57e5373bdb2a5f52', 'd3326d458f52c33eef6427674aea2abf']",On-Break,,65a2db5690560e425423880e0060a17e,frühstücken
+fischen,fischt,Verb,On Break,"['f9884be52b230b68bbd34b755a53ada3', '11e671339f776fe13b04d7a8be286aef']",On-Break,,9069fa97bebd3e9584ede46b38b0e741,fischt
+fischen,fische,Verb,On Break,"['9069fa97bebd3e9584ede46b38b0e741', '11e671339f776fe13b04d7a8be286aef']",On-Break,,f9884be52b230b68bbd34b755a53ada3,fische
+fischen,fischen,Verb,On Break,"['9069fa97bebd3e9584ede46b38b0e741', 'f9884be52b230b68bbd34b755a53ada3']",On-Break,,11e671339f776fe13b04d7a8be286aef,fischen
+,stunden,Noun,Plans 2,['83c9902f77f8fd2be220698a32a4c170'],Plans-2,Feminine,0095aaec189b32467083b4b817b4d7ef,stunden
+,psychologie,Noun,People,[],People,Feminine,bd3f948ffdd562640209f9796c18751d,psychologie
+,zurzeit,Adverb,Housing,[],Housing,,5065588d198e04e970e22d3fac6c2bf9,zurzeit
+fliegen,fliegt,Verb,On Break,['83fe22d1caecec47e3c0e9fb1ded5f67'],On-Break,,c69554ceeb812c448e51d7f0f070bba5,fliegt
+fliegen,fliegst,Verb,On Break,['c69554ceeb812c448e51d7f0f070bba5'],On-Break,,83fe22d1caecec47e3c0e9fb1ded5f67,fliegst
+,obstsalat,Noun,Dining Out,[],DiningOut,Masculine,9f0d35cf82102f63a2117d4cee440a7d,obstsalat
+,meine,Determiner,Family 2,"['a4605e1b04f24b08a709e693bcd6ba1a', 'e346bda36eb0adeb2e0c4f86ae891c6f', '5310a9a88b27244a9cdd03fe72d8aace', 'b0fe7b83cec917524ee7930f2350105f']",Family-2,Feminine,0aeda1a53edc7b9ffa1ef352206a3b72,meine
+,orange,Noun,Groceries,['fece1ad326980b8102007976675d2a38'],Groceries,Feminine,7e4e784a7bd7e76807510a6a1b6a319d,orange
+,apfelkuchen,Noun,Dining Out,[],DiningOut,Masculine,48c956d914e8de1880e5027bfd0dd1a9,apfelkuchen
+kommen,kommst,Verb,Places,"['cb0211f56eb0b9ac31cd9cff1c8cd965', '2aa74c03a87880ff2bfd9df3515b188d', 'b6292d70ffe234e847c44294d3b2830c']",Places,,fa9146ebc18ef100efbea3c051c2c558,kommst
+,einmal,Adverb,Habits,[],Habits,,cb8bb13bfadc3c3bc629d778fea45c28,einmal
+,in einer wg,,Housing,[],Housing,,27a23c2287bb3172e81bec76ee359d81,in einer wg
+,laptop,Noun,Travel 2,[],Travel-2,Masculine,580aa6c6d2443dede3d4f8babcade317,laptop
+bringen,bringe,Verb,Birthday 2,"['ceb0ae78f484fdefea43466cffbde939', '35c6d857d0ad333c74dc25d8f2fbb148', '6ec0c2fd842bac07f69a25b0d1709637']",Birthday-2,,2549e96ce8263a3fbb04a443e724cb05,bringe
+,heute nachmittag,,Plans,[],Plans,,be234fbe84ff9bfd1fb73b69bcfbfa89,heute nachmittag
+,schnell,Adjective,Travel,['2129782ef874c8d174ad1af1614e414e'],Travel,,17d8af71a399e629030027555aae5bfc,schnell
+,endlich,Adverb,New Job,[],New-Job,,3a0e96fcd6b2e1685ef8471839894ce1,endlich
+,stunde,Noun,Plans 2,['0095aaec189b32467083b4b817b4d7ef'],Plans-2,Feminine,83c9902f77f8fd2be220698a32a4c170,stunde
+,wohnzimmer,Noun,Housing,[],Housing,Neuter,7d347b935f3dfb3e27a837dfbe040305,wohnzimmer
+,unser,Determiner,Habits 2,['72445c61a365cb1f37d61c8bb9abadc0'],Habits-2,Neuter,dcf5343dfd07ddab2a7d07450e2321b9,unser
+,gesund,Adjective,Health,[],Health,,d3b9510de87d9fe0999792f99d0bfb65,gesund
+,kuhlschrank,Noun,Housing,[],Housing,Masculine,95b1c6d57141e1ebdf51916b265231a1,kühlschrank
+essen,iss,Verb,Health,"['5ac6336de0f683c21074570627e9410b', '20dde14c9907e353804d0de13f198543', 'd0e80d740c4f2d0653951e65952c19d1', '3ce312a29fda532fad3af690e26e91e1']",Health,,aa82a48245fe4015d6bc8643ccdf7fa7,iss
+trinken,trink,Verb,Health,"['da2936610224441b32b627714dedc2d6', '306560d6f47275980bdfc69f8f338552', '57457e31abab4aef08489362a8ac1130']",Health,,1bf6ad9957facdc1d93f22b227f06757,trink
+,punktlich,Adjective,New Job,[],New-Job,,2b528ce09a0315ce2039c3b6784e86fb,pünktlich
+,kopfschmerzen,Noun,Health,[],Health,Masculine,42d2dc54f78e0ba1df36fa4e1fd9ea07,kopfschmerzen
+,arbeitslos,Adjective,Family 3,[],Family-3,,9d4783ed680eb161b5d7fc3bbde9c6f8,arbeitslos
+,seine,Determiner,Family 3,"['ab6750aee2f31d980e3b5f9f9ecea02b', 'ea162697009a9c78b38033a3fc8eb40f', '57e8aed4c315b289686064c402adcbc9', '6b1c28621e623451322c32fc2aa7459d', '4fdaa498ad844fc4c7adf7ddac542751', '2ac4ffe95f75b15d1d99aeebbb8321c7', '713d30d6c7922e90eefdb989d4d9ad56', '0b59f6cdecb914ed8e713bbbab6a7924', '71f5612281d1ecd419cfbe7ae49aaed3', 'df0b0165dae55e3bd922a746d9072e9d', '7b563f860cd0b0f43adf0a79e0188bcb']",Family-3,Feminine,9aac75af6c4763cfe75d16b87cc10604,seine
+hoffen,hofft,Verb,Birthday 2,[],Birthday-2,,547613d5e600a3ffe8cacc8bc511c8d1,hofft
+,feiertag,Noun,Plans 2,[],Plans-2,Masculine,28efed741cd4f969a6bd507776174e9a,feiertag
+,tschuss,Interjection,Basics 1,[],Basics-1,,d4fb6c6a4268d3cbb9dca8b43a80878a,tschüss
+putzen,putzt,Verb,Roommate,['07a9a4a1cc2cc07bd32907ed7d88783c'],Roommate,,0a4544c36c000b6bcea2be058c73bcc0,putzt
+,auf jeden fall,,Birthday,[],Birthday,,2c794627f9236002709cb4d0099651ec,auf jeden fall
+,ihn,Pronoun,Food,['6292905595afc842e10147e57176a7b1'],Food,Masculine,7ddea8e417b5f211482a76b80f45f70f,ihn
+holen,holen,Verb,Birthday 2,"['49ec8a864d1f75575cc8bef4d288bf15', '452247a7c60d0ba712cfcff19aeeb4b2', '54599bc9e932d937677b35ea54eb324c']",Birthday-2,,a766aa09c653f2aa31c20f10d6b1bb52,holen
+holen,holt,Verb,Birthday 2,"['49ec8a864d1f75575cc8bef4d288bf15', '452247a7c60d0ba712cfcff19aeeb4b2', 'a766aa09c653f2aa31c20f10d6b1bb52']",Birthday-2,,54599bc9e932d937677b35ea54eb324c,holt
+bringen,bringen,Verb,Birthday 2,"['ceb0ae78f484fdefea43466cffbde939', '2549e96ce8263a3fbb04a443e724cb05', '6ec0c2fd842bac07f69a25b0d1709637']",Birthday-2,,35c6d857d0ad333c74dc25d8f2fbb148,bringen
+bringen,bringt,Verb,Birthday 2,"['ceb0ae78f484fdefea43466cffbde939', '2549e96ce8263a3fbb04a443e724cb05', '35c6d857d0ad333c74dc25d8f2fbb148']",Birthday-2,,6ec0c2fd842bac07f69a25b0d1709637,bringt
+,vase,Noun,Housing,[],Housing,Feminine,1ebc57420128aea9c0898e3adad094de,vase
+,herbst,Noun,Weather,[],Weather,Masculine,9638691ffd12eb7ae1c50d67e7bde3b2,herbst
+kommen,kommen,Verb,Birthday,"['2aa74c03a87880ff2bfd9df3515b188d', 'b6292d70ffe234e847c44294d3b2830c', 'fa9146ebc18ef100efbea3c051c2c558']",Birthday,,cb0211f56eb0b9ac31cd9cff1c8cd965,kommen
+,mittwoch,Noun,Hobbies 2,[],Hobbies-2,Masculine,3cc85ff983c53356ba0eec1324e937ae,mittwoch
+kommen,komme,Verb,Places,"['cb0211f56eb0b9ac31cd9cff1c8cd965', '2aa74c03a87880ff2bfd9df3515b188d', 'fa9146ebc18ef100efbea3c051c2c558']",Places,,b6292d70ffe234e847c44294d3b2830c,komme
+planen,plant,Verb,Birthday 2,['4a87aa045eecb0a6d6a6b0102461920c'],Birthday-2,,085bba74106701551fcb88770a08fdef,plant
+planen,planen,Verb,Birthday 2,['085bba74106701551fcb88770a08fdef'],Birthday-2,,4a87aa045eecb0a6d6a6b0102461920c,planen
+,er,Pronoun,Packing,['7ddea8e417b5f211482a76b80f45f70f'],Packing,Masculine,6292905595afc842e10147e57176a7b1,er
+,neue kleidung,,Shopping,[],Shopping,,d6beaa00269b127b4dbf320bfcb9459a,neue kleidung
+,hut,Noun,Packing,[],Packing,Feminine,080bc60e1f418b6ba7b9c8f9f23d24aa,hut
+,hasslich,Adjective,Apartment,[],Apartment,,cbe6cb03916171127fa361de614c9825,hässlich
+,diesen,,Packing,"['9b4a06b70810c1035e3046fa387ba339', 'fd557a3f3516f8d1eb4b1466a7671206', '9e21df64419500ac06b210def7dddfb5', 'd418d40a89b378ca4259548a947eda8f', 'e0a7b526dfb83c6073bc73e86b83af3e']",Packing,Masculine,a1ae22b23cd5b2934d664e554046f27c,diesen
+,ein bisschen,Adverb,Languages,[],Languages,,754f91ee287e57895b2179cc6e8ef07a,ein bisschen
+,spanisch,Noun,Languages,[],Languages,Neuter,b56fd8378ce005ad10f5db41e806799b,spanisch
+,sprachen,Noun,Languages,[],Languages,Feminine,a1c1ff17e1c575ed4ab21fd342eda215,sprachen
+lernen,lernst,Verb,Languages,"['cee314fa43551daf3690bb5cdda0bf23', '76390c1350a8dac31186187e2fe1e178']",Languages,,f804038329c1d0fe7a0a42c5f38b2081,lernst
+,auf wiedersehen,,Greetings,[],Greetings,,0cd6baf8249b9c2257d5d440efa78687,auf wiedersehen
+,das macht,,Dining Out,[],DiningOut,,499bd97d347252792d58da9f8c4fbfaf,das macht
+,funfunddreissig,Numeral,Dining Out,[],DiningOut,,bb2cf6bba5c7d5bc25d56d8b1edda9d7,fünfunddreißig
+mögen,mochtet,Verb,Birthday,"['80d14006256295d3d98b1a0d52cbbd81', 'de7cc64f2f73345c893d3de9bf662804', 'c9f50c8a4faca3e35534e2e4093857e1', '4635584da9ff676724eca4ade50daa8b', '8cb8f187613a439fd2964ab5515a66c3', '943b1d3eca0734f84a2b57d943b86c27']",Birthday,,9512cc06f50a793c60f9fe22c313a24a,möchtet
+,apfelschorle,Noun,Dining Out,[],DiningOut,Feminine,3c05f947ca734661fdcb3115fdf0aa47,apfelschorle
+,munchen,Noun,Places,[],Places,Neuter,3b9f57503e326f2280d32032d0ddc129,münchen
+,schrank,Noun,Apartment,[],Apartment,Masculine,34fba98d99ea17855bbcb031f9e3f56b,schrank
+,sechzehn,Numeral,Health,[],Health,,84625f181aefe36e24bfc38cb4cb1eb0,sechzehn
+,wurst,Noun,Restaurant,[],Restaurant,Feminine,2880e862e6b1c04211d930a80f2f7e00,wurst
+,lass uns,,New Job,[],New-Job,,95f937878a5e53a57ab4399b9c7b8878,lass uns
+lernen,lerne,Verb,Languages,"['76390c1350a8dac31186187e2fe1e178', 'f804038329c1d0fe7a0a42c5f38b2081']",Languages,,cee314fa43551daf3690bb5cdda0bf23,lerne
+,neuen job,,New Job,[],New-Job,,60569e0591aab825dc21c3ced7931ac7,neuen job
+,in meiner pause,,New Job,[],New-Job,,d19c7ebcce53af5b1157e7726e889ad2,in meiner pause
+,motiviert,Adjective,New Job,[],New-Job,,a916cf780b87889fa6b5cd308c186f95,motiviert
+,job,Noun,Family 3,[],Family-3,Masculine,2d0865bd8120bd4986ec1ef7bb301b7e,job
+haben,haben,Verb,New Job,"['868e33555cb34d2f50ef702111cfd58b', 'e15f13f230d129ce73b482d92222ae79', '5fa1f0fcc3b5d93b8617169e59884367', 'bc132fa899e138377a3d89eb3125a2f1']",New-Job,,9780135201a381516d9c84324771e811,haben
+,feierabend,Noun,New Job,[],New-Job,Masculine,1901dd5caac4822358c37dcc4cad06ea,feierabend
+,pause,Noun,New Job,[],New-Job,Feminine,4138f8522899d65a8c30bb74ffb15967,pause
+dauern,dauert,Verb,Transport,[],Transport,,d4362299917be4652923e5348704bd7d,dauert
+,suppe,Noun,Dining Out,[],DiningOut,Feminine,125e29aaa1e31823a71b34e1a74d7b83,suppe
+singen,singt,Verb,Leisure,"['8866a01b0fdf8fd98d7bd9e684570f17', 'e58e864dc57f16b10e6381bc4a12086d']",Leisure,,6a1aea4d65fb699124cb0bc22f18871b,singt
+,kollegin,Noun,New Job,[],New-Job,Feminine,6886dfc090ec1242ac40547783057c16,kollegin
+,buros,Noun,New Job,['e83df5fb4dda89cd221376a25d1429ae'],New-Job,Neuter,f675feb2daacf13e83583253d52a8502,büros
+,turkisch,Noun,Languages,[],Languages,Neuter,ede0aa34b7ce499673d30097a4cfaab9,türkisch
+,freundlich,Adjective,People,[],People,,6b20ab3ae3c988f062a04eac82f07a44,freundlich
+,buro,Noun,Habits,['f675feb2daacf13e83583253d52a8502'],Habits,Neuter,e83df5fb4dda89cd221376a25d1429ae,büro
+,februar,Noun,Plans 2,[],Plans-2,Masculine,b5f387f592762091b571a7350c8b0aef,februar
+,verwandten,Noun,Plans 2,[],Plans-2,,1a97a6310e4840b63ca4a2585307b6b8,verwandten
+,grossmutter,Noun,Family 3,[],Family-3,Feminine,ab83c1bb9f753fb21b9236396b308b6a,großmutter
+,grossvater,Noun,Family 3,[],Family-3,Masculine,6659f0a7a1c8690d2f2f97ebceb8c42b,großvater
+,geschlossen,Adjective,Plans 2,[],Plans-2,,aed00ba51abc817250f0af2ad473b1cb,geschlossen
+,geschafte,Noun,Plans 2,['5a5ef6d575b35fcce4bf6bed0fc4ef69'],Plans-2,Neuter,a87a14521b211840c8fba1194b68511a,geschäfte
+haben,habt,Verb,Hobbies 2,"['e15f13f230d129ce73b482d92222ae79', '5fa1f0fcc3b5d93b8617169e59884367', '9780135201a381516d9c84324771e811', 'bc132fa899e138377a3d89eb3125a2f1']",Hobbies-2,,868e33555cb34d2f50ef702111cfd58b,habt
+,laut,Adjective,Places,[],Places,,d8c14edb93639cc4178a012c0bb3fe74,laut
+,regal,Noun,Housing,[],Housing,Neuter,8dec3d2cae5ac9f0e7f0a108135218f6,regal
+,nach,Preposition,Plans 2,[],Plans-2,,3107e10d4e86ffc516048b20586fc5a4,nach
+treffen,trifft,Verb,Habits,"['6466b1fd55878087e4c0dfd94e791380', '0c11538b555d1735e65f5fa4d6f2eacf']",Habits,,3fefda4ea2f8a2f63d1bb170a9c5aaeb,trifft
+,kurz,Adjective,Plans 2,[],Plans-2,,71be3d0cef9784733d4f1a1dbfbe6a7b,kurz
+,langweilig,Adjective,Plans 2,[],Plans-2,,dab01fff8a6761859a4ed31e8fba4e68,langweilig
+,nachname,Noun,New Job,[],New-Job,Masculine,040f2e044a38b55e9a1856e1a58debd9,nachname
+,fuhrerschein,Noun,New Job,[],New-Job,Masculine,2ef738565c387b1e0216b2836f32c9f1,führerschein
+,naturlich,Adverb,Greetings,[],Greetings,,b2684451989beb757588ec35839fcfb5,natürlich
+,e-mail-adresse,Noun,New Job,[],New-Job,Feminine,42f3b63ad790b5749f2036f00339e22f,e-mail-adresse
+,beamter,Noun,Family 3,[],Family-3,Masculine,bce48aaade5816861d5a818ff63d7d94,beamter
+,ihren,Determiner,Family 3,"['946e2a221c7c91c9b280738c1c6521a9', '8da299f8205c5f23f09ca241db7bd3f0', 'ec1f819e146b31f8d1d3c5dfe4b5031e', 'b0f5cfb71b30a379b468283a7851efb4', '319885bbe0fd73a21d979624d96cb748', '92f12c8ce6506f3ec2428e22eeb3d196', '5aac8b732e3beae17e847734ad19fdb1']",Family-3,Masculine,a732d6874b29e652969729941a91e7a3,ihren
+,welchen,Determiner,Plans 2,"['af4b81e217d65e5826ed4fdb89117091', 'a09f8c0178685adc8b484abf6ba8584e']",Plans-2,Masculine,eed820b00002992b7ab198eff57722d4,welchen
+,erwachsene,Noun,Plans 2,[],Plans-2,,cf63ff5ab5b2cbd5d6d97c1c54a0c58f,erwachsene
+,wasser,Noun,Basics 1,[],Basics-1,Neuter,9d532141e58cffe527a7546e28e99bf5,wasser
+,bucherregal,Noun,Apartment,[],Apartment,Neuter,3ec325f2b9d88fc4c31eaaf3bb27887f,bücherregal
+,weich,Adjective,Housing,[],Housing,,78aeda43844220391ee06e0549be9f0c,weich
+,schlafzimmer,Noun,Apartment,[],Apartment,Neuter,4cd37d1a040bd4dae4e8a9d35750d6b2,schlafzimmer
+,kopfkissen,Noun,Housing,[],Housing,Neuter,870bed2a4963c68a582db7736047c7a4,kopfkissen
+gehen,gehen,Verb,Shopping,"['d4501d74f60c4fd0d00584d89a2ab040', 'f2f578ef16b882e00d242ca5d17ff60f', 'a2aff52124c0a2d82336b90a3932cb37']",Shopping,,b3d6d1e3f6ac903b1feee1492e6d0f16,gehen
+,eins,Numeral,Market,[],Market,,f6095efccb210c158cd843dc6f87a416,eins
+,kugelschreiber,Noun,Travel 2,[],Travel-2,Masculine,a7cde3b089f2fb1418de7d63856f2672,kugelschreiber
+,zum schalter,,Travel 2,[],Travel-2,,cc5a4d61d3261717bffdcef32795d000,zum schalter
+,kamera,Noun,Travel 2,[],Travel-2,Feminine,1c94361043eb3b91d2f95ab3222571b7,kamera
+,in einem team,,New Job,[],New-Job,,2d5e5577292a71d86f2fb8f1f825e328,in einem team
+,stressig,Adjective,Jobs,[],Jobs,,26b146463c6f27b6ded2ce0428f7caf6,stressig
+,jobinterview,Noun,Shopping,[],Shopping,Neuter,dd7d95c6627af7f10a069cc5605c4ca1,jobinterview
+,arbeit,Noun,Jobs,[],Jobs,Feminine,e7539e45e0634ff331976be0b7172485,arbeit
+sein,sein,Verb,New Job,"['ab6750aee2f31d980e3b5f9f9ecea02b', 'ea162697009a9c78b38033a3fc8eb40f', '9aac75af6c4763cfe75d16b87cc10604', '57e8aed4c315b289686064c402adcbc9', '6b1c28621e623451322c32fc2aa7459d', '4fdaa498ad844fc4c7adf7ddac542751', '2ac4ffe95f75b15d1d99aeebbb8321c7', '713d30d6c7922e90eefdb989d4d9ad56', '71f5612281d1ecd419cfbe7ae49aaed3', 'df0b0165dae55e3bd922a746d9072e9d', '7b563f860cd0b0f43adf0a79e0188bcb']",New-Job,,0b59f6cdecb914ed8e713bbbab6a7924,sein
+,handynummer,Noun,New Job,[],New-Job,Feminine,dd20e35660152c8a18f9cedd8dd1253f,handynummer
+,vorname,Noun,New Job,[],New-Job,Masculine,bf7a3d9a6c36a84c6a20425bd41f4294,vorname
+,interessant,Adjective,Jobs,[],Jobs,,110fb8ce650d68312b57823c725dc4c2,interessant
+,lebenslauf,Noun,New Job,[],New-Job,Masculine,6ce4b11264f155a768e9c625f66bd73c,lebenslauf
+,kaffeetisch,Noun,Housing,[],Housing,Masculine,cdd7c429c02ba40311f11d9c7a9a9e87,kaffeetisch
+,wohin,Adverb,Plans 2,[],Plans-2,,3872a653906d5ba6bda1d622a7e9ecb4,wohin
+treffen,triffst,Verb,Habits,"['3fefda4ea2f8a2f63d1bb170a9c5aaeb', '6466b1fd55878087e4c0dfd94e791380']",Habits,,0c11538b555d1735e65f5fa4d6f2eacf,triffst
+schlafen,schlaft,Verb,Habits 2,"['2f6e243181e0612a56f49317cbae5862', 'b18e1932d1ec5a3cbd8406b26d688d91', '75f88973b78ae53baa79140f9b411f8a']",Habits-2,,b4747cbf2b9a35f6c7d4042e64054b7b,schläft
+,mein,Determiner,Habits 2,"['0aeda1a53edc7b9ffa1ef352206a3b72', 'e346bda36eb0adeb2e0c4f86ae891c6f', '5310a9a88b27244a9cdd03fe72d8aace', 'b0fe7b83cec917524ee7930f2350105f']",Habits-2,Neuter,a4605e1b04f24b08a709e693bcd6ba1a,mein
+,morgens,Adverb,Habits,[],Habits,,cbe1fa8c8dea757e3d4f315da1052cb8,morgens
+schwimmen,schwimmt,Verb,Hobbies,"['a3159b96570ab1e1e1e54807144ce972', 'ea2751a89977abcd2863105f73dd548a', '0c7382e74dcbebdcd9c9dd4e6fd77a13']",Hobbies,,5b5e596558196de3e4fc1796ee5d47a6,schwimmt
+,wenig,Adverb,Habits 2,[],Habits-2,,2e0834ceb74bc9f2b93aa37ec401db37,wenig
+laufen,lauft,Verb,Habits 2,"['8007e459f4921439b376738e08d11a27', 'c45121a9bc68518e47a7f0862bc32214', '861c191bb083cb4ecf75def228920dd3']",Habits-2,,c6e924e608299cf9ad7af257cd2b00ba,läuft
+schlafen,schlafst,Verb,Habits 2,"['b4747cbf2b9a35f6c7d4042e64054b7b', '2f6e243181e0612a56f49317cbae5862', 'b18e1932d1ec5a3cbd8406b26d688d91']",Habits-2,,75f88973b78ae53baa79140f9b411f8a,schläfst
+,tassen,Noun,Habits 2,['595672915750ad3f37ff2425f0635d9c'],Habits-2,Feminine,34ea4d1aca4cbf2172e18b2f1289851c,tassen
+,dein,Determiner,Habits 2,"['dcbc121aecb08e610c3a08dd5baa7dd0', '95a5b32daf755b8ec21c3fcfc9fed688', '2fdce2ac591b483ad7c5b8b44346ef15', '76488439ef737ef7cf368657d5d3a579', 'b4925b813ecc0a1f9dcf205a258c69e5', 'a2c2a92b69b243135e36c39a9d5a9378']",Habits-2,Neuter,dd697f8e1234efb2cbc33c379f6c9912,dein
+,hell,Adjective,Apartment,[],Apartment,,6e32304f2642907d616b46f66e3fb9a9,hell
+,monate,Noun,People,"['c17567166985c966468031e825289707', 'bf6f9fb8048c52ce6b25300535502a63']",People,Masculine,0f756a5c108fa5e204d7f254726144ff,monate
+,nacht,Noun,Hotel,['11bfde7be6a7714e73a9652b773b4cf8'],Hotel,Feminine,6fe9030e07f6fd866f000d4ef978e184,nacht
+,heute nacht,,Habits 2,[],Habits-2,,f85a20e3969132680fa5d55acc5eb6dc,heute nacht
+,juni,Noun,Family 3,[],Family-3,Masculine,cc92b0640199f7d84b18483c0b0c7cb9,juni
+müssen,mussen,Verb,Travel 2,['038fbfe45e636157e0407a305eb9fe13'],Travel-2,,f134cfd87580105a33f7267030919bc2,müssen
+,stadtmuseum,Noun,Transport,[],Transport,Neuter,ceb307a4389ab7e61e46bbcefbb7ec24,stadtmuseum
+,touristen,Noun,Travel 2,[],Travel-2,Masculine,eac69b36a20933d31eb99785ff9c2d61,touristen
+,neuschwanstein,Proper noun,Travel 2,[],Travel-2,,4008fbb5c23e160e5f99db9909be59b8,neuschwanstein
+,oktoberfest,Noun,Events,[],Events,Neuter,ecbec9546e9734dacbbb3ff46e0179b3,oktoberfest
+,brandenburger tor,Proper noun,Travel 2,[],Travel-2,,7feeec0d079592d02595685e7a2450c9,brandenburger tor
+,im koffer,,Travel 2,[],Travel-2,,65b714374e314ede2257ad40df9efd53,im koffer
+öffnen,offnen,Verb,Travel 2,[],Travel-2,,10113670532390c5d3819bc90172ba96,öffnen
+,wasserflasche,Noun,Weather,[],Weather,Feminine,110e6de81becbf9ed20389676a6c3ef2,wasserflasche
+,welche farbe,,Travel 2,[],Travel-2,,6e5e50cff9930992461acd8982306142,welche farbe
+,ihr,,Hotel,"['946e2a221c7c91c9b280738c1c6521a9', '8da299f8205c5f23f09ca241db7bd3f0', 'ec1f819e146b31f8d1d3c5dfe4b5031e', 'a732d6874b29e652969729941a91e7a3', 'b0f5cfb71b30a379b468283a7851efb4', '319885bbe0fd73a21d979624d96cb748', '92f12c8ce6506f3ec2428e22eeb3d196']",Hotel,Neuter,5aac8b732e3beae17e847734ad19fdb1,ihr
+,eiskaffee,Noun,Food,[],Food,Masculine,5cfe59d2b58ddea96a24cdfd5e870c93,eiskaffee
+,langsam,Adverb,Food,[],Food,,296881935dd901eb6e4fd4c527fd83cb,langsam
+,hungrig,Adjective,Food,[],Food,,1d6630db4636d84374e6d0cfda2c94fc,hungrig
+fahren,fahren,Verb,Habits 2,"['7645a1cabd0cd2e030fa30be181107c8', '55934363abfa6db8a0dfd17ab98b5d4e', '85140f779a6d4b9c58f4c4c7df2b1aef', '130ffdd8682cf5b7c79df84f493ed8a8']",Habits-2,,9f219a60dabccb989a0ebc782c89782d,fahren
+,kaputt,Adjective,Hotel,[],Hotel,,7977598a040981e0e647f801486a4a44,kaputt
+,baby,Noun,People,[],People,Neuter,4f5583e535c8c983b14fd559a6cc7f73,baby
+,turnschuhe,Noun,Habits 2,[],Habits-2,Masculine,d2791a76ecda1b8dcd47ecbe9f85fd3b,turnschuhe
+,nachstes,Adjective,Habits 2,['b2baad2f9c5f61fc8c322caef19a698f'],Habits-2,Neuter,99820166d938983ede1882696ce0e41b,nächstes
+,strassen,Noun,Habits 2,['8e246402543d6923816e8ff1bf29996e'],Habits-2,Feminine,cef5e6a128b291f79e29adcceecfabfa,straßen
+,fenster,Noun,Hotel,[],Hotel,Neuter,8f8006e001a20978bce654982e8764a3,fenster
+,nass,Adjective,Habits 2,[],Habits-2,,45d992d6ad548aaefead3c8ca641e9d8,nass
+,gelb,Adjective,Habits 2,[],Habits-2,,8500f2a81462a490b8c562733756d9c8,gelb
+,deutschland,Proper noun,Places,[],Places,,b36b6f75880ba5a2093606c433878c81,deutschland
+,verboten,Adjective,Travel 2,[],Travel-2,,e75e062abb9109a8aed5fc74c519abc5,verboten
+,formular,Noun,Travel 2,['aa0162704af837f52e8e93709ef0e13b'],Travel-2,Neuter,5755d4476d6f2312f101fce125802f5a,formular
+unterschreiben,unterschreiben,Verb,Travel 2,[],Travel-2,,4b53c431012b7df075988b2f7ba2afd0,unterschreiben
+,perfekt,Adjective,Languages,['07b81da17251fb21c79ba8bdb7cdb833'],Languages,,1d72332fdeb43df8c9e1baca821a7e53,perfekt
+kaufen,kauft,Verb,Packing,"['4c3e97878ee816a96e4b7b36090c622f', 'f372629f35af5be36012231f8943dbb3', 'fac15f783f9d442e2f97036aa6d3df72', '7fcba9a2ee249cc99be8049a0605d261']",Packing,,8c7cf67f91be0169781d00da5118d6cc,kauft
+,liter,Noun,Food,[],Food,Neuter,d6c625313d2955a1ef5b091fe3b2bbb8,liter
+,tee,Noun,Basics 1,[],Basics-1,Masculine,209e587c7df53af46283720b1067740f,tee
+,morgen,Adverb,Birthday,['37d199df61f4fab028ca7eead71f216c'],Birthday,,cd24c3d0a7bcacef0606e1d9b145a4fe,morgen
+,jung,Adjective,Basics 2,[],Basics-2,,a3a2acecb163f9d5befccdc93b09819b,jung
+,sieben,Numeral,Market,[],Market,,a05ce8c82e7e4337fad0eb76d3f6bb84,sieben
+,plane,Noun,Hobbies 2,[],Hobbies-2,Masculine,0e2ad3577f68c757298aba38979eb5cf,pläne
+,englisch,Noun,Questions,[],Questions,Neuter,67088cf8e6a053dc12eef2cdb9fcbe05,englisch
+,sportlich,Adjective,Habits 2,[],Habits-2,,accf1c1739a56618f05ef2aa09ac9882,sportlich
+,kilometer,Noun,Habits 2,[],Habits-2,Masculine,c7f0d0dbb133e98589a0945783ff4f5c,kilometer
+laufen,laufe,Verb,Habits 2,"['c45121a9bc68518e47a7f0862bc32214', '861c191bb083cb4ecf75def228920dd3', 'c6e924e608299cf9ad7af257cd2b00ba']",Habits-2,,8007e459f4921439b376738e08d11a27,laufe
+,november,Noun,Habits 2,[],Habits-2,Masculine,b8ab7787a30ebbf3f66303ba516ede86,november
+laufen,laufst,Verb,Habits 2,"['8007e459f4921439b376738e08d11a27', 'c45121a9bc68518e47a7f0862bc32214', 'c6e924e608299cf9ad7af257cd2b00ba']",Habits-2,,861c191bb083cb4ecf75def228920dd3,läufst
+,marathon,Noun,Habits 2,[],Habits-2,Masculine,9253be02a6778d3ce423d0ef6db7d0ac,marathon
+schwimmen,schwimme,Verb,Hobbies,"['5b5e596558196de3e4fc1796ee5d47a6', 'ea2751a89977abcd2863105f73dd548a', '0c7382e74dcbebdcd9c9dd4e6fd77a13']",Hobbies,,a3159b96570ab1e1e1e54807144ce972,schwimme
+,sport,Noun,Habits,[],Habits,Masculine,2fdc604a2dec0b9deaf3e11aeb6e6f69,sport
+,hotel,Noun,Directions,[],Directions,Neuter,718cd22017251c074d1a41d8c3933529,hotel
+,heute morgen,,Leisure,[],Leisure,,867130b94fd5c6f6518cb5b1550c36cd,heute morgen
+,mineralwasser,Noun,Restaurant,[],Restaurant,Neuter,fef96a0ed32db1f931cab86876a5d12d,mineralwasser
+frühstücken,fruhstucke,Verb,Leisure,"['4db545046c8ab54c1bd6411e0d654862', '5e151d7533da578b57e5373bdb2a5f52', '65a2db5690560e425423880e0060a17e']",Leisure,,d3326d458f52c33eef6427674aea2abf,frühstücke
+,rechnung,Noun,Restaurant,['69ade0a56b267197d9e56596cc123b1f'],Restaurant,Feminine,6816776ff3b25557a3f486a56ffedab6,rechnung
+,ei,Noun,Restaurant,['de143e49d4635f88f2b9bf1c2a55c54a'],Restaurant,Neuter,7c49fa892f12e06c36375ce918802e2c,ei
+,arztin,Noun,Jobs,[],Jobs,Feminine,bba50d45f00afb3e6cfdb87a45b28372,ärztin
+,urlaub,Noun,Travel 2,['d049c321fc61986dda6e0739305b42f9'],Travel-2,Masculine,52b4b04520701864f40d9159cf47826f,urlaub
+,pommes,Noun,Events,[],Events,,a3436714d33e203176670df222f7351a,pommes
+,beliebt,Adjective,Events,[],Events,,94865187ec46256c273f55d5cfa491c3,beliebt
+,fieber,Noun,Health,[],Health,Neuter,93f4f29764ed540a36f2aab945d10a35,fieber
+,russisch,Noun,Languages,[],Languages,Neuter,19086c794d15a6a965bc302526c0d2ee,russisch
+,balkon,Noun,Hotel,[],Hotel,Masculine,afa8043f75dd6957783ce70c370a8d80,balkon
+,stadt,Noun,Places,[],Places,Feminine,592b95fca700e3057c1c593b5d7dbd3c,stadt
+,schokolade,Noun,Food,[],Food,Feminine,8f69a236ceb75e513e89d4bf652c1102,schokolade
+,spinat,Noun,Food,[],Food,Masculine,880752af7140fcc30e16b82d0ed9ae19,spinat
+bekommen,bekommst,Verb,Food,[],Food,,81f21810ee487b98dd39d36a0cac9a6b,bekommst
+,sauerkraut,Noun,Food,[],Food,Neuter,9af81f04e60db1dd55b6566fd59cb1ca,sauerkraut
+,brezel,Noun,Food,[],Food,Feminine,3e3aea7830db9c893d360dc74e795938,brezel
+,lehrerin,Noun,Jobs,[],Jobs,Feminine,0d26e48151296345934995d85efe448a,lehrerin
+,knodel,Noun,Food,[],Food,Masculine,69c6db90236ed3e702d6f8de8fe12912,knödel
+,mayo,Noun,Food,[],Food,Feminine,5919e58ce71b05cf6055eeb94735b378,mayo
+,currywurst,Noun,Food,[],Food,Feminine,932bf76fac173fcfa11c9b8d0856e098,currywurst
+rauchen,rauchst,Verb,New Job,"['58b8aecc4035cf65b7166f47ece85e37', 'c697972b4e8fba8543e6b5d155abc54e']",New-Job,,04248d760a0309804b5d27ceb685ec2f,rauchst
+,aufzug,Noun,Shopping,[],Shopping,Masculine,ab2783363ac6dc153f890a6d8fa7459e,aufzug
+,freizeit,Noun,Family 3,[],Family-3,Feminine,1925ff91859294e1858500b3a49ddd70,freizeit
+leben,leben,Verb,Questions,"['bbd2e8180f24f6cbb6abe5d51542a1c7', 'ef2af977cdd739cd564c823939be133c', '97835524101a0fb4c27964e2fffd3a62']",Questions,,0b9411ae6857492b07ec49072758d166,leben
+,dorf,Noun,Family 3,[],Family-3,Neuter,563a171da15f6496eccfc45e0a9e5e91,dorf
+,computer,Noun,Family 3,[],Family-3,Masculine,43ad3fb93c08ad06f5012bcfc004d97c,computer
+,ihr,Determiner,Hotel,"['946e2a221c7c91c9b280738c1c6521a9', 'ec1f819e146b31f8d1d3c5dfe4b5031e', 'a732d6874b29e652969729941a91e7a3', 'b0f5cfb71b30a379b468283a7851efb4', '319885bbe0fd73a21d979624d96cb748', '92f12c8ce6506f3ec2428e22eeb3d196', '5aac8b732e3beae17e847734ad19fdb1']",Hotel,Masculine,8da299f8205c5f23f09ca241db7bd3f0,ihr
+,willkommen,Adjective,Hotel,[],Hotel,,c7f714b305e9a17ce7596cfc62b810c5,willkommen
+,sessel,Noun,Hotel,[],Hotel,Masculine,ccc9583dbb2ca05574ad25923f545d76,sessel
+,schlussel,Noun,Hotel,[],Hotel,Masculine,f6ec24a57268ba775627e772842c53b4,schlüssel
+,flughafen,Noun,Hotel,[],Hotel,Masculine,d12fcab291e490edc0e19864bf519d19,flughafen
+,null,Numeral,Market,[],Market,,5308201b01c76039dfdb19d4c0e6abdb,null
+,frankreich,Proper noun,Places,[],Places,Neuter,fc865948b302b49a21fbdc3500069d6c,frankreich
+,flugnummer,Noun,Travel 2,[],Travel-2,Feminine,81cf5b3531a95b4f038200d6464013c6,flugnummer
+,auge,Noun,Family 3,[],Family-3,Neuter,87f5b475bba4b57c874f992a0a99a797,auge
+,marz,Noun,Birthday,[],Birthday,Masculine,3066af31f81ce653a9bc1d84c7d4bf96,märz
+,januar,Noun,Family 3,[],Family-3,Masculine,b01b5a8f3b39a0854783a7d6cfda546e,januar
+,praktikum,Noun,Family 3,[],Family-3,Neuter,7e825bda51fd9fb6770220bb7680fd3b,praktikum
+,wiesn-herz,Noun,Events,[],Events,Neuter,ddd462ae3f2425b51a8d7220afbe12e8,wiesn-herz
+,bis morgen,,Events,[],Events,,4e96af830a95621a6da093517d16b2f2,bis morgen
+,zum oktoberfest,,Events,[],Events,,61f0df15c2a60239eaef1a6ae59b4138,zum oktoberfest
+,dunkel,Adjective,Apartment,[],Apartment,,06ae85b04385f106aa1d932c823efcb7,dunkel
+,jazz,Noun,Hobbies 2,[],Hobbies-2,Masculine,6636db697029d31cfd2d17dfe6ea3608,jazz
+sprechen,sprichst,Verb,Languages,"['77389fc10dd1971471d34c2036184e60', 'b29ae90d223ab56f9bbe3b8c9e917b72', 'f8e8b7e84b5f7543744650825d5415f8']",Languages,,ea1bc226d0ac8bd24dca5831429ec822,sprichst
+,zum arzt,,Health,[],Health,,c33e8242497c06a6fc25f7044b26341d,zum arzt
+,durst,Noun,Health,[],Health,Masculine,63244187e3ac7f824c989344333e024c,durst
+sprechen,spricht,Verb,Languages,"['77389fc10dd1971471d34c2036184e60', 'ea1bc226d0ac8bd24dca5831429ec822', 'b29ae90d223ab56f9bbe3b8c9e917b72']",Languages,,f8e8b7e84b5f7543744650825d5415f8,spricht
+,nussallergie,Noun,Food,[],Food,Feminine,846c09e9ee3489158ccf75c4e79fd85d,nussallergie
+backen,backen,Verb,Food,['6c501bc91931220238b0e724f8f901f3'],Food,,c1478834c6e9207a5b327ca4dc427790,backen
+joggen,joggt,Verb,Leisure,"['1f5037a44d1059345b5b8b78275b8135', 'a6c67fb5a4e8764f0d92546d8609f8cc', 'b8d2d80b82870ceaa1f1b0fcc4e079f4']",Leisure,,cc3a055080578cd1c7b29555bf8786e2,joggt
+,internet,Noun,Hotel,[],Hotel,Neuter,7aecaafb7ae34129f4b8f8b8f1c68c35,internet
+,tur,Noun,Hotel,[],Hotel,Feminine,b2e809ab0d2ca30f2803f968cd41db30,tür
+,fernseher,Noun,Hotel,[],Hotel,Masculine,983b68108266acdf72172ee4da3bb93b,fernseher
+,bis wann,,Plans,[],Plans,,ac93ba5c9000fb0e0983b9dd111ca615,bis wann
+,fitnessstudio,Noun,Hotel,[],Hotel,Neuter,760d9129ccb7e99602877683cb99904d,fitnessstudio
+,arzt,Noun,Jobs,[],Jobs,Masculine,8f8a930c6b44d217de1b98e9a26ea65d,arzt
+,couch,Noun,Apartment,[],Apartment,Feminine,678bca8a4ba89f3406ed950772b1b16c,couch
+,dezember,Noun,Food,[],Food,Masculine,85be0d899096078d8c75dcb5b73d6bba,dezember
+,ausflug,Noun,Hotel,[],Hotel,Masculine,6dddc0337ba3aa085ad097c0dc451507,ausflug
+,bar,Noun,Hotel,['e0265e7196a7752a9698863c6aae892f'],Hotel,Feminine,660e3f3a037aa90bcabac647c735df84,bar
+,sakko,Noun,Shopping,[],Shopping,Neuter,58ebe57375631b0d8400db123be7b398,sakko
+,ein kleid,Noun,Shopping,[],Shopping,Neuter,b0c331fc80113a708b50ffc360025882,ein kleid
+,ein sakko,Noun,Shopping,[],Shopping,Neuter,1b82ff87acad5ba7150882ee444e7ad4,ein sakko
+,ein hemd,Noun,Shopping,[],Shopping,Neuter,f8703d3d6a5314e805535c5f6e0b89dd,ein hemd
+suchen,suchst,Verb,Shopping,['0613c9931230a6de19c2a05239f108cd'],Shopping,,62f822a5215a045dc0f30f4ee6d3fe5a,suchst
+suchen,suchen,Verb,Shopping,['62f822a5215a045dc0f30f4ee6d3fe5a'],Shopping,,0613c9931230a6de19c2a05239f108cd,suchen
+,fluss,Noun,Transport,[],Transport,Masculine,9e9b0db5c9bd24d788df8c3481df6f25,fluss
+,wie,,Weather,['f606586bf378c284c917941c9181cc2e'],Weather,,fc9672b77c0bcf465099e870117061f0,wie
+,sonnencreme,Noun,Weather,[],Weather,Feminine,664410a1fbe065eba59cd62073cae785,sonnencreme
+wandern,wanderst,Verb,Weather,"['ff41b0209e9350a7daec57f2282ca449', '65a1e7ce16b7ec401a108b95521e2ae3', 'ce9ef05093c9cd0d0c227f37c0d92a25']",Weather,,ce33df55777d4b63a72eff87580dfe0d,wanderst
+,tablette,Noun,Health,[],Health,Feminine,ecbe38d7e98031542471131ce6ddd282,tablette
+rauchen,raucht,Verb,New Job,"['04248d760a0309804b5d27ceb685ec2f', 'c697972b4e8fba8543e6b5d155abc54e']",New-Job,,58b8aecc4035cf65b7166f47ece85e37,raucht
+rauchen,rauchen,Verb,New Job,"['04248d760a0309804b5d27ceb685ec2f', '58b8aecc4035cf65b7166f47ece85e37']",New-Job,,c697972b4e8fba8543e6b5d155abc54e,rauchen
+,schreibtisch,Noun,Apartment,[],Apartment,Masculine,d5009f0dd95988e3c3f5baa7f5c28bab,schreibtisch
+,stuhl,Noun,Apartment,['cb39125c407527271be49e5674c669a7'],Apartment,Masculine,badd49d0ae594f769e1cbfdf3c04c4be,stuhl
+,bequem,Adjective,Apartment,[],Apartment,,03533ad269a0b09cf25a62a5c5602c52,bequem
+,klug,Adjective,Family,[],Family,,cc4181dfa4c9c87593cb50d5de15e45d,klug
+,russland,Proper noun,Questions,[],Questions,,5b00d2cb3f72a81324ba53cff6bc903c,russland
+,italienisch,Adjective,Dining Out,[],DiningOut,,03f51ed3c8170b2ca0492706a59ce1b7,italienisch
+,hahnchen,Noun,Habits,[],Habits,Neuter,ce91c2c4d73a61c0d90175f752414198,hähnchen
+,tasse,Noun,Habits,['34ea4d1aca4cbf2172e18b2f1289851c'],Habits,Feminine,595672915750ad3f37ff2425f0635d9c,tasse
+,donnerstag,Noun,Habits,[],Habits,Masculine,00b6d3bed2cee7ecc4a1de463d9bcce0,donnerstag
+,nummer,Noun,Transport,[],Transport,Feminine,4d4436af7c997c2603257cf3c9ede0b1,nummer
+,alles gute,,Transport,[],Transport,,5950247b9d79f756c035371ada139138,alles gute
+warten,warten,Verb,Transport,[],Transport,,5d59a2c4b9421a5a3d6abcd7d1058acd,warten
+,circa,Adverb,Transport,[],Transport,,26000e3de84fc3a7303f50daa5800949,circa
+,joghurt,Noun,Habits,[],Habits,Masculine,c8ca1f8bb88440472e4c89b896c9d61f,joghurt
+,musli,Noun,Habits,[],Habits,Neuter,a54592ff8cff79cce4c9d55994bdd7e5,müsli
+,bis zum hotel,,Transport,[],Transport,,6fc621b2f67d2dd6ae52cc607132dac3,bis zum hotel
+besichtigen,besichtige,Verb,Travel 2,"['68e6e8749d7cb9f2d3fb7658cb2d6521', '4f9f3ccd08e1c42e631576e2ecbe9ae0']",Travel-2,,ed2e93779bbf9db374126a4e8ab0fdae,besichtige
+besuchen,besuchst,Verb,Plans 2,['f092c7f86e7451619b46f74912bf2b44'],Plans-2,,f84da044eef0c04c965c40eb541c3962,besuchst
+,kreditkarte,Noun,Travel,[],Travel,Feminine,3e68039366b0d94dd378cc4db116d085,kreditkarte
+,schauspieler,Noun,Jobs,[],Jobs,Masculine,6c48a6b7fe98b93832954c21f39ce3d0,schauspieler
+,montag,Noun,Shopping,[],Shopping,Masculine,177cafa201df996f7212ca0fd6d517ae,montag
+,kanada,Proper noun,Places,[],Places,,2fbc298030a3759e875ebe126b1f7043,kanada
+,osterreich,Proper noun,Places,[],Places,,7cbefb8bb4288efb10e70f12e75807a3,österreich
+besichtigen,besichtigst,Verb,Travel 2,"['ed2e93779bbf9db374126a4e8ab0fdae', '4f9f3ccd08e1c42e631576e2ecbe9ae0']",Travel-2,,68e6e8749d7cb9f2d3fb7658cb2d6521,besichtigst
+besichtigen,besichtigen,Verb,Travel 2,"['68e6e8749d7cb9f2d3fb7658cb2d6521', 'ed2e93779bbf9db374126a4e8ab0fdae']",Travel-2,,4f9f3ccd08e1c42e631576e2ecbe9ae0,besichtigen
+,madchen,Noun,People,[],People,Neuter,05b5b17cfaded147349f6df410813bb8,mädchen
+,s,Adjective,Shopping,[],Shopping,,b66a88534e55e1497ec62444030bf92f,s
+grillen,grillt,Verb,Plans 2,['a4881004de74042618150ba17dff41ae'],Plans-2,,ce462e93a5c4d8c90c9221155b284f37,grillt
+,bluse,Noun,Shopping,[],Shopping,Feminine,a2f3f328dbe95ed36c432900c48ca318,bluse
+schwimmen,schwimmst,Verb,Hobbies,"['5b5e596558196de3e4fc1796ee5d47a6', 'a3159b96570ab1e1e1e54807144ce972', 'ea2751a89977abcd2863105f73dd548a']",Hobbies,,0c7382e74dcbebdcd9c9dd4e6fd77a13,schwimmst
+joggen,joggst,Verb,Leisure,"['1f5037a44d1059345b5b8b78275b8135', 'a6c67fb5a4e8764f0d92546d8609f8cc', 'cc3a055080578cd1c7b29555bf8786e2']",Leisure,,b8d2d80b82870ceaa1f1b0fcc4e079f4,joggst
+machen,machen,Verb,Health,"['70c956a45c542e1db9e4c78c6ca99051', 'e6bd411053e003fc740382ee53609560', '9b1dc55147861a22541051c15bc4695b', 'bc303f70358e7e7a6a8bffa879f9021c']",Health,,d7b4290eaa4918f65f8e5ce8a612a3df,machen
+,oktober,Noun,Events,[],Events,Masculine,9953c64e40891c422525bb7b5fc47bff,oktober
+,marktplatz,Noun,Market,[],Market,Masculine,6e5948d68a54493f944c4d69a0a21323,marktplatz
+,achtzehnten,Adjective,Events,[],Events,,c1962228046518e6d6deb89c73ac3390,achtzehnten
+,franzosisch,Noun,Languages,[],Languages,Neuter,d6e114c95c23a293448561e217450bac,französisch
+,perfekt,Adverb,Languages,['1d72332fdeb43df8c9e1baca821a7e53'],Languages,,07b81da17251fb21c79ba8bdb7cdb833,perfekt
+,muttersprache,Noun,Languages,[],Languages,Feminine,8b651347d1b1cb9a30b06eaf5b9fedd8,muttersprache
+,polnisch,Noun,Languages,[],Languages,Neuter,6c279206c4307739d27b4b23a86434a5,polnisch
+,l,Adjective,Shopping,[],Shopping,,dd0b466781829241905317ed0ad2160d,l
+,ein,Determiner,Shopping,"['76443cfe0e3f05570e98e35a330dbfff', '6f9902a2e4d1f353aecc47843c9df6e7', '1064e9fdf75eafe86207caa8a36cb594', '743819fb236e8f66b5be133a6259a953', '9fd5e36e3610cccd451acba4d29990ca']",Shopping,Neuter,7f78970589f8a9fe95bca610215c051a,ein
+,grosse,Noun,Shopping,[],Shopping,Feminine,76391b43b04b99ac653e8f473d37e78e,größe
+passen,passt,Verb,Shopping,[],Shopping,,debab7d5d57b70fc4625faee0eadcb16,passt
+,jeans,Noun,Shopping,[],Shopping,,2feb58d95c36eb80408b4bc5553153b3,jeans
+,schwimmbad,Noun,Plans,[],Plans,Neuter,b72976c0330656336628ebfe99a38974,schwimmbad
+,kanadier,Noun,People,[],People,,42e8c1ffb7b7fcf202103031145d837d,kanadier
+,enkel,Noun,Family 3,[],Family-3,Masculine,a6564c711302e06d7eae5b58348281df,enkel
+,enkelin,Noun,Family 3,[],Family-3,Feminine,74985e8cbe7161da712df5bf8643c40f,enkelin
+,tisch,Noun,Apartment,[],Apartment,Masculine,3aa4a5ff3ec7f6b1ceb5ddebfff3acc7,tisch
+,teppich,Noun,Apartment,[],Apartment,Masculine,a978f7c97bb5dce44fff566ae3afc6ef,teppich
+backen,backt,Verb,Food,['c1478834c6e9207a5b327ca4dc427790'],Food,,6c501bc91931220238b0e724f8f901f3,backt
+,keinen hunger,,Dining Out,[],DiningOut,,5970b0d50867fa0fef8f3cad3b7be63d,keinen hunger
+,kein,Determiner,Questions,"['bfcaa62ceb61fdcbfd9fd150f8ae8486', '9cf5f992527b0aefe17624fafd17fd57']",Questions,Neuter,c9002420b3dd1f3ba022ea6fdce08f70,kein
+kochen,koche,Verb,Hobbies,"['b8408e2fc12bf8f1be64f2585bdddc43', 'e0d7f9ce80ee10512d928024c7eb79b8', '976188e6d637a2c014be32fb0541eb9f']",Hobbies,,56709e26ea6528cc3f85af706a4d0803,koche
+,nervos,Adjective,Shopping,[],Shopping,,cedecfa4df53502d3ce1e1fd9e88ece4,nervös
+,kaufhaus,Noun,Shopping,[],Shopping,Neuter,bd6d90f0fa4b6667d7496b87097d4e06,kaufhaus
+joggen,joggen,Verb,Plans,"['a6c67fb5a4e8764f0d92546d8609f8cc', 'cc3a055080578cd1c7b29555bf8786e2', 'b8d2d80b82870ceaa1f1b0fcc4e079f4']",Plans,,1f5037a44d1059345b5b8b78275b8135,joggen
+wohnen,wohnt,Verb,Housing,"['12d6e749f6e92618b074a9cf2f665b3a', 'ec7ff26449d3d3e69a74a0eb04dbbd00']",Housing,,cc22f263cc6118c7feb9d02cef2dde62,wohnt
+wohnen,wohnst,Verb,Housing,"['12d6e749f6e92618b074a9cf2f665b3a', 'cc22f263cc6118c7feb9d02cef2dde62']",Housing,,ec7ff26449d3d3e69a74a0eb04dbbd00,wohnst
+,professorin,Noun,Jobs,[],Jobs,Feminine,5336905f0a00a34de6e7ad05288460ce,professorin
+wohnen,wohnen,Verb,Housing,"['cc22f263cc6118c7feb9d02cef2dde62', 'ec7ff26449d3d3e69a74a0eb04dbbd00']",Housing,,12d6e749f6e92618b074a9cf2f665b3a,wohnen
+,chefin,Noun,Habits,[],Habits,Feminine,f58309cf5e571fb6e614c0c2604b17fa,chefin
+,name,Noun,Health,[],Health,Masculine,ef5f4f9c7262dc2e327832e26ad27e75,name
+,chef,Noun,Habits,[],Habits,Masculine,a1d89ffdbd306c5ebdcb2a0f90035680,chef
+,neunzehnten,Adjective,Events,[],Events,,f9e19e844fc65b80c940b708442a02ab,neunzehnten
+,weissbier,Noun,Events,[],Events,Neuter,24cf3437cdd9e2fd7acbb2d4d5e1e3ff,weißbier
+,gute nacht,,Events,[],Events,,9dbf9fc294ac0d4ee14fcc5023778826,gute nacht
+wollen,wollt,Verb,Hobbies 2,"['c175db9f4a48aa895f1e411a46d8cabe', '5bf379e327e6605ccb476d9f6f30731b']",Hobbies-2,,9eca41f89b644e6b35607d7cf0fb2b32,wollt
+,lust,Noun,Hobbies 2,[],Hobbies-2,Feminine,f44d3cd154dadce506fe76366cac1136,lust
+spielen,spielt,Verb,Hobbies 2,"['4238301d1fdce60abe45f161274ddd2d', '598a41cd84310715e45b6192564592a1', 'c904c9330abc33b734aa16fb774ffc16']",Hobbies-2,,f86cfa0e4690664ea2712d0b14d6b8c2,spielt
+tanzen,tanzt,Verb,Hobbies 2,['abbdf4ef2b6cb936f4f0157fb85323e2'],Hobbies-2,,f03378e5f6b532090a4ca763d36d478e,tanzt
+,vierten,Adjective,Birthday,[],Birthday,,de31301a3c7e5045accc2c3232c8a56e,vierten
+,juli,Noun,Birthday,[],Birthday,Masculine,7fc215e8585b40b4d37587f54a430a65,juli
+,am,Preposition,Birthday,[],Birthday,,344319ab7342232729b629bd9c64e1f3,am
+,zweiten,Adjective,Birthday,[],Birthday,,4b048b059397039111b1240043a2b65d,zweiten
+machen,macht,Verb,Birthday,"['d7b4290eaa4918f65f8e5ce8a612a3df', '70c956a45c542e1db9e4c78c6ca99051', '9b1dc55147861a22541051c15bc4695b', 'bc303f70358e7e7a6a8bffa879f9021c']",Birthday,,e6bd411053e003fc740382ee53609560,macht
+,dritten,Adjective,Birthday,[],Birthday,,7da82b146587d785bfe441f5a74707f0,dritten
+,ihr,Pronoun,Birthday,"['946e2a221c7c91c9b280738c1c6521a9', '8da299f8205c5f23f09ca241db7bd3f0', 'ec1f819e146b31f8d1d3c5dfe4b5031e', 'a732d6874b29e652969729941a91e7a3', 'b0f5cfb71b30a379b468283a7851efb4', '92f12c8ce6506f3ec2428e22eeb3d196', '5aac8b732e3beae17e847734ad19fdb1']",Birthday,,319885bbe0fd73a21d979624d96cb748,ihr
+,april,Noun,Birthday,[],Birthday,Masculine,06353f7c5784243b3b7fc1009b442997,april
+,zehnten,Adjective,Birthday,[],Birthday,,219729a0cdeb0e6c3e6f1328574d7de8,zehnten
+,siebten,Adjective,Birthday,[],Birthday,,50333cb5a69882960167b8a42a38737d,siebten
+,ersten,Adjective,Birthday,[],Birthday,,45df6af5d239286fa79ea59f2263ad49,ersten
+,amerikaner,Noun,People,[],People,Masculine,75cdd8631175518eb3bcdf1d15ac0185,amerikaner
+tanzen,tanzen,Verb,Hobbies 2,['f03378e5f6b532090a4ca763d36d478e'],Hobbies-2,,abbdf4ef2b6cb936f4f0157fb85323e2,tanzen
+hören,hore,Verb,Events,"['7574289d3f4d6705e724c3c13db68df5', 'b150fe266cffdc87fb8558050b4af15a', '4485cb44e481145b666cf0b43c80f377']",Events,,53f31bcf92a8c9e421ded3e192020b12,höre
+schmecken,schmeckt,Verb,Events,[],Events,,7fca2c70fd1698affe5146e6acceb8d5,schmeckt
+hören,horst,Verb,Events,"['7574289d3f4d6705e724c3c13db68df5', '53f31bcf92a8c9e421ded3e192020b12', 'b150fe266cffdc87fb8558050b4af15a']",Events,,4485cb44e481145b666cf0b43c80f377,hörst
+sehen,seht,Verb,Events,"['971f40ea009192f8a2b38914eb6be3b9', 'e23a75193507ed70051a82f39fb7abf1', '6740f2bea63a583e9f92a6b00ff0023c']",Events,,3c5330a584acc0b713fa4cef4302c2b8,seht
+,geradeaus,Adverb,Transport,[],Transport,,1bbebaf9c25d6e33dee4b359e3e45fa8,geradeaus
+,kunstmuseum,Noun,Transport,[],Transport,Neuter,1459d98570725b83d9bb623b9aefca72,kunstmuseum
+,links,Adverb,Transport,[],Transport,,c2e745d4bcd41146cee5613533373d08,links
+,das,,Transport,['84920990d78044db53c1b012f5bf9ab5'],Transport,Neuter,cf4f0523c89ee6ed200820fe6e233736,das
+,rechts,Adverb,Transport,[],Transport,,b92e235bec9257e0f17d6152027afae2,rechts
+,taxifahrt,Noun,Transport,[],Transport,Feminine,6ef47276e05d191334e8e63cd9f70bbb,taxifahrt
+wiederholen,wiederholen,Verb,Transport,[],Transport,,a42a5a3dd6a24762124f4b0123587f8f,wiederholen
+,bushaltestelle,Noun,Transport,[],Transport,Feminine,e5c82ed4eedaf129d6e8e4cb7d1465a5,bushaltestelle
+,fantastisch,Adjective,Apartment,[],Apartment,,ea3f62575543bcdeffac51eabc65aa9c,fantastisch
+,gern geschehen,,Market,[],Market,,cf2eed2b41b8d4382ea2c69eeefee5f3,gern geschehen
+,gut,Adjective,Hobbies,['44b3e33db46246e654561be3671af96f'],Hobbies,,13609b3e84ffba91efaaf562c81a1106,gut
+kochen,kochst,Verb,Hobbies,"['b8408e2fc12bf8f1be64f2585bdddc43', '56709e26ea6528cc3f85af706a4d0803', '976188e6d637a2c014be32fb0541eb9f']",Hobbies,,e0d7f9ce80ee10512d928024c7eb79b8,kochst
+malen,male,Verb,Hobbies,"['c972457bda857bef8aac3faf1975083e', '648da31466ccd4021b963f8b045c8cfa', '2452dcb3afba3682248b6c78a4da6317']",Hobbies,,a5d538f6e944444179ff0457a2fb4c66,male
+,schwedisch,Noun,Languages,[],Languages,Neuter,0d04ed6b38666b2f8e77f3b890c8e09e,schwedisch
+campen,campen,Verb,Hobbies 2,[],Hobbies-2,,2cab339912b6196527f30b236dfed6ee,campen
+campe,campe,Verb,Hobbies 2,[],Hobbies-2,,c2b9f30ca4851ec38d084aee30c5dac9,campe
+,getrennt,Adverb,Dining Out,[],DiningOut,,745fe68d9326e430ef820c94e98ccd01,getrennt
+singen,singe,Verb,Leisure,"['e58e864dc57f16b10e6381bc4a12086d', '6a1aea4d65fb699124cb0bc22f18871b']",Leisure,,8866a01b0fdf8fd98d7bd9e684570f17,singe
+singen,singst,Verb,Leisure,"['8866a01b0fdf8fd98d7bd9e684570f17', '6a1aea4d65fb699124cb0bc22f18871b']",Leisure,,e58e864dc57f16b10e6381bc4a12086d,singst
+frühstücken,fruhstuckt,Verb,Leisure,"['5e151d7533da578b57e5373bdb2a5f52', 'd3326d458f52c33eef6427674aea2abf', '65a2db5690560e425423880e0060a17e']",Leisure,,4db545046c8ab54c1bd6411e0d654862,frühstückt
+frühstücken,fruhstuckst,Verb,Leisure,"['4db545046c8ab54c1bd6411e0d654862', 'd3326d458f52c33eef6427674aea2abf', '65a2db5690560e425423880e0060a17e']",Leisure,,5e151d7533da578b57e5373bdb2a5f52,frühstückst
+joggen,jogge,Verb,Leisure,"['1f5037a44d1059345b5b8b78275b8135', 'cc3a055080578cd1c7b29555bf8786e2', 'b8d2d80b82870ceaa1f1b0fcc4e079f4']",Leisure,,a6c67fb5a4e8764f0d92546d8609f8cc,jogge
+surfen,surfe,Verb,Leisure,"['128413a2d5b35c06a55d63ced94fd8a8', 'ddc54d769de4ddb77b4a906f5a56a8e7']",Leisure,,1da376c41ddae2cb259320ab6896dd84,surfe
+surfen,surfst,Verb,Leisure,"['1da376c41ddae2cb259320ab6896dd84', 'ddc54d769de4ddb77b4a906f5a56a8e7']",Leisure,,128413a2d5b35c06a55d63ced94fd8a8,surfst
+surfen,surft,Verb,Leisure,"['1da376c41ddae2cb259320ab6896dd84', '128413a2d5b35c06a55d63ced94fd8a8']",Leisure,,ddc54d769de4ddb77b4a906f5a56a8e7,surft
+,schauspielerin,Noun,Jobs,[],Jobs,Feminine,3d95ca00119b12a9b4aa2434feb9c5eb,schauspielerin
+,beruf,Noun,Jobs,[],Jobs,Masculine,4ab0f23e0484ca3e07c34e7ad208b818,beruf
+,kellnerin,Noun,Jobs,[],Jobs,Feminine,ef50466def35e456095b0a99969077ee,kellnerin
+,professor,Noun,Jobs,[],Jobs,Masculine,2c9be8c4c2c7a0ef1c4e3bbbcce7d225,professor
+fallen,fallt,Verb,Travel,[],Travel,,66424abb6dd287708a3e2af753853405,fällt
+,halb,Adjective,Travel,[],Travel,,70596c43cd0498c82445f1c0cfb77320,halb
+,station,Noun,Travel,[],Travel,Feminine,679ac3693682a994979aec85f23dffb4,station
+,zugtur,Noun,Travel,[],Travel,Feminine,ae2bf429178a17a98a7ecbfb170a8138,zugtür
+,speisewagen,Noun,Travel,[],Travel,Masculine,7c3f056f120e5fc2f388f04aee671fee,speisewagen
+,hin- und ruckfahrt,Noun,Travel,[],Travel,Feminine,a635d1a212d293e12be88b61befe0e27,hin- und rückfahrt
+,aus,,Travel,['02f29045c453dca38ae3ddf483bb6309'],Travel,,eb1b217628e3d1b1a21184a198c259cb,aus
+,abfahrt,Noun,Travel,[],Travel,Feminine,f3eed17afcc77c5bf96d04ee8176f2e5,abfahrt
+,achtung,,Travel,[],Travel,,1d799c806452e4e19a7c793954dc4231,achtung
+,verspatung,Noun,Travel,[],Travel,Feminine,4f40ec740ce0f17b8039f1b5f0637ca5,verspätung
+,kanadierin,Noun,People,[],People,Feminine,d0e13e9cb66727fb9977a607d5ca5753,kanadierin
+arbeiten,arbeitest,Verb,People,"['8b04de044faaa29b15fe65003c2d5a6c', '74e6acd80e402a94e9728738d89b29ac']",People,,d126ce29865b1d87c002a89c80ad134b,arbeitest
+,amerikanerin,Noun,People,[],People,Feminine,d72258516ed5f2826c54d7f0321082dd,amerikanerin
+,achtzehn,Numeral,People,[],People,,ddca6b7e6c0618e9cc4f05f92d2857f7,achtzehn
+,neunzehn,Numeral,People,[],People,,874826407eada5018232bca4116992e3,neunzehn
+sein,seid,Verb,People,"['ab6750aee2f31d980e3b5f9f9ecea02b', 'ea162697009a9c78b38033a3fc8eb40f', '9aac75af6c4763cfe75d16b87cc10604', '57e8aed4c315b289686064c402adcbc9', '6b1c28621e623451322c32fc2aa7459d', '4fdaa498ad844fc4c7adf7ddac542751', '2ac4ffe95f75b15d1d99aeebbb8321c7', '713d30d6c7922e90eefdb989d4d9ad56', '0b59f6cdecb914ed8e713bbbab6a7924', '71f5612281d1ecd419cfbe7ae49aaed3', '7b563f860cd0b0f43adf0a79e0188bcb']",People,,df0b0165dae55e3bd922a746d9072e9d,seid
+,deutsche,Noun,People,[],People,,c40ac0ff61f8bc00e544d06cad68fd4e,deutsche
+,einfach,Adjective,Languages,[],Languages,,b37e8fdbe168dc741370eb4e08f06df1,einfach
+,mitbewohner,Noun,Apartment,[],Apartment,Masculine,27a028bd595d77d1836934dfe330c692,mitbewohner
+,nicht,Adverb,Apartment,[],Apartment,,77f0f71fd5abd26e6067e0d6dd46dd9f,nicht
+,bar,Adverb,Dining Out,['660e3f3a037aa90bcabac647c735df84'],DiningOut,,e0265e7196a7752a9698863c6aae892f,bar
+,funfundzwanzig,Numeral,Dining Out,[],DiningOut,,a9f032a4016eb809956db53d52145810,fünfundzwanzig
+feiern,feiere,Verb,Birthday,"['01fe22aabba9a9c3ca6d4438f52ecdf3', '5e60d8aec313451bdbce81b58d35bc7f']",Birthday,,1719e3cf8e5d57e35b1c7d360095376b,feiere
+feiern,feiern,Verb,Birthday,"['01fe22aabba9a9c3ca6d4438f52ecdf3', '1719e3cf8e5d57e35b1c7d360095376b']",Birthday,,5e60d8aec313451bdbce81b58d35bc7f,feiern
+machen,mache,Verb,Birthday,"['d7b4290eaa4918f65f8e5ce8a612a3df', '70c956a45c542e1db9e4c78c6ca99051', 'e6bd411053e003fc740382ee53609560', '9b1dc55147861a22541051c15bc4695b']",Birthday,,bc303f70358e7e7a6a8bffa879f9021c,mache
+,aufregend,Adjective,Places,[],Places,,a9590f55de75cfdaa37f825809d78183,aufregend
+,das geht,,Plans,[],Plans,,a31257f3ff22839db161222ff5d4ee6b,das geht
+,u-bahnstation,Noun,Directions,[],Directions,Feminine,fa73616d8fcf26cf17771b976460d065,u-bahnstation
+,wie geht's,,Greetings,[],Greetings,,4dcaf932ecfa34a2e6d45bf5cedf8ec5,wie geht's
+,es geht,,Greetings,[],Greetings,,d34f94e8f2a54ba116786a6d0728717b,es geht
+,bis spater,,Greetings,[],Greetings,,e2d1e9edc67bdb1ff219c5ac39a33477,bis später
+trinken,trinkt,Verb,Dining Out,"['1bf6ad9957facdc1d93f22b227f06757', 'da2936610224441b32b627714dedc2d6', '57457e31abab4aef08489362a8ac1130']",DiningOut,,306560d6f47275980bdfc69f8f338552,trinkt
+trinken,trinke,Verb,Dining Out,"['1bf6ad9957facdc1d93f22b227f06757', 'da2936610224441b32b627714dedc2d6', '306560d6f47275980bdfc69f8f338552']",DiningOut,,57457e31abab4aef08489362a8ac1130,trinke
+,guten abend,,Greetings,[],Greetings,,8b80ab6b3a57cc385d5b5cc96282cf03,guten abend
+zahlen,zahlen,Verb,Travel,"['897f7ed1011cd95c3ea93081dafb2bd5', '81e0487f1f43df1302fa1d15a38dfc30']",Travel,,b1bc3d86463a87fd6faa80907e4fee74,zahlen
+zahlen,zahlst,Verb,Travel,"['897f7ed1011cd95c3ea93081dafb2bd5', 'b1bc3d86463a87fd6faa80907e4fee74']",Travel,,81e0487f1f43df1302fa1d15a38dfc30,zahlst
+spielen,spielen,Verb,Plans,"['598a41cd84310715e45b6192564592a1', 'f86cfa0e4690664ea2712d0b14d6b8c2', 'c904c9330abc33b734aa16fb774ffc16']",Plans,,4238301d1fdce60abe45f161274ddd2d,spielen
+wandern,wandern,Verb,Plans,"['65a1e7ce16b7ec401a108b95521e2ae3', 'ce33df55777d4b63a72eff87580dfe0d', 'ce9ef05093c9cd0d0c227f37c0d92a25']",Plans,,ff41b0209e9350a7daec57f2282ca449,wandern
+brauchen,brauchst,Verb,Apartment,['186e585f3527862c2e4c1fd5516d8d88'],Apartment,,78f501d1d636cb6299fca17ad7101e99,brauchst
+,woher,Adverb,Places,[],Places,,6c31b99f86516766c66da23491625f4c,woher
+,amerika,Proper noun,Places,[],Places,Neuter,f162fbdb5c6ab9672b02a3ea784595fa,amerika
+,kilo,Noun,Market,[],Market,Neuter,45c5fa54b633e96bd0df6b86fa1cd7ed,kilo
+,elegant,Adjective,Directions,[],Directions,,64bb4c779abbff56c039fc37370a308b,elegant
+,taxistand,Noun,Directions,['d78b4ccc6cb50a8ec05fb1a4436c55a1'],Directions,Masculine,1b188b24940d3a80f617f16400fdf622,taxistand
+,bis bald,,Greetings,[],Greetings,,e19be84398a0ac57196e13f12826731f,bis bald
+,schweden,Proper noun,Questions,[],Questions,,14a6a60beb05c5d4f21a01338fc0a14a,schweden
+fotografieren,fotografiere,Verb,Leisure,['87d2568a8a868dbbbab2cf37b32210dc'],Leisure,,a1d1fd8b77e30ce8d6a63d2bdec13d7b,fotografiere
+fotografieren,fotografiert,Verb,Leisure,['a1d1fd8b77e30ce8d6a63d2bdec13d7b'],Leisure,,87d2568a8a868dbbbab2cf37b32210dc,fotografiert
+,wunderbar,Adjective,Places,[],Places,,17ae61d892e74a25669ef28de6d660f7,wunderbar
+,wie ist es,,Places,[],Places,,aea8b99953e74f0796a9c4285dfb3cf5,wie ist es
+heißen,heissen,Verb,Questions,"['49273c30db96b8eb2a20f429c0690976', '92771583a54136b825153673556f1659']",Questions,,80525e4d4d1127c8391a9fdd0e42fb6b,heißen
+leben,lebst,Verb,Questions,"['bbd2e8180f24f6cbb6abe5d51542a1c7', '0b9411ae6857492b07ec49072758d166', '97835524101a0fb4c27964e2fffd3a62']",Questions,,ef2af977cdd739cd564c823939be133c,lebst
+,freut mich,,Questions,[],Questions,,f6ff76c4ec108c0a1d9748c77fd39ce5,freut mich
+,anwaltin,Noun,Questions,[],Questions,Feminine,183ef51ab1f235fd640e191e2abb501d,anwältin
+heißen,heisse,Verb,Questions,"['80525e4d4d1127c8391a9fdd0e42fb6b', '49273c30db96b8eb2a20f429c0690976']",Questions,,92771583a54136b825153673556f1659,heiße
+leben,lebe,Verb,Questions,"['bbd2e8180f24f6cbb6abe5d51542a1c7', 'ef2af977cdd739cd564c823939be133c', '0b9411ae6857492b07ec49072758d166']",Questions,,97835524101a0fb4c27964e2fffd3a62,lebe
+,geldautomat,Noun,Directions,[],Directions,Masculine,7a19bb7931d254bc021329ba2d38b238,geldautomat
+,bahnhof,Noun,Directions,[],Directions,Masculine,e86d44a75114b2e2166332e20e7760ed,bahnhof
+,kunstler,Noun,Questions,[],Questions,Masculine,e9d27c6c9be1ec208449bcf2a3df7014,künstler
+,polizist,Noun,Questions,[],Questions,Masculine,f8601f3e1422ba493c9e63c90ed6ffea,polizist
+,polizistin,Noun,Questions,[],Questions,Feminine,9d39308ca8a981f647901537df1d3d36,polizistin
+,schuler,Noun,Questions,[],Questions,Masculine,1cb594537481165a796d4cf05888a72d,schüler
+,kanzler,Noun,Questions,[],Questions,Masculine,0dbbfc908f2ef86b6d9ee1274842d343,kanzler
+,kanzlerin,Noun,Questions,[],Questions,Feminine,1738922087b6c7a94fee7f7bb266bf8b,kanzlerin
